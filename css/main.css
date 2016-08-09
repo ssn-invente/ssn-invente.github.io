@@ -215,7 +215,52 @@ html,body
   text-indent: -9999px;
 }
 
+.cloud{
+    background: url("../img/cloud.png") no-repeat;
+    position: absolute;
+}
 
+.cloud-big{
+    background-size: 250px 150px;
+    width: 250px;
+    height: 150px;
+}
+
+.cloud-med{
+    background-size: 200px 100px;
+    width: 200px;
+    height: 100px;
+}
+
+.cloud > a{
+    color: #ff9800;
+    text-decoration: none;
+    text-align: center;
+    font-size: 22px;
+    font-variant: small-caps;
+    margin-top: 30px;
+}
+
+.cloud-big p{padding-top: 60px; height: 150px;}
+.cloud-med p{padding-top: 35px; height: 100px;}
+
+.cloud-1{left: 40px; top: 30px;}
+.cloud-2{right: 60px; top: 60px;}
+.cloud-3{left: 75px; top: 250px;}
+.cloud-4{right : 60px; top: 300px;}
+
+.cloud-small{
+    background: url("../img/cloud-2.png") no-repeat;
+    position: absolute;
+    background-size: 60px 40px;
+    width: 60px;
+    height: 40px;
+}
+.cl-1{left: 200px;top: 20px;}
+.cl-2{right: 300px;top: 200px;}
+.cl-3{left: 300px;top: 250px;}
+.cl-4{right: 20px;top: 400px;}
+.cl-5{right: 400px;top: 60px;}
 
 
 
