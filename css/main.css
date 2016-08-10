@@ -264,8 +264,33 @@ html,body
 #cl-5{right: 400px;top: 30px;}
 
 
+/* media queries for top section */
+@media only screen and (max-width: 1000px){
+    .depth-100{background-size: 400px 80px; height:80px;}
+    .depth-90{height:70px; background-size: 400px 70px; background-position-x: 100px;}
+    .bush-base {height:40px;}
+    #ssn{background-size: 250px 70px; width: 250px; height: 70px; padding-bottom: 80px;}
+    #gate{background-size: 500px 230px; width: 500px; height: 230px; padding-bottom: 240px;}
+    #sun{background-size: 600px 300px; width: 600px; height: 300px;}
+    #logo{background-size: 300px 110px; width: 300px; height: 110px;}
 
+    .cloud-big{background-size: 170px 100px; width: 170px; height: 100px;}
+    .cloud-med{background-size: 120px 60px; width: 120px; height: 60px;} 
+    .cloud-big p{padding-top: 30px; height: 100px;}
+    .cloud-med p{padding-top: 15px; height: 60px;}
 
+    .cloud-1{left: 20px; top: 120px;}
+    .cloud-2{right: 30px; top: 150px;}
+    .cloud-3{left: 50px; top: 250px;}
+    .cloud-4{right : 60px; top: 350px;}
+
+    .cloud-small{background-size: 40px 30px; width: 40px; height: 30px;}
+    #cl-1{left: 70px;top: 20px;}
+    #cl-2{right: 200px;top: 200px;}
+    #cl-3{left: 200px;top: 250px;}
+    #cl-4{right: 20px;top: 350px;}
+    #cl-5{right: 100px;top: 30px;}
+}
 
 
 
