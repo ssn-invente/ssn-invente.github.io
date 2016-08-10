@@ -112,7 +112,8 @@ html,body
     background: linear-gradient(to bottom, #2ca8e1, #4dd0e1); 
     /*position: absolute;
     display: table;*/
-    min-height: 460px;
+    min-height: 480px;
+    max-height: 700px;
     width:100%;
     height:600px;
     left: 0;
@@ -165,7 +166,7 @@ html,body
     left: 0;
 }
 
-.ssn{
+#ssn{
     background: url("../img/ssn.png") no-repeat;
     background-size: 400px 120px;
     position: absolute;
@@ -176,7 +177,7 @@ html,body
 
 }
 
-.gate{
+#gate{
     background: url("../img/gate.png") no-repeat;
     background-size: 650px 360px;
     position: absolute;
@@ -186,7 +187,7 @@ html,body
     height: 360px; 
 }
 
-.sun{
+#sun{
     background: url("../img/sun.png") no-repeat;
     background-size: 900px 400px;
     position: absolute;
@@ -196,7 +197,7 @@ html,body
     height: 400px; 
 }
 
-.logo{
+#logo{
     background: url("../img/logo.png") no-repeat;
     background-size: 430px 160px;
     position: absolute;
@@ -206,12 +207,12 @@ html,body
     height: 160px; 
 }
 
-.logo p{
+#logo p{
   margin: 0;
   height: 160px;
 }
 
-.logo > a{
+#logo > a{
   text-indent: -9999px;
 }
 
@@ -256,11 +257,11 @@ html,body
     width: 60px;
     height: 40px;
 }
-.cl-1{left: 200px;top: 20px;}
-.cl-2{right: 300px;top: 200px;}
-.cl-3{left: 300px;top: 250px;}
-.cl-4{right: 20px;top: 400px;}
-.cl-5{right: 400px;top: 60px;}
+#cl-1{left: 200px;top: 20px;}
+#cl-2{right: 300px;top: 200px;}
+#cl-3{left: 300px;top: 250px;}
+#cl-4{right: 20px;top: 350px;}
+#cl-5{right: 400px;top: 60px;}
 
 
 
