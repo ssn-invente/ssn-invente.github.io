@@ -102,6 +102,7 @@ html,body
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
+    font-family: 'Titilium Web', sans-serif;
 }
 
 .screen-1{
@@ -235,6 +236,7 @@ html,body
 
 .cloud > a{
     color: #ff9800;
+    font-family: 'Titillium Web', sans-serif;
     text-decoration: none;
     text-align: center;
     font-size: 22px;
@@ -292,9 +294,68 @@ html,body
     #cl-5{right: 100px;top: 30px;}
 }
 
+.screen-2{
+    padding-top: 30px;
+    padding-bottom : 30px;
+    background: #ff9800;
+    background: -webkit-linear-gradient(top, #ee6e00, #ff9800);
+    background: -o-linear-gradient(bottom, #ee6e00, #ff9800);
+    background: -moz-linear-gradient(bottom, #ee6e00, #ff9800); 
+    background: linear-gradient(to bottom, #ee6e00, #ff9800); 
+}
 
+.title-block{
+    width: 40%;
+    border-bottom: 1px solid #fefefe;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+}
 
+.title-block h1{
+    color: #fefefe;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 200; 
+}
 
+.title-block:after{
+    content: ' ';
+    width: 0; 
+    height: 0; 
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #fefefe;
+    position: absolute;
+    margin-left : -20px;
+    left: 50%;
+}
+
+.left-bulb, .right-bulb{
+    background: url('../img/bulb.png') no-repeat;
+    height: 500px;
+}
+
+.right-bulb{
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+}
+
+.about-wrap{
+    color: #fefefe;
+    margin-top: 80px;
+}
+
+.about-wrap > p{
+    font-size: 20px;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 200; 
+    line-height: 1.5;
+    text-align: justify;
+}
 
 
 
