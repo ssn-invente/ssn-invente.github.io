@@ -265,6 +265,15 @@ html,body
 #cl-4{right: 20px;top: 350px;}
 #cl-5{right: 400px;top: 30px;}
 
+.plane{
+    background: url("../img/plane.png") no-repeat;
+    position: absolute;
+    background-size: 300px 62px;
+    width: 300px;
+    height: 62px;
+    left: 75px;
+    top: 330px;
+}
 
 /* media queries for top section */
 @media only screen and (max-width: 1000px){
@@ -287,11 +296,13 @@ html,body
     .cloud-4{right : 60px; top: 350px;}
 
     .cloud-small{background-size: 40px 30px; width: 40px; height: 30px;}
-    #cl-1{left: 70px;top: 20px;}
+    #cl-1{left: 70px;top: 20px; display: none;}
     #cl-2{right: 200px;top: 200px;}
     #cl-3{left: 200px;top: 250px;}
     #cl-4{right: 20px;top: 350px;}
     #cl-5{right: 100px;top: 30px;}
+
+    .plane{left: 10px; top: 250px;}
 }
 
 .screen-2{
@@ -357,9 +368,136 @@ html,body
     text-align: justify;
 }
 
+.screen-4{
+    position: relative;
+    padding-bottom: 50px;
+    background: #E65100;
+    background: -webkit-linear-gradient(top, #d83f00, #E65100);
+    background: -o-linear-gradient(bottom, #d83f00, #E65100);
+    background: -moz-linear-gradient(bottom, #d83f00, #E65100); 
+    background: linear-gradient(to bottom, #d83f00, #E65100); 
+}
+
+.pipe{
+    width: 100%;
+    background: url("../img/pipe.png") repeat-x;
+    background-size: contain;
+    background-position-x: 200px;
+    height: 150px;
+    position: absolute;
+    top: -20px;
+}
 
 
+/*.hexagon {
+  position: relative;
+  width: 300px; 
+  height: 173.21px;
+  background-color: #fbc02d;
+  margin: 86.60px auto;
+  -webkit-box-shadow: 8px 0px 40px #333;
+  -moz-box-shadow:    8px 0px 40px #333;
+  box-shadow:         8px 0px 40px #333; 
 
+}
+
+.hexagon:before,
+.hexagon:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  border-left: 150px solid transparent;
+  border-right: 150px solid transparent;
+  left: 0;
+}
+
+.hexagon:before {
+  bottom: 100%;
+  border-bottom: 86.60px solid #fbc02d;
+}
+
+.hexagon:after {
+  top: 100%;
+  border-top: 86.60px solid #fbc02d;
+}*/
+
+.bulb-row{margin: 120px 0;}
+.circle-logo {margin: 0 auto; position: relative;}
+
+.six{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+    font-variant: small-caps;
+    color: #fefefe;
+    position: absolute;
+    border: 2px solid #fefefe;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+    border-radius: 100px;
+}
+
+.six-1{right:370px; top:-130px;}
+.six-2{right:450px; top:50px;}
+.six-3{right:370px; top:230px;}
+.six-4{left:370px; top:-130px;}
+.six-5{left:450px; top:50px;}
+.six-6{left:370px; top:230px;}
+
+@media only screen and (max-width: 1200px){
+    .bulb-row{margin: 100px 0;}
+    .six{font-size: 16px;width: 150px;}
+
+    .six-1{right:270px; top:-100px;}
+    .six-2{right:350px; top:50px;}
+    .six-3{right:270px; top:230px;}
+    .six-4{left:270px; top:-100px;}
+    .six-5{left:350px; top:50px;}
+    .six-6{left:270px; top:230px;}
+}
+
+@media only screen and (max-width: 780px){
+    .bulb-row{margin: 80px 0;}
+    .six{font-size: 14px;width: 150px;}
+
+    .six-1{right:150px; top:-100px;}
+    .six-2{right:250px; top:50px;}
+    .six-3{right:150px; top:230px;}
+    .six-4{left:150px; top:-100px;}
+    .six-5{left:250px; top:50px;}
+    .six-6{left:150px; top:230px;}
+}
+
+@media only screen and (max-width: 594px){
+    .bulb-row{margin: 30px 0 100px;}
+    .six{font-size: 12px; width:100px;}
+
+    .six-1{right:100px; top:-80px;}
+    .six-2{right:200px; top:20px;}
+    .six-3{right:100px; top:140px;}
+    .six-4{left:100px; top:-80px;}
+    .six-5{left:200px; top:20px;}
+    .six-6{left:100px; top:140px;}
+}
+
+@media only screen and (max-width: 450px){
+    .six-1{right:90px; top:-80px;}
+    .six-2{right:140px; top:20px;}
+    .six-3{right:90px; top:100px;}
+    .six-4{left:90px; top:-80px;}
+    .six-5{left:140px; top:20px;}
+    .six-6{left:90px; top:100px;}
+}
+
+@media only screen and (max-width: 340px){
+    .six{width:90px;}
+    .six-1{right:70px; top:-70px;}
+    .six-2{right:90px; top:0px;}
+    .six-3{right:70px; top:80px;}
+    .six-4{left:70px; top:-70px;}
+    .six-5{left:90px; top:0px;}
+    .six-6{left:70px; top:80px;}
+}
 
 /* ==========================================================================
    Helper classes
@@ -529,4 +667,188 @@ html,body
     h3 {
         page-break-after: avoid;
     }
+}
+
+
+
+/***********************************************************************************************
+                        STYLING : MUTHU ANNAMALAI
+*************************************************************************************************/
+
+
+.screen-3 {
+  background: -webkit-linear-gradient(#ee5800, #f57c00) no-repeat;
+  background: -moz-linear-gradient(#ee5800, #f57c00) no-repeat;
+  background: linear-gradient(#ee5800, #f57c00) no-repeat;
+  color: #fefefe;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.screen-4 {
+  background: -webkit-linear-gradient(#d83f00, #E65100) no-repeat;
+  background: -moz-linear-gradient(#d83f00, #E65100) no-repeat;
+  background: linear-gradient(#d83f00, #E65100) no-repeat;
+  color: #fefefe;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.screen-5 {
+  background: -webkit-linear-gradient(#c32b00, #D84315) no-repeat;
+  background: -moz-linear-gradient(#c32b00,  #D84315) no-repeat;
+  background: linear-gradient(#c32b00,  #D84315) no-repeat;
+  color: #fefefe;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.screen-5 a{text-decoration: none; color: #fefefe;}
+
+.screen-6{
+    background-color:  #455a64;
+}
+
+.bq {
+  text-align: center;
+  border: 2px solid #fefefe;
+  border-radius: 10px;
+  width: 60%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 20%;
+  padding: 20px 10px;
+}
+
+.bq:hover {
+  background: #fefefe;
+}
+
+.bq>h1{
+  font-weight: bold;
+  font-size: 3.5em;
+  text-transform: uppercase;
+}
+
+.bq:hover>h1 {
+  background: -webkit-linear-gradient(#d83f00, #E65100);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
+
+
+.screen-3 h1 {
+  font-size: 3em;
+  margin-top: -100px;
+  color: #fefefe;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 200;
+}
+
+.mu-row {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.mu-row a {
+  text-decoration: none;
+}
+
+.card {
+  overflow-y: hidden;
+  width: 220px;
+  height: 280px;
+  padding: 15px;
+  margin: 0 auto 15px;
+  background-color:#fefefe;
+  border-radius: 23px;
+  background: linear-gradient(to bottom,  #fbc02d 0%,#fbc02d 80%,#fefefe 80%,#fefefe 100%);
+}
+
+.card:hover {
+  box-shadow: 0 4px 15px 1px #d83f00;
+}
+
+
+.card p {
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 2em;
+  color: #424242;
+  margin-top: 18px;
+}
+
+.circ {
+  margin-top: 10px;
+  margin-left: 5%;
+  width: 90%;
+  height: 180px;
+  border-radius: 50%;
+  color: #424242;
+  padding-top: 23px;
+  padding-left: auto;
+  text-align: center;
+  background-color: #fefefe;
+}
+
+.circ p{
+  font-size: 6em;
+  margin:auto;
+}
+
+.Phead{
+   width: 40%;
+   height: 1px;
+   background: #fefefe;
+   position: relative;
+ }
+
+.Phead:after {
+    content: "";
+    width:0px;
+    height:0px;
+    border-left:12px solid transparent;
+    border-right:12px solid transparent;
+    border-top:12px solid #fefefe;
+    position:absolute;
+    bottom:-12px;
+    left: 50%;
+    margin-left: -12px;
+}
+
+
+.brick {
+  width: 100%;
+  height: 150px;
+  background: url('../img/bricks.png') repeat-x;
+  background-size: contain;
+  background-position-x: 200px;
+}
+
+
+.grunge-1{
+  width: 100%;
+  height: 100px;
+  background: url('../img/grunge.png') repeat-x;
+  background-size: contain;
+
+}
+
+.grunge-2{
+  width: 100%;
+  height: 100px;
+  background: url('../img/grunge-2.png') repeat-x;
+  background-size: contain;
+}
+
+@media (max-width: 594px) {
+.col-xxs-12 {
+
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: center;
+    width: 100%;
+
+  }
 }
