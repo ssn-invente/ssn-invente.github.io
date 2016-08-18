@@ -1,0 +1,48 @@
+
+#header-nav {
+  background-color: #000000;
+  border-radius: 0;
+  border: 0;
+  height: auto;
+  padding-top: 0px;
+}
+
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#nav-list a {
+  color: #aaaaaa;
+  text-align: center;
+}
+#nav-list a:hover {
+  color: #fefefe;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#nav-list .active {
+  border-left: 2px solid transparent;
+  border-right: 2px solid transparent;
+  border-top: 2px solid transparent;
+  border-bottom: 2px solid #fefefe;
+  color: #fefefe;
+}
+
+#nav-list a.act {
+  color: #fefefe;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  background-color: transparent;
+}
+
+.imlog {
+  margin-top: -12px;
+}

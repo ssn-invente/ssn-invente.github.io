@@ -1,0 +1,176 @@
+[
+{
+	"title" : "Paper Presentation",
+	"description" : "Do you consider yourself thorough in your field of interest? Do you wish to flaunt it? if yes, this platform is for you. Come present a paper if your expertise aligns with any of the following domains, stand proud as you shoot down the volley of queries afterwards. Following are the topics available for paper presentation.<br><ol><li>Sustainable Energy</li><li>Environment and Pollution control</li><li>Solid waste management</li><li>Waste water treatment</li><li>Nanotechnology</li><li>Computational Modelling and Simulation</li><li>Material Science</li><li>Bioprocess Engineering</li></ol>",
+	"rules" : 
+	[
+		"<strong>RULES AND REGULATIONS:</strong>",
+		"Maximum of 3 participants are allowed per presentation.",
+		"Abstracts should not exceed 200 words.",
+		"Judges’ decision is final and binding.",
+		"Send your abstracts to :",
+		"The file name should be the title of your paper.",
+		"The subject of the mail should be 'PAPER PRESENTATION – (PARTICIPANTS NAMES)'",
+		"Last day for submission of abstracts :"
+	],
+	"venue" : "Chemical Department Lecture Halls",
+	"timings" :
+	[
+		"9th September 2016 from 1 PM to 10th September 2016 03:30 PM"
+	],
+	"heads" :
+	[
+		{
+			"name" : "M Sharmada",
+			"contacts" : [ "9677000740"	]
+		},
+		{
+			"name" : "S Keerthana",
+			"contacts" : [ "8220064443" ]
+		}
+	]
+},
+{
+	"title" : "Pin It Up!",
+	"description" : "If you are the kind of person who can’t do slides, this is for you. Turn your paper into a colourful and illustrative poster adhering to the guidelines. Give a brief explanation about the content to our judges and stand a chance to win exciting prizes!<br><strong>TOPICS FOR POSTER</strong><br><ol><li>Environment and Energy </li><li>Catalysis and Reaction Engineering</li><li>Sustainability</li><li>Food, Pharmaceutical and Biotechnology</li><li>Separations</li><li>Fuels and Petrochemicals</li><li>Materials Engineering and Sciences</li><li>Transport Phenomena</li><li>Process Simulation and Modelling</li><li>Material Technology</li><li>Nanotechnology</li><li>Safety Management and other related topics</li></ol>",
+	"rules" : 
+	[
+		"<strong>RULES AND REGULATIONS</strong>",
+		"Maximum of 3 participants are allowed per presentation.",
+		"Abstracts should not exceed 200 words.",
+		"First page of the abstract must contain the Title of the Paper and author’s full postal address, email id, mobile number.",
+		"A space of 75*60 cm2 will be provided for your poster display.",
+		"Judges’ decision is final and binding.",
+		"Send your abstracts to",
+		"The file name should be the title of your paper.",
+		"The subject of the mail should be 'POSTER PRESENTATION – PARTICIPANTS NAMES'.",
+		"Last day for submission of abstracts: "
+	],
+	"venue" : "Chemical Department Design Lab ",
+	"timings" : [ "10th September 2016 at 09:30 AM" ],
+	"heads" :
+	[
+		{
+			"name" : "K Anthony Arvind",
+			"contacts" : [ "9043636612" ]
+		}
+	]
+},
+{
+	"title" : "Working Model",
+	"description" : "Two dimensional diagrams on the texts are passé! In the age of printers who wants to learn from static images? Break out of the paper and build us a working model for any of the following topics and explain briefly to our panel of judges. The models will be judged based on<br><ol><li>The design of the model</li><li>Operating cost and efficiency.</li><li>Concepts involved and explanation.</li></ol><br><strong>TOPICS FOR WORKING MODEL:</strong><ol><li>Pumps</li><li>Recovery of Chemicals</li><li>Waste water treatment</li><li>Utilization of Waste materials</li><li>A study on Electrochemical reactions</li><li>Alternative sources of Energy</li><li>Biochemical Projects(Biogas, Bio-fuel, Biomass production)</li><li>Condensation mechanism</li><li>Effluent Treatment in petroleum refinery</li><li>Desalination system</li><li>Extraction process</li><li>Corrosion study</li><li>Pollution control</li><li>Energy Resources conservation</li><li>Environmental Health</li><li>Safety in industries</li></ol>",
+	"rules" : 
+	[
+		"<strong>RULES AND REGULATIONS</strong><br>An abstract should to be submitted by each team on or before with the below mentioned details.",
+		"<br>Name of the participants (Maximum 4), their Email ID, contact number",
+		"Institution/College to which they belong",
+		"team name",
+		"Properly labeled schematic diagram of the model.",
+		"Specification of chemical reactants used and reactions used (if any).",
+		"A short explanation of the mechanism.",
+		"Quantify the cost of each material used in the model.",
+		"<br>This abstract should be mailed (in pdf format only) to chemiczna2k15@gmail.com with “Working Model – ” as subject before 11:59pm of",
+		"<br>N.B: The judges’ decision will be final no discrepancies will be encouraged. No second attempts will be permitted. Participants can be from any department. They can be of same or different institutions. No participants should register in more than one team. In that case the teams would be disqualified."
+		
+	],
+	"venue" : "Chemial Department - Reaction Engineering Lab",
+	"timings" : [ "10th September 2016 at 02:00 PM" ],
+	"heads" :
+	[
+		{
+			"name" : "K Prapanchana",
+			"contacts" : [ "8870705400" ]
+		}
+	]
+},
+{
+	"title" : "Crossfire",
+	"description" : "Tech savvy, gizmo guru in the world of chemical technology, the goto person. If you are any one of the above, this quiz is for you. Polish your intellectual armour and come prepared. Get ready to battle it out over 4 gruelling rounds as we put you to test.",
+	"rules" : 
+	[
+		"<strong>Round 1:</strong>Preliminary pen and paper test",
+		"<strong>Round 2:</strong>Finals consisting of 3 rounds in itself"
+	],
+	"venue" : "Chemical Department - Seminar Hall",
+	"timings" : [ "10th September 2016 at 09:30 PM" ],
+	"heads" :
+	[
+		{
+			"name" : "G Ravikanth",
+			"contacts" : [ "9789431845" ]
+		}
+	]
+},
+{
+	"title" : "Chemcrypto",
+	"description" : "Are you an ardent fan of Dan Brown’s Digital Fortress and Da Vinci Code? Do you love chemical engineering unit operations? If yes to both, then you are “perfect” to take part in this event. Crack the code and answer the questions that follow and emerge as the winner.",
+	"rules" : 
+	[
+		"<strong>RULES AND REGULATIONS</strong><ul><li>Maximum of 3 members are allowed per team.</li><li>All the team members can/cannot be from the same institution. Cross teams are allowed.</li><li>Every team will be given a set of puzzles. The number of questions they crack in the given time will be considered for deciding the winner.</li><li>Use of electronic gadgets while attending the event is strictly prohibited and will lead to disqualification of the team.</li><li>The decision taken by event organisers is final.</li></ul>"
+	],
+	"venue" : "Chemical department - Seminar Hall",
+	"timings" : [ "9th September 2016 at 12:30 PM" ],
+	"heads" :
+	[
+		{
+			"name" : "S Siddarth",
+			"contacts" : [ "9566125805" ]
+		}
+	]
+},
+{
+	"title" : "Chanakya's Pitch",
+	"description" : "Come up with an innovative idea for your start-up – in accordance with the  theme of a GREEN industry. The company you propose should be in the field of Chemical Engineering Industry and should differ essentially from the existing such industries. On approval of your abstract you would be invited to pitch your start-up to us, in the presence of judges from varied fields. You would be marked on the extent of your differentiation and innovation, the greenness of your industry and your financial plans for it.",
+	"rules" : 
+	[
+		"<strong>RULES AND REGULATIONS:</strong><ul><li>The abstract you submit for our prior consideration should contain the following details:</li><li>A brief description of your start-up and its purpose.</li><li>Its need in the present age. </li><li>A proposed location for establishing your start-up.</li><li>The GREEN aspect and uniqueness of your industry. </li><li>A brief technical description of the processes that take place in your industry – right from the inventory, raw material stage to the finished product, distribution stage.</li><li>Your ideas to obtain financial aid to run your start-up.</li><li>Your innovative ideas to market your own product.</li></ul>"
+	],
+	"venue" : "Chemical department - PG Lecture Hall",
+	"timings" : [ "10th September 2016 at 09:30 AM" ],
+	"heads" :
+	[
+		{
+			"name" : "K R Rohit Narayanan",
+			"contacts" : [ "9566015075" ]
+		},
+		{
+			"name" : "Priya B",
+			"contacts" : [ "9551546295" ]
+		}
+	]
+},
+{
+	"title" : "Fantasy Chemical League",
+	"description" : "Who said chemical engineers were all about lab coats and safety goggles? We are just as good at taking stock of wall street as we are at handling test tubes. We bring to you fantasy chemical league where we combine the best of both worlds, management and engineering. Are you ready to dabble numbers, crunch some stocks and produce at the same time? This event plays upon only virtual things. There is a lot to win with no investment, “BRAIN” exception!!!.",
+	"rules" : 
+	[
+		"<strong>RULES AND REGULATIONS:</strong><ul><li>The game proceeds in sessions. Each session lasts for 45 minutes. </li><li>This is a team event. Each team consists of 3 members.</li><li>Raw materials and licence are first come first served basis.</li><li>Have a prior knowledge about Chemical licence and marketing procedure in India (GST?!).</li><li>Decision of the organising board is final.</li><li>Winners will be notified through email id and phone call.</li></ul>"
+	],
+	"venue" : "Chemical Department - Mechanical Operations Lab",
+	"timings" : [ "9th September 2016 at 02:00 PM" ],
+	"heads" :
+	[
+		{
+			"name" : "B Sudhan",
+			"contacts" : [ "9791860918" ]
+		}
+	]
+},
+{
+	"title" : "Mystery Project",
+	"description" : "How good are you at cooking up something on spot? We put you on a task to test your presence of mind and mastery over simple concepts in the most interesting way possible. Come unprepared and experience the gusto... Apply some logic and techie stuff to build what we ask for. That is it! We give you the material. You are only required to build your project.",
+	"rules" : 
+	[
+		"<strong>RULES AND REGULATIONS:</strong><ul><li>Maximum of 3 members are allowed per team.</li><li>All the team members can/cannot be from the same institution.Cross teams are allowed.</li><li>Use of electronic gadgets while attending the event is strictly prohibited and will lead to disqualification of the team.</li><li>The decision taken by event organisers is final.</li></ul>"
+	],
+	"venue" : "Chemical Department - Heat Transfer Lab",
+	"timings" : [ "10th September 2016 at 02:00 PM"	],
+	"heads" :
+	[
+		{
+			"name" : "R Pavan Kumar",
+			"contacts" : [ "9445907833" ]
+		}
+	]
+}
+]

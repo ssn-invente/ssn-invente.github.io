@@ -1,0 +1,230 @@
+[
+{
+	"title" : "Paper Presentation",
+	"description" : "Need a place to show off your research and hard work? We’ll pay you for it!  Take part in Eupraxia’s technical event, Paper Presentation and have your work judged by a panel you wouldn’t even dream of meeting.",
+	"rules" : 
+	[
+		"<strong>Submission Rules</strong> <ul><li>Dead line for submission is 25/08/2016</li><li>The full paper must be sent to paper.eee2k16@gmail.com</li><li>The subject of the mail should contain the track to which the paper belongs and the title of the paper.</li><li>Example: Track 2: (Paper title)</li><li><strong>Email should contain:</strong><ol><li>Name of the participant.</li><li>Mobile number</li><li>College Name</li><li>Department</li></ol></li><li>The paper must be complying with the standard IEEE format.</li><li>Pictures and simulations if any must be clear</li><li>Any detection of plagiarism will result in immediate disqualification of the paper.</li></ul>",
+		"<strong>Rules</strong><ul><li>Each team must contain a maximum of 3 members</li><li>The team members need not belong to the same institution</li><li>One participant should not be a part of more than one team</li><li>The selected team must present their paper in front of a panel of judges.</li><li>The presentation shall go on for 8 minutes. This will be followed by a questioning session for 2 minutes.</li><li>Selected papers will advance to the next round</li>",
+		"<strong>Finals</strong><ul><li>The presentation shall go on for 8 minutes followed by a questioning session for 2 minutes.</li><li>3 papers will be selected as winners.</li>",
+		"<strong>Tracks</strong><br><strong>Track 1:Power</strong><ul><li>Energy Conservation</li><li>Facts & HVDC</li><li>Green Energy</li><li>Power Quality, Power System harmonics and contingencies</li><li>Smart Grids</li></ul>",
+		"<br><strong>Track 2:VLSI</strong><ul><li>MEMS technology</li><li>Embedded Systems</li><li>Digital Signal Processing</li><li>Analog and Digital logic circuit design</li><li>Nano technology</li><li>Control Systems</li></ul>",
+		"<br><strong>Track 3:Recent Trends</strong><ul><li>Wireless Electricity</li><li>Artificial intelligence in power system</li><li>PPTC devices & applications</li><li>Hybrid technology and applications</li></ul>",
+		"<br><strong>Track 4:</strong><ul><li>Power Electronics and devices</li><li>Special Machines</li><li>Axial field Electrical Machines</li><li>D.C and A.C Machines</li><li>Design of Electrical Machines</li></ul>"
+	],
+	"venue" : "EEE Department",
+	"timings" :
+	[
+		"9th September 2016 at 1:30 PM "
+	],
+	"heads" :
+	[
+		{
+			"name" : "Kavitha",
+			"contacts" : [ "9840400472" ]
+		},
+		{
+			"name" : "Ramaseshan",
+			"contacts" : [ "9500133825" ]
+		}
+	]
+},
+{
+	"title" : "Bridge Balancio",
+	"description" : "Detect Deflections and maintain equality. Reduce the resistances and don't admit defeat.Each tested separately, galvanometers included",
+	"rules" : 
+	[
+		"<strong>RULES:</strong><ul><li>A team can consist of a maximum of 3 members.</li><li>Team members need not belong to the same institution.</li><li>Participants are requested to bring their own calculators.</li><li>Use of mobile phones is strictly prohibited.</li></ul>",
+		"<strong>PRELIMS:</strong><ul><li>Teams will be given a questionnaire consisting of 25 multiple-choice questions(20 normal questions + 5 star questions, star questions carry more marks).</li><li>Participants will be given 25 minutes to answer the questions.</li><li>Questions will be from a set of varied electrical topics.</li></ul>",
+		"<strong>FINALS:</strong><ul><li>The selected teams will be given an electrical bridge circuit with faults.</li><li>The teams should identify the faults and use the given components appropriately and balance the bridge.</li><li>This circuit must be implemented on a breadboard.</li></ul>"
+	],
+	"venue" : "EEE Department",
+	"timings" : [ "10th September 2016 at 9:30 AM " ],
+	"heads" :
+	[
+		{
+			"name" : "Srilakshmi",
+			"contacts" : [ "8056242825" ]
+		},
+		{
+			"name" : "Sangeetha",
+			"contacts" : [ "9789753567" ]
+		}
+	]
+},
+{
+	"title" : "Electronic Maze",
+	"description" : "Steer your way through the different levels of electrical disdain. Every fault will run you into the ground. Beautifully intricate. Compellingly riveting.<br>CAN YOU BRAVE THE MAZE?",
+	"rules" : 
+	[
+		"<strong>RULES:</strong><ul><li>A team can consist  a maximum 2 or 3 members.</li><li>Members can be from different institutions.</li><li>Use of mobile phones during the event is strictly prohibited.</li></ul>",
+		"<strong>PRELIMS:</strong><ul><li>Teams will be given a questionnaire consisting of 15 multiple-choice questions.</li><li>Participants will be given 15 minutes to answer the questions.</li><li>Questions will be from a set of varied electronics fields.</li><li>6 teams will be selected for the finals.</li></ul>",
+		"<strong>FINALS:</strong><ul><li>The  questions will be provided in the form of a maze with different paths .</li><li>The participants can choose a  path of their own, each will have different set of questions.</li><li>Whichever team completes their path first, will go to the mystery section.</li>"
+	],
+	"venue" : "EEE Department",
+	"timings" :
+	[
+		"Prelims: 10th September 2016 at 09:30 AM"
+	],
+	"heads" :
+	[
+		{
+			"name" : "Sindhu",
+			"contacts" : [ "8220199013"	]
+		},
+		{
+			"name" : "Prashanth",
+			"contacts" : [ "9094747595" ]
+		}
+	]
+},
+{
+	"title" : "BOMB SQUAD",
+	"description" : "<strong>“War doesn’t determine who’s right. Only who’s left.”</strong><br>Armed with nothing but pliers and a deadline. You risk the lives of… none.It’s a game of wit. Think fast. Act faster.Decrypt and Defuse.Else Diffuse.<br>TIME’S RUNNING OUT...<br>Decide. Defy. Defuse.",
+	"rules" : 
+	[
+		"<strong>RULES:</strong><ul><li>A team can consist  a maximum of 3 members.</li><li>Members can be from different institutions.</li><li>Use of mobile phones during the event is strictly prohibited.</li></ul>",
+		
+		"<strong>PRELIMS:</strong><ul><li>Teams will be asked to solve a questionnaire comprising 20 technical questions.</li><li>The time given for each team will be 20 minutes.</li><li>Top 6 teams will be qualified for the finals.</li></ul>",
+		
+		"<strong>FINALS:</strong><ul><li>Each team will be given a set of clues to begin with.</li><li>Each clue is to be used to reach a specific checkpoint.</li><li>The teams are to follow their path through the checkpoints to reach the specified destination.</li><li>Each destination will have a bomb hidden that has to be detected and defused.</li><li>The first 3 teams to defuse the bombs will be declared winners of the event.</li></ul>"
+		
+	],
+	"venue" : "EEE Department",
+	"timings" : [ "10th September 2016 at 09:30 AM" ],
+	"heads" :
+	[
+		{
+			"name" : "Anand TM",
+			"contacts" : [ "9445600182" ]
+		},
+		{
+			"name" : "Aslam Amir",
+			"contacts" : [ "9940412904" ]
+		}
+	]
+},
+{
+	"title" : "Arduino Challenge",
+	"description" : "This is definitely the event for our generation- no wires, no bread boards, no tedious colour coded resistors. Just pure logic and let the board do the rest. Battle it out with the best minds and implement it straight away. You don't have to be clever, just smart.",
+	"rules" : 
+	[
+		"<strong>PRELIMS:</strong><ul><li>A team can consist of a maximum of 3 members</li><li>Each team will be given a questionnaire or a program, which they will have to answer/code for further qualification.</li><li>10 teams will qualify for the finals.</li><li>The decision of the judges cannot be contested.</li></ul>",
+		
+		"<strong>FINALS:</strong><ul><li>Each team will be given a task (hardware), which they will have to solve within the allotted time. </li><li>3 teams will be declared as winners.</li></ul>"
+	],
+	"venue" : "EEE Department",
+	"timings" : [ "10th September 2016 at 09:30 AM" ],
+	"heads" :
+	[
+		{
+			"name" : "Vasudha",
+			"contacts" : [ "9566218487" ]
+		},
+		{
+			"name" : "Vasumati",
+			"contacts" : [ "9940122826" ]
+		}
+	]
+},
+{
+	"title" : "How Stuff Works",
+	"description" : "Being intrigued by the world around us is quite natural. After all, it’s a part of being an engineer.<br>Stay hungry! Stay Foolish!",
+	"rules" : 
+	[
+		"<strong>RULES:</strong><ul><li>A team can consist of a maximum of 2 members.</li><li>There will be 2 rounds.</li><li>Use of mobile phones is strictly prohibited. </li><li>5 teams will be selected for the finals.</li></ul>",
+		
+		"<strong>PRELIMS:</strong><ul><li>The first round will be a quiz on basic Electricals and Electronics.</li><li>Participants will be given 20 minutes to answer the questions.</li></ul>",
+		
+		"<strong>FINALS:</strong><ul><li>Final round will be a buzzer round.</li><li>Each team should explain the working of the machine or component shown on the screen.</li><li>The team with highest point wins.</li></ul>"
+	],
+	"venue" : "EEE Department",
+	"timings" : [ "10th September 2016 at 09:30 AM" ],
+	"heads" :
+	[
+		{
+			"name" : "Ashwin K Eashwar",
+			"contacts" : [ "9003186425" ]
+		},
+		{
+			"name" : "Hariharasudhan",
+			"contacts" : [ "9047770336" ]
+		}
+	]
+},
+{
+	"title" : "EUPRAXIA(TECH QUIZ)",
+	"description" : "Cherish your knowledge buds, come and witness the best Science and Technology Quiz.",
+	"rules" : 
+	[
+		"<strong>RULES:</strong><ul><li>A maximum of 2 members per team are allowed.</li><li>Use of mobile phones is strictly prohibited.</li><li>5 teams will be selected for the finals</li></ul>",
+		
+		"<strong>PRELIMS:</strong><ul><li>Teams will have to take a written quiz, which will have to be answered within a given time frame.</li><li>Questions will be based on electrical and electronics as well as the history involved in the development of the above fields.</li></ul>",
+		
+		"<strong>FINALS:</strong><ul><li>A regular quizzing round, with a quizmaster and 5 competing teams. The team with the highest points will be adjudged the winner.</li></ul>"
+	],
+	"venue" : "EEE Department",
+	"timings" : [ "10th September 2016 at 09:30 AM" ],
+	"heads" :
+	[
+		{
+			"name" : "Meenakshi",
+			"contacts" : [ "8939608256" ]
+		},
+		{
+			"name" : "Kundana Ramyashree",
+			"contacts" : [ "8220332163" ]
+		}
+	]
+},
+{
+	"title" : "Project Display",
+	"description" : "Do you have a penchant for scientific creativity?<br>Distil and refine your ability.<br><br>Never had a peer review?<br>This is the place for you.<br><br> Innovate. Display. Present.",
+	"rules" : 
+	[
+		"<strong>RULES:</strong><ul><li>Project title should be legitimate. (It shouldn’t be an IEEE copied title or an older project). </li><li>Participants will be disqualified if the above rule is violated</li><li>Maximum project members=4</li><li>Mail should be sent before 05.09.2016 to project.eee2k16@gmail.com</li><li>Mail should comprise of:<br>(1) Project title and abstract<br>(2) Project members database: Name, College name, phone no, email address.</li><li>Required project components should be brought by the respective teams. No components will be provided.Registration should be done online. Only those teams will be allowed on the day of the event.</li></ul>"
+	],
+	"venue" : "EEE Department",
+	"timings" : [ "9th September 2016 at 01:30 PM" ],
+	"heads" :
+	[
+		{
+			"name" : "Srinath",
+			"contacts" : [ "8939171391" ]
+		},
+		{
+			"name" : "Kiran Kumar",
+			"contacts" : [ "9884789358" ]
+		}
+	]
+},
+{
+	"title" : "Line Follower",
+	"description" : "There's a time when the operation of the machine becomes so odious yet so enthralling, that as engineers you can't not take part!<br /><br />And you've got to put your bodies upon the gears and upon the wheel as you weave through the dark trail.<br /><br />Fall in Line. Survive the track. Complete the course.<br /><br />In this trial of time, you have three lives. Make them count.",
+	"rules" : 
+	[
+		"<strong>Problem Statement:</strong> To design an autonomous line follower robot capable of traversing a given track. The track is a black, 3 cm wide line against on a white background. It will have checkpoints indicated by markers. If the bot moves out of the track, it must be placed at the nearest checkpoint. The start and stop positions will be a black box (5 x 5 cm).",
+		"<strong>Robot Specification:</strong><ul><li>The robot should be controlled using a microcontroller.</li><li>The dimensions of the bot should not exceed 30 cm x 30 cm x 30 cm.</li><li>The potential difference between any two points in the robot should not exceed 12V at any given point in time.</li><li>The robot must be started manually using a switch.</li></ul>",
+		"<strong>General Rules:</strong><ul><li>Each team can have a maximum of 4 members</li><li>The Robot must fit in a box of dimension 20cm x 20cm x 20cm.</li><li>The robot must be completely autonomous.</li><li>Each team will be given two trials for both prelims and finals. The organizers can reduce the number of trials in case of time constraints. The better trial of the two will be considered.</li><li>Only one member of the team will be allowed to intervene and points will be reduced for each intervention.</li><li>Calibration time of one hour will be given before the start of the event.</li><li>Participants must bring their own components, laptops and software if they wish to make changes on the day of the event. No components will be provided.</li><li>A bot that does not meet the specifications or damages the track in any way will be disqualified</li><li>The organizers reserve the right to change any of the rules mentioned above. In such a case, the participants will be informed of the changes beforehand.</li></ul>",
+		"<strong>Round 1 (Preliminary):</strong><ul><li>The robot should traverse the given track within five minutes</li><li>The time and points noted by the organizers will be final</li><li>Organizers will have the final say with respect to any dispute that may arise on the day of the event.</li></ul>",
+		"<strong>Round 2 (Finals):</strong><li>The top five teams to complete the preliminary round will qualify for the final round.</li></ul>"
+	],
+	"venue" : "EEE Department",
+	"timings" : [ "Day 1 (Round 1: 8.00 – 12.30)", "Day 1 (Round 2: 12.30 – 15.30)" ],
+	"heads" :
+	[
+		{
+			"name" : "Supreeta Venkatesan",
+			"contacts" : [ "8939367938" ]
+		},
+		{
+			"name" : "Arvind T",
+			"contacts" : [ "9840345205" ]
+		},
+		{
+			"name" : "Venkatesh C",
+			"contacts" : [ "9444204371" ]
+		}
+	]
+}
+]
