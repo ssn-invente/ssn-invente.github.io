@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://ssninvente.com/</loc>
+  <lastmod>2016-08-19T05:44:58+00:00</lastmod>
+</url>
+<url>
+  <loc>http://ssninvente.com/aboutus/</loc>
+  <lastmod>2016-08-19T05:45:07+00:00</lastmod>
+</url>
+<url>
+  <loc>http://ssninvente.com/events/</loc>
+  <lastmod>2016-08-19T05:45:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://ssninvente.com/workshops/</loc>
+  <lastmod>2016-08-19T05:46:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://ssninvente.com/register/</loc>
+  <lastmod>2016-08-19T05:46:38+00:00</lastmod>
+</url>
+<url>
+  <loc>http://ssninvente.com/hackathon/</loc>
+  <lastmod>2016-08-19T05:45:52+00:00</lastmod>
+</url>
+</urlset>
