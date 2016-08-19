@@ -1,0 +1,1731 @@
+{
+
+    
+    "code it"  : [
+            {
+                "title" : "Tech Quiz",
+                "description" : "Not into coding??? Here we have the quizzing event of the likes that is bound to make you fall in love, head over heels, with leraning new aspects of CSE.<br/><br/>Come have FUN!!! and be a WINNER!!",
+                "rules" :
+                [
+                    "This is a team event, with 2 or 3 per team. Lone wolves can find a team mate on the spot.",
+                    "There will be 2 rounds",
+                    "Prelims will be written.",
+                    "Finals will be an on stage quiz."
+                ],
+                "venue" : "CSE Department Class rooms and Seminar Hall",
+                "timings" :
+                [
+                    "Prelims: 10th September 2016 at 9 p.m ",
+                    "Finals: 10th September 2016 at 1 p.m"
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Saketh A B",
+                        "contacts" : [ "8056026523" ]
+                    },
+                    {
+                        "name" : "Krithika N",
+                        "contacts" : [ "9500259400" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Paper Presentation",
+                "description" : "Put on your thinking caps and pop the magic in presneting your novel ideas of the era in paper.Make a STATEMENT (literally...) and stand by itin the domain of CSE and let our esteemed panelists be the better judges. We sure can find the copy cats..",
+                "rules" :
+                [
+                    "Only CS domains are encouraged.",
+                    "Maximum of 3 authors and only student authors allowed. It is not a necessity that all the authors must be from the same institute.",
+                    "We take plagiarism very seriously. Only original research works are accepted.",
+                    "The paper must not have been presented or published anywhere else.",
+                    "The paper must be in two column IEEE format. This format must be strictly adhered to. The paper length must be limited to 6 pages.",
+                    "The paper must be in .pdf or .doc or .docx formats.",
+                    "The paper must be sent through mail. The instructions are as follows:<br/><ul><li>The subject must be the title of the paper.</li><li>The body of the mail should include - Name and Institute of participant (starting from the first author and going till the third one), Department and Year, Contact numbers, Email addresses.</li><li>Send the paper as an attachment with this mail.</li><li>The email id is : will be announced..</li></ul><br/><br/>Last date to send in the paper: 25th August 2015<br/><br/>Acceptance notification: 30th August 2015"
+                ],
+                "venue" : "CSE Department Seminar Hall",
+                "timings" : [ "10th September 2016, 9.00 am" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Rajeswari Sujana",
+                        "contacts" : [ "9600094640" ]
+                    },
+                    {
+                        "name" : "Keerthika",
+                        "contacts" : [ "9566228541" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Open Programming",
+                "description" : "Code your way ahead as dawn meets dusk in this all day long coding event to prove the budding Zuckerberg in you. Model real world scenarios that can withstand the TEST OF TURING ..(:P)",
+                "rules" :
+                [
+                    "Maximum of 2 members per team"
+                ],
+                "venue" : "CSE Department Software Engineering Lab and PG Lab",
+                "timings" : [ "10th September 2016, 9.00 am" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Janani",
+                        "contacts" : [ "9994779789" ]
+                    },
+                    {
+                        "name" : "Renuka",
+                        "contacts" : [ "9176357332" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Triathlon",
+                "description" : "Threesome anyone? We present to you the exact stage from the Rio Olympics.Participate in this three course programming event that tests your technical nuances to the zeniths. Come as three and win as one!!",
+                "rules" :
+                [
+                    "Each team MUST consist of THREE members.",
+                    "Lone wolves and duos are not permitted. Sorry!"
+                ],
+                "venue" : "CSE Department Seminar Hall and Class room",
+                "timings" : [ "9th September 2016, 11.00 am" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Lakshmi Dhivya",
+                        "contacts" : [ "9445290412" ]
+                    },
+                    {
+                        "name" : "Sockalingam",
+                        "contacts" : [ "9600043685" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Sequel",
+                "description" : "2 * 1 = 2<br/>2 * 2 = 4...<br/>But here we talk about the other tables.<br/>SELECT the_best IN YOU WHERE fun=guaranteed,domain=SQL,team=\"Haha!!You win alone\".<br/>Never pull the TRIGGER(get it.. get it..) until you know you can win..",
+                "rules" :
+                [
+                    "Each team can contain a max of 3 members.",
+                    "This event requires prior knowledge in languages such as SQL"
+                ],
+                "venue" : "CSE Department Computer Graphics Lab and DBMS Lab",
+                "timings" :
+                [
+                    "10th September 2016 at 9 p.m "
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Shwetha",
+                        "contacts" : [ "9962172794" ]
+                    },
+                    {
+                        "name" : "Indu",
+                        "contacts" : [ "9444600256" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Poster Design",
+                "description" : "Create the things! Dont just imagine..<br/>Step into your creative SHOES and STAMP your way to success by bringing life to pixels/paper. Design posters that stand the test of time and bring out the best in you.",
+                "rules" :
+                [
+                    "Max 3 per Team(each one should be registered )",
+                    "Mixed teams are allowed",
+                    "Team can consist of members from different colleges also.",
+                    "Lone Wolves are welcome !!"
+                ],
+                "venue" : "CSE Department PG Lab-3(Library Block)",
+                "timings" : [ "9th September 2016, 11.00 am" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Dasarathan",
+                        "contacts" : [ "9940469803" ]
+                    },
+                    {
+                        "name" : "Vijay Sarathy",
+                        "contacts" : [ "8056256472" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Code Hunt",
+                "description" : "Hunting is not always a blood sport.Mimic the PC to be the jungle,hunt your path through the coding clues we leave you to this ULTIMATE CODING SHOWDOWN.<br/>Keep an eye on the target mate!!!",
+                "rules" :
+                [
+                    "Upto 3 participants in a team.",
+                    "Preliminary round will resemble a treasure hunt with coding clues or tasks.",
+                    "Final round will be a hardcore coding showdown.",
+                    "The preliminary round’s treasure hunt locations will be easy and close to locate and hence help from third persons to decode the clues will lead to rejection.",
+                    "Decision taken by the event panel will be final."
+                ],
+                "venue" : "CSE Department Computer Graphics Lab and DBMS lab ",
+                "timings" : [ "9th September 2016, 11.00 am" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Lohith",
+                        "contacts" : [ "9840543340" ]
+                    },
+                    {
+                        "name" : "Sudha",
+                        "contacts" : [ "9790917705" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Online Coding",
+                "description" : "#include<ONLINE_CODING><br/>int main()<br/>{<br/>String best_friends={\"Geeksforgeeks\",\"Hackerrank\",\"Codecademy\",\"Github\"};<br/>while(Extreme_coding)<br/>{<br/> &ensp; fun=UNLIMITED!!;<br/> &ensp; If(SUCCEED)<br/>&emsp;return with a heavier pocket!!!;<br/>}<br/>return WINNER;<br/>}",
+                "rules" :
+                [
+                    "There will be 5 problems.",
+                    "1 point for each problem solved (should pass all test cases).",
+                    "Tie breakers will take into account wrong submissions and time taken.",
+                    "The contest will be held in Codechef platform. Each participant must have a Codechef account to participate.",
+                    "Must be individual participation. No teams.",
+                    "The event is open to all college students, even students from SSN can participate.",
+                    "Please register in our site with the same information that you have in your Codechef account. Only this way, you can win prizes.",
+                    "Please do not discuss strategy, suggestions or tips in the comments during a live contest. Posting questions, clarifying the problem statement is allowed"
+                ],
+                "venue" : "Online Platforms (Will be announced later..)",
+                "timings" : [ "Will be announced later..." ],
+                "heads" :
+                [
+                    {
+                        "name" : "Akshay Jayakumar",
+                        "contacts" : [ "9677010895" ]
+                    },
+                    {
+                        "name" : "Subhasri",
+                        "contacts" : [ "8122279425" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Networking",
+                "description" : "Develop your networking skills in this rare chance where we provide you platforms and wonderful opportunities to bring out the best in you.Connect through our systems and leave home with a happy heart!!!...",
+                "rules" :
+                [
+                    "Maximum of 2 members per team"
+                ],
+                "venue" : "CSE Department Class rooms and OS Lab (library block)",
+                "timings" : [ "10th September 2016, 9.00 am" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Praveen",
+                        "contacts" : [ "9944799741" ]
+                    },
+                    {
+                        "name" : "Keshav",
+                        "contacts" : [ "9940184129" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Virtually Real",
+                "description" : "Create your own world right here, right now. An innovative event on virtual reality and modeling. This event will be truly thought provoking, bringing out the best of your creative abilities.",
+                "rules" : 
+                [
+                    "Round 1: The first round will be a Multiple Choice Questions Round, testing the participant's knowledge on the fundamental concepts of Virtual Reality. The top performers will be shortlisted for the subsequent rounds.",
+                    "Round 2: This round will have an on-the-spot topic, and the participants will be assessed on how novel, relevant and innovative their ideas are, on the topic given to them.",
+                    "Participants can use any software of their choice for developing their models from the options given by us."
+                ],
+                    "timings":[],
+                "heads" :
+                [
+                    {
+                        "name" : "Sachin Ram",
+                        "contacts" :
+                        [
+                            "9940194877",
+                            "7708516263"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title" : "AI Blitz",
+                "description" : "Ever wondered how Ironman’s assistant Jarvis works? Does Siri intrigue you? Do you have unbound imagination? Put your skills into practice. Here is your platform. Fasten your seatbelts, ride along with us and win exciting goodies.",
+                "timings":[],
+                    "rules" : 
+                [
+                    "Round 1: You will have to work on two questions and solve them in 20 minutes. Shortlisted candidates go to the next round.",
+                    "Round 2: In this final round, you'll have only one problem to solve in 1 ½ hours."
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Srinivasan",
+                        "contacts" : [ "9962203656" ]
+                    },
+                    {
+                        "name" : "Vishnu Varadan",
+                        "contacts" : [ "9884465285" ]
+                    }
+                ]
+            },
+            {
+                "title" : "SSN Nuggets",
+                "description" : "Are you into data analytics? Do you find patterns in large datasets that others fail to notice? Do you think you can make better predictions than the astrologer? Then this is the event for you, come and indulge in some data analytics fun and win fun prizes.",
+                "timings":[],
+                    "rules" : 
+                [
+                    "This event will be played by teams with a maximum of two people per team.",
+                    "Round 1: MCQ questions on regular data intuition and statistics. It'll be a pen & paper round with 20 questions within 20 minutes.",
+                    "Round 2: Coding round. You'll be given a dataset, and you'll have to perform predictive analysis on it. The most accurate model wins.",
+                    "The duration of the event will be 1.5 - 2 hours. After 1.5 hrs teams have to provide a brief explanation of what they've done, and their next plan of action. This explanation will give them nugget points which will play a major role in the final decision and in clearance of tie breakers.",
+                    "You'll be provided with following tools: <ol><li>Python + anaconda + text editor</li><li>R + R studio + add any packages you want</li><li>Weka</li></ol>"
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Sri Vishnu",
+                        "contacts" : [ "9884884933" ]
+                    },
+                    {
+                        "name" : "Gautham Krishna",
+                        "contacts" : [ "9698141161" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Codalympics",
+                "description" : "If you've started many a day with a #include, said 'Hello World' in a bunch of different languages, or if you believe coding is therapeutic, look no further. SSN's Invente presents you with an event designed for you. Just bring in your coding talent and walk away with prizes.",
+                "timings":[],
+                    "rules" : 
+                [
+                    "Round I: Lightning the torch – A set of questions related to coding. ",
+                    "Round II: Entry to the Podium – A great platform to showcase your coding skills."
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Mohan Raheja",
+                        "contacts" : [ "9789970708" ]
+                    },
+                    {
+                        "name" : "Muthusamy",
+                        "contacts" : [ "8056111540" ]
+                    }
+                ]
+            },
+            {
+                "title" : "App Development Event - Appstronaut",
+                "description" : "Interested in becoming an Appstronaut? Let’s gear up our space shuttle and explore the App Galaxy. Together we can reach new heights and reveal limitless opportunities. This is the time for you to showcase your exceptional Developing skills. Don’t miss this chance to be a part of our Appstronaut crew!",
+                "timings":[],
+                    "rules" : 
+                [
+                    "This is a team event that consists of a maximum of 3 per team.",
+                    "Round 1: Basic Technical Pen and Paper Round with Questions on Android, Java and C++.",
+                    "Round 2: Application Development using any language you are comfortable with. The App developed must be useful, innovative and creative."
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Arun B",
+                        "contacts" : [ "8148449990" ]
+                    },
+                    {
+                        "name" : "Sophia",
+                        "contacts" : [ "9500005531" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Cryptomaniac",
+                "description" : "A witty and fun filled event that requires you to squeeze your brains to decipher the hidden messages!",
+                "timings":[],
+                    "rules" : 
+                [
+                    "Team event with a maximum of 2 per team.",
+                    "Round 1: This is a prelims round which will be a pen and paper test.",
+                    "Round 2: The finals will be a group event. All the teams will have to encrypt a few messages and other teams would be given the chance in a round robin fashion to decrypt them. The teams with most points shall be awarded prizes."
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Pragal Paah",
+                        "contacts" : [ "9566068715" ]
+                    },
+                    {
+                        "name" : "Anirudh Sesadhri",
+                        "contacts" : [ "8056259792" ]
+                    }
+                ]
+            },
+            {
+                "title" : "NetworKING?",
+                "timings":[],
+                    "description" : "NetworKING  is a cool and  mind boggling event where competitors are assured with entertainment , fun and a lot of exciting factors. Test your brain cells in the Networks domain. Play along and enjoy the vibe. It's more than just a game. It’s a must participate event of SSN Invente 2K16.",
+                "rules" : 
+                [
+                    "A maximum of 2 per team.",
+                    "Round 1: MCQs based on Computer Networks",
+                    "Round 2: Applications of algorithms, Router Coding, Shell Script Coding",
+                    "Round 3 (If necessary): Surprise!"
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Bhargav",
+                        "contacts" : [ "9566208036" ]
+                    },
+                    {
+                        "name" : "Prakash",
+                        "contacts" : [ "9841628555" ]
+                    }
+                ]
+            },
+            {
+                "title" : "DigDBug",
+                "timings":[],
+                    "description" : "For all you Sherlock Holmes out there, who investigate through the scene, why not win prizes for exactly that. SSN Invente 2K16 provides you the opportunity to dig through the bugs and show off your talents!",
+                "rules" : 
+                [
+                    "Round 1: Chota bug - Find the chota bug hidden in the code that opens your gateway leading to Kaaliya bug!",
+                    "Round 2: Kaaliya bug - Top three to make their way through the code overcoming the kaaliya bug walks away as winners!"
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Dhanush",
+                        "contacts" : [ "9942699946" ]
+                    },
+                    {
+                        "name" : "Jayashree",
+                        "contacts" : [ "9840287411" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Web Clasico",
+                
+                    "description" : "Things arent always #include , they are mostly between #000000 and #FFFFFF, come join us at the most classic, extravagant and a competition like never before. Prove to people that math is easy and design is hard, that design is not some buttons in Photoshop and Creative minds are rarely tidy! We know what it takes to be them and we assure you that you will be font of our event coz it's your type/>",
+                "timings":[],
+                    "rules" : 
+                [
+                    "This is an individual participation event.",
+                    "Round 1: A list of activities will be present. Teams will have to pick lots and work on a particular activity.",
+                    "Round 2: This is a dynamic development round. Further details will be provided ahead of the session."
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Ashok Madavan",
+                        "contacts" : [ "9962166546" ]
+                    },
+                    {
+                        "name" : "Krishna G",
+                        "contacts" : [ "9791140709" ]
+                    }
+                ]
+            },
+            {
+                "title" : "UI-Xpress",
+                "description" : "Design is the new basis of competition. Design has evolved to even consider how you feel when you use something. It is an emerging creativity that helps enhance user experience. Design is what can many anything extraordinary and it starts here at SSN Invente 2K16!",
+                "timings":[],
+                    "rules" : 
+                [
+                    "Round 1: 15 mins will be given to each person for this prelims round which will consist of 10 questions and 10 fill-ups.",
+                    "Round 2: Design Challenge – This will be a 1.5 hour design challenge which can be a mobile application or a website design. Separate validation, so design matters."
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Arjun S",
+                        "contacts" : [ "8939733489" ]
+                    },
+                    {
+                        "name" : "Nizam",
+                        "contacts" : [ "8056176006" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Paper Presentation",
+                "description" : "<strong>“One of the advantages of being disorganized is that one is always having surprising discoveries.”</strong><br /><br />All innovations are born out of creativity. After all, the best designs of today’s technology started as mere blueprints. Even small creative ideas of individuals may prove to be the basis for tomorrow’s massive technologies. Here is a wonderful opportunity for the you to show case your talents.<br /><br />We want you to present your idea to us so that we can help you convert it to reality!",
+                "timings":[],
+                    "rules" : [	],
+                "heads" :
+                [
+                    {
+                        "name" : "Harinie",
+                        "contacts" : [ "9585714521" ]
+                    },
+                    {
+                        "name" : "L. Swetha",
+                        "contacts" : [ "9840318244" ]
+                    }
+                ]
+            }
+            ],
+
+    "wired" : [
+            {
+                "title" : "Paper Presentation",
+                "description" : "Presentation of technical papers on the following domains:<ul><li>Embedded Systems</li><li>Robotics/Artificial Intelligence</li><li>Antennas/RF and Microwave Engineering</li><li>Wireless Sensor Networks</li><li>Microelectronics and Nanoscale Devices</li><li>Energy Harvesting</li><li>Optical/LIDAR</li><li>Digital Image Processing</li></ul>",
+                "rules" : 
+                [
+                    "<strong>General Rules:</strong><ul><li>Candidates should e-mail their papers to the given e-mail ID (adarshana13003@ece.ssn.edu.in) by September 2nd, 10 PM</li><li>Spot entries are not allowed</li><li>Accepted papers will be notified through e-mail</li><li>The presentation time is 8 minutes, following which questions regarding the paper will be put forth to the participants in the next 2 minutes</li><li>Selected candidates should have two hard copies of the paper in PDF format at the time of presentation and two copies of the abstract, not exceeding 300 words</li><li>Decision of the judges will be final</li></ul>",
+                    "Round 1 (Off-stage): Shortlisting papers based on the above requirements",
+                    "Round 2: Final paper presentation"
+                ],
+                "venue" : "ECE Department AC Seminar Hall, DSP Laboratory (East Wing)",
+                "timings" : [ "Day 1 (Round 1: 8.00 – 12.30)", "Day 1 (Round 2: 12.30 – 15.30)" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Adarshana Rajagopal",
+                        "contacts" : [ "9677260468" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Project Display",
+                "description" : "",
+                "rules" : 
+                [
+                    "<strong>General Rules:</strong><ul><li>Each team can have 1 – 4 participants.</li><li>We request all participants to come up with original and creative ideas.</li><li>There must be a poster describing the idea, an oral presentation and a physical presentation/demonstration.</li><li>No material support will be provided.</li></ul>",
+                    "<strong>Round 1 (Online):</strong><ul><li>The basic abstract of the project should be submitted online on or before August 31st.</li><li>It should include the domain name, project title, aim/necessity of the project, description and implementation, market analysis, costs and references. The content should not exceed 5 pages.</li><li>15 teams will be shortlisted and called for finals.</li></ul>",
+                    "<strong>Round 2 (Finals):</strong><ul><li>Each team will be given a maximum of 10 minutes to present their project. The presentation should be managed efficiently in the given time.</li><li>The decision made by the judges will be final.</li></ul>",
+                    "Abstracts should be sent to invente.eceprojectdisplay2016@gmail.com"
+                ],
+                "venue" : "ECE Department - Microprocessor Laboratory (First Floor, West Wing), Electronics Laboratory (First Floor, West Wing)",
+                "timings" : [ "Day 1 (Round 1: 8.00 – 12.30)", "Day 1 (Round 2: 12.30 – 15.30)" ],
+                "heads" :
+                [
+                    {
+                        "name" : "R Suresh Kumar",
+                        "contacts" : [ "9789829661" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Solder It",
+                "description" : "“Wish to nail it? Board it!”<br /><br />Some people accidentally short circuit their electronics, feel the tiny shock of electricity running through them, and run away from their devices. Others thrive on breaking the circuit, understanding why it happened, and how to fix it. Their dreams are filled with resistors and capacitors forming intricate networks as beautiful as spider webs in the sunlight. If you belong to this rare breed of dreamers, then you are in for a treat. Come to Solder It at Invente, and you will see the amateur enthusiasts rubbing shoulders with the most formidable professionals at soldering circuits. Perhaps you will surprise us all with your soldering skills! Only time will tell!",
+                "rules" : 
+                [
+                    "<strong>General Rules:</strong><ul><li>Use of mobile phones and other electronic gadgets is not allowed. Participants can be disqualified for any such use.</li><li>Judges decision is final.</li><li>2 – 3 members per team. Organizers will help lone wolves find their pack!</li><li>Soldering kits and electronic components will be provided.</li></ul>",
+                    "Round 1 (Prelims): This will be a Q&A based round. Participants will be tested on their technical skills.",
+                    "Round 2: This is a design round. Participants will be asked to design a circuit for given criteria on the spot.",
+                    "Final Round: Top eight teams from round 2 will be tested on their soldering skills. Teams will be soldering their circuit on a PCB dot board.",
+                    "Judging Criteria:<ul><li>Circuit functioning.</li><li>Practicality of circuit implementation.</li></ul>"
+                ],
+                "venue" : "LIC Laboratory ECE Department (East Wing - Ground Floor)",
+                "timings" : [ "Prelims - Day 2 (8:30 to 12:30)" , "Finals - Day 2 (12:30 to 3:30)" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Diwakar P",
+                        "contacts" : [ "9894585803" ]
+                    },
+                    {
+                        "name" : "Gokul T S",
+                        "contacts" : [ "8870407168" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Pantomath 2.0",
+                "description" : "",
+                "rules" : 
+                [
+                    "<strong>General Rules:</strong><ul><li>This is a semi-technical event with three rounds.</li><li>2 – 3 members per team.</li></ul>",
+                    "Round 1 (Lucky Spin): Each team will have to answer 12 MCQs from a topic chosen by a lucky spin. Top 12 teams make it to the next round.",
+                    "Round 2 (Crack the Enigma):<ul><li>Each team is provided with some text, and they may encrypt it using any algorithm.</li><li>A binary algorithm is displayed on the projector and the encryption algorithm runs quickly on the screen.</li><li>A crucial diagram is given to one member of the team and it must be described to the other team members. The other team members must draw the diagram on paper.</li><li>Identify the circuit on the slide.</li></ul>",
+                    "Round 3:<ul><li>Common questions to all branches.</li><li>The questions will be shared between members and the team which submits the received answers fastest will be selected.</li><li>3rd and 4th years of Circuit Branches – Image Processing, Speech Processing, MATLAB coding.</li><li>2nd Years – PSPICE programs</li><li>Non-circuit branches – C/C++ programs. In case of tie, rapid fire round will be conducted to decide winner.</li></ul>"
+                ],
+                "venue" : "EC 01 (ECE Annexe building, Ground Floor)",
+                "timings" : [ "Prelims - Day 2 (8:30 to 12:30)", "Finals - Day 2 (12:30 to 3:30)" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Swetha T M",
+                        "contacts" : [ "89390088127" ]
+                    },
+                    {
+                        "name" : "Sabarish S",
+                        "contacts" : [ "8939304420" ]
+                    },
+                    {
+                        "name" : "Nitin Srinivas",
+                        "contacts" : [ "9600055239" ]
+                    }
+                ]
+            },
+            {
+                "title" : "M-Guru",
+                "description" : "“Business Savvy, Street Smart”<br /><br />M-Guru is a technical management event. This event gives contestants a taste of the corporate world.  It tests their mental abilities in overcoming crisis situations.",
+                "rules" : 
+                [
+                    "<strong>General Rules:</strong><ul><li>Teams of 2-3</li><li>No electronic gadgets can be used during the event.</li></ul>",
+                    "Prelims: 30 questions to be answered in 15 minutes. Questions will be from significant events in management industry, and about management scenarios.",
+                    "Final Round: Top 8 will go through to finals. Finalists will be given imaginary scenarios, and challenging situations. Their crisis handling abilities will be judged based on their responses."
+                ],
+                "venue" : "LH 15 (First Floor ECE  East Wing), LH 16 (First Floor ECE West Wing)",
+                "timings" : [ "Prelims - Day 2 (8:30 to 12:30)", "Finals - Day 2 (12:30 to 3:30)" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Jayashree Balaji",
+                        "contacts" : [ "8939271947" ]
+                    },
+                    {
+                        "name" : "Deekshitha V",
+                        "contacts" : [ "8056746911" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Freeze Quiz",
+                "description" : "Far beyond the marshlands of OMR, past the busy little bus stand of Kelambakkam, a new competition has begun, to find the best Science and Technology quizzers that SSN has yet to see. Come stake your claim, and walk away with great prizes! Come be the first champions of the SSN Invente Sci-Tech Quiz!",
+                "rules" : 
+                [
+                    "Teams of 2 or 3. Lone wolves can come find their pack!",
+                    "25 questions in the prelims. Starred questions to break ties.",
+                    "Top 6 – 8 teams will make it to the finals.",
+                    "Questions will be from the world of Science and Technology."
+                ],
+                "venue" : "AC Seminar Hall (ECE department Ground Floor East Wing)",
+                "timings" : [ "Prelims - Day 2 (8:30 to 12:30)", "Finals - Day 2 (12:30 to 3:30)" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Sreenivas V",
+                        "contacts" : [ "9789813312" ]
+                    },
+                    {
+                        "name" : "Karthiknathan S",
+                        "contacts" : [ "9952910767" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Circuitrix",
+                "description" : "Are you electrically disabled? Does your mind need a jolt of awakening? Ideas might surge through you. Let the fault current run into the ground.",
+                "rules" : 
+                [
+                    "<strong>Prelims</strong><ul><li>A team can consist of a maximum of 3 members.</li><li>Team members need not belong to the same institution.</li><li>Participants are requested to bring their own calculators.</li><li>Use of mobile phones is strictly prohibited.</li><li>5 teams will be selected for the finals.</li><li>Teams will be given a questionnaire consisting of 25 multiple-choice questions (20 normal questions + 5 star questions, star questions carry more marks).</li><li>Participants will be given 20 minutes to answer the questions.</li><li>Questions will be from a set of varied electrical topics.</li></ul>",
+                    "<strong>Finals</strong><ul><li>There will be 5 circuits to be implemented. It will be given on a lot basis.</li><li>Within the stipulated time participants are required implement the circuit on a breadboard.</li><li>Required components will be given.</li><li>Fastest team wins.</li></ul>"
+                ],
+                "venue" : "EC 02, EC 03 (ECE Annexe Building, First Floor)",
+                "timings" : [ "Prelims - Day 2 (8:30 to 12:30)", "Finals - Day 2 (12:30 to 3:30)" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Balasubramanian T",
+                        "contacts" : [ "9003079541" ]
+                    },
+                    {
+                        "name" : "Logesh S",
+                        "contacts" : [ "883957457" ]
+                    },
+                    {
+                        "name" : "Jeshurun Edward",
+                        "contacts" : [ "9962494613" ]
+                    }
+                ]
+            }
+            ],
+
+    "power up" : [
+            {
+                "title" : "Paper Presentation",
+                "description" : "Need a place to show off your research and hard work? We’ll pay you for it!  Take part in Eupraxia’s technical event, Paper Presentation and have your work judged by a panel you wouldn’t even dream of meeting.",
+                "rules" : 
+                [
+                    "<strong>Submission Rules</strong> <ul><li>Dead line for submission is September 2.</li><li>The full paper must be sent to <strong>paper.eee2k16@gmail.com</strong></li><li>The subject of the mail should contain the track to which the paper belongs and the title of the paper.</li><li>Example: Track 2: (Paper title)</li><li><strong>Email should contain:</strong><ol><li>Name of the participant.</li><li>Mobile number</li><li>College Name</li><li>Department</li></ol></li><li>The paper must be complying with the standard IEEE format.</li><li>Pictures and simulations if any must be clear</li><li>Any detection of plagiarism will result in immediate disqualification of the paper.</li></ul>",
+                    "<strong>Rules</strong><ul><li>Each team must contain a maximum of 3 members</li><li>The team members need not belong to the same institution</li><li>One participant should not be a part of more than one team</li><li>The selected team must present their paper in front of a panel of judges.</li><li>The presentation shall go on for 8 minutes. This will be followed by a questioning session for 2 minutes.</li><li>Selected papers will advance to the next round</li>",
+                    "<strong>Finals</strong><ul><li>The presentation shall go on for 8 minutes followed by a questioning session for 2 minutes.</li><li>3 papers will be selected as winners.</li>",
+                    "<strong>Tracks</strong><br><strong>Track 1:Power</strong><ul><li>Energy Conservation</li><li>Facts & HVDC</li><li>Green Energy</li><li>Power Quality, Power System harmonics and contingencies</li><li>Smart Grids</li></ul>",
+                    "<br><strong>Track 2:VLSI</strong><ul><li>MEMS technology</li><li>Embedded Systems</li><li>Digital Signal Processing</li><li>Analog and Digital logic circuit design</li><li>Nano technology</li><li>Control Systems</li></ul>",
+                    "<br><strong>Track 3:Recent Trends</strong><ul><li>Wireless Electricity</li><li>Artificial intelligence in power system</li><li>PPTC devices & applications</li><li>Hybrid technology and applications</li></ul>",
+                    "<br><strong>Track 4:</strong><ul><li>Power Electronics and devices</li><li>Special Machines</li><li>Axial field Electrical Machines</li><li>D.C and A.C Machines</li><li>Design of Electrical Machines</li></ul>"
+                ],
+                "venue" : "M.E classrooms and EEE Dept. Seminar Hall",
+                "timings" :
+                [
+                    "9th September 2016 at 1:30 PM "
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Kavitha",
+                        "contacts" : [ "9840400472" ]
+                    },
+                    {
+                        "name" : "Ramaseshan",
+                        "contacts" : [ "9500133825" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Bridge Balancio",
+                "description" : "Detect Deflections and maintain equality. Reduce the resistances and don't admit defeat.Each tested separately, galvanometers included",
+                "rules" : 
+                [
+                    "<strong>RULES:</strong><ul><li>A team can consist of a maximum of 3 members.</li><li>Team members need not belong to the same institution.</li><li>Participants are requested to bring their own calculators.</li><li>Use of mobile phones is strictly prohibited.</li></ul>",
+                    "<strong>PRELIMS:</strong><ul><li>Teams will be given a questionnaire consisting of 25 multiple-choice questions(20 normal questions + 5 star questions, star questions carry more marks).</li><li>Participants will be given 25 minutes to answer the questions.</li><li>Questions will be from a set of varied electrical topics.</li></ul>",
+                    "<strong>FINALS:</strong><ul><li>The selected teams will be given an electrical bridge circuit with faults.</li><li>The teams should identify the faults and use the given components appropriately and balance the bridge.</li><li>This circuit must be implemented on a breadboard.</li></ul>"
+                ],
+                "venue" : "Electrical workshop (EEE Dept)",
+                "timings" : [ "10th September 2016 at 9:30 AM " ],
+                "heads" :
+                [
+                    {
+                        "name" : "Srilakshmi",
+                        "contacts" : [ "8056242825" ]
+                    },
+                    {
+                        "name" : "Sangeetha",
+                        "contacts" : [ "9789753567" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Electronic Maze",
+                "description" : "Steer your way through the different levels of electrical disdain. Every fault will run you into the ground. Beautifully intricate. Compellingly riveting.<br>CAN YOU BRAVE THE MAZE?",
+                "rules" : 
+                [
+                    "<strong>RULES:</strong><ul><li>A team can consist  a maximum 2 or 3 members.</li><li>Members can be from different institutions.</li><li>Use of mobile phones during the event is strictly prohibited.</li></ul>",
+                    "<strong>PRELIMS:</strong><ul><li>Teams will be given a questionnaire consisting of 15 multiple-choice questions.</li><li>Participants will be given 15 minutes to answer the questions.</li><li>Questions will be from a set of varied electronics fields.</li><li>6 teams will be selected for the finals.</li></ul>",
+                    "<strong>FINALS:</strong><ul><li>The  questions will be provided in the form of a maze with different paths .</li><li>The participants can choose a  path of their own, each will have different set of questions.</li><li>Whichever team completes their path first, will go to the mystery section.</li>"
+                ],
+                "venue" : "3rd year section 'A' (EEE Dept)",
+                "timings" :
+                [
+                    "Prelims: 10th September 2016 at 09:30 AM"
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Sindhu",
+                        "contacts" : [ "8220199013"	]
+                    },
+                    {
+                        "name" : "Prashanth",
+                        "contacts" : [ "9094747595" ]
+                    }
+                ]
+            },
+            {
+                "title" : "BOMB SQUAD",
+                "description" : "<strong>“War doesn’t determine who’s right. Only who’s left.”</strong><br>Armed with nothing but pliers and a deadline. You risk the lives of… none.It’s a game of wit. Think fast. Act faster.Decrypt and Defuse.Else Diffuse.<br>TIME’S RUNNING OUT...<br>Decide. Defy. Defuse.",
+                "rules" : 
+                [
+                    "<strong>RULES:</strong><ul><li>A team can consist  a maximum of 3 members.</li><li>Members can be from different institutions.</li><li>Use of mobile phones during the event is strictly prohibited.</li></ul>",
+                    
+                    "<strong>PRELIMS:</strong><ul><li>Teams will be asked to solve a questionnaire comprising 20 technical questions.</li><li>The time given for each team will be 20 minutes.</li><li>Top 6 teams will be qualified for the finals.</li></ul>",
+                    
+                    "<strong>FINALS:</strong><ul><li>Each team will be given a set of clues to begin with.</li><li>Each clue is to be used to reach a specific checkpoint.</li><li>The teams are to follow their path through the checkpoints to reach the specified destination.</li><li>Each destination will have a bomb hidden that has to be detected and defused.</li><li>The first 3 teams to defuse the bombs will be declared winners of the event.</li></ul>"
+                    
+                ],
+                "venue" : "4th year section 'B' (EEE Dept)",
+                "timings" : [ "10th September 2016 at 09:30 AM" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Anand TM",
+                        "contacts" : [ "9445600182" ]
+                    },
+                    {
+                        "name" : "Aslam Amir",
+                        "contacts" : [ "9940412904" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Arduino Challenge",
+                "description" : "This is definitely the event for our generation- no wires, no bread boards, no tedious colour coded resistors. Just pure logic and let the board do the rest. Battle it out with the best minds and implement it straight away. You don't have to be clever, just smart.",
+                "rules" : 
+                [
+                    "<strong>PRELIMS:</strong><ul><li>A team can consist of a maximum of 3 members</li><li>Each team will be given a questionnaire or a program, which they will have to answer/code for further qualification.</li><li>10 teams will qualify for the finals.</li><li>The decision of the judges cannot be contested.</li></ul>",
+                    
+                    "<strong>FINALS:</strong><ul><li>Each team will be given a task (hardware), which they will have to solve within the allotted time. </li><li>3 teams will be declared as winners.</li></ul>"
+                ],
+                "venue" : "Electronics devices & Circuits Lab (EEE Dept)",
+                "timings" : [ "10th September 2016 at 09:30 AM" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Vasudha",
+                        "contacts" : [ "9566218487" ]
+                    },
+                    {
+                        "name" : "Vasumati",
+                        "contacts" : [ "9940122826" ]
+                    }
+                ]
+            },
+            {
+                "title" : "How Stuff Works",
+                "description" : "Being intrigued by the world around us is quite natural. After all, it’s a part of being an engineer.<br>Stay hungry! Stay Foolish!",
+                "rules" : 
+                [
+                    "<strong>RULES:</strong><ul><li>A team can consist of a maximum of 2 members.</li><li>There will be 2 rounds.</li><li>Use of mobile phones is strictly prohibited. </li><li>5 teams will be selected for the finals.</li></ul>",
+                    
+                    "<strong>PRELIMS:</strong><ul><li>The first round will be a quiz on basic Electricals and Electronics.</li><li>Participants will be given 20 minutes to answer the questions.</li></ul>",
+                    
+                    "<strong>FINALS:</strong><ul><li>Final round will be a buzzer round.</li><li>Each team should explain the working of the machine or component shown on the screen.</li><li>The team with highest point wins.</li></ul>"
+                ],
+                "venue" : "3rd year section 'B' (EEE Dept)",
+                "timings" : [ "10th September 2016 at 09:30 AM" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Ashwin K Eashwar",
+                        "contacts" : [ "9003186425" ]
+                    },
+                    {
+                        "name" : "Hariharasudhan",
+                        "contacts" : [ "9047770336" ]
+                    }
+                ]
+            },
+            {
+                "title" : "TECH QUIZ",
+                "description" : "Cherish your knowledge buds, come and witness the best Science and Technology Quiz.",
+                "rules" : 
+                [
+                    "<strong>RULES:</strong><ul><li>A maximum of 2 members per team are allowed.</li><li>Use of mobile phones is strictly prohibited.</li><li>5 teams will be selected for the finals</li></ul>",
+                    
+                    "<strong>PRELIMS:</strong><ul><li>Teams will have to take a written quiz, which will have to be answered within a given time frame.</li><li>Questions will be based on electrical and electronics as well as the history involved in the development of the above fields.</li></ul>",
+                    
+                    "<strong>FINALS:</strong><ul><li>A regular quizzing round, with a quizmaster and 5 competing teams. The team with the highest points will be adjudged the winner.</li></ul>"
+                ],
+                "venue" : "2nd year section 'A' (EEE Dept)",
+                "timings" : [ "10th September 2016 at 09:30 AM" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Meenakshi",
+                        "contacts" : [ "8939608256" ]
+                    },
+                    {
+                        "name" : "Kundana Ramyashree",
+                        "contacts" : [ "8220332163" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Project Display",
+                "description" : "Do you have a penchant for scientific creativity?<br>Distil and refine your ability.<br><br>Never had a peer review?<br>This is the place for you.<br><br> Innovate. Display. Present.",
+                "rules" : 
+                [
+                    "<strong>RULES:</strong><ul><li>Project title should be legitimate. (It shouldn’t be an IEEE copied title or an older project). </li><li>Participants will be disqualified if the above rule is violated</li><li>Maximum project members=4</li><li>Mail should be sent before 05.09.2016 to project.eee2k16@gmail.com</li><li>Mail should comprise of:<br>(1) Project title and abstract<br>(2) Project members database: Name, College name, phone no, email address.</li><li>Required project components should be brought by the respective teams. No components will be provided.Registration should be done online. Only those teams will be allowed on the day of the event.</li></ul>"
+                ],
+                "venue" : "Electrical Machines II Lab (EEE Dept)",
+                "timings" : [ "9th September 2016 at 01:30 PM" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Srinath",
+                        "contacts" : [ "8939171391" ]
+                    },
+                    {
+                        "name" : "Kiran Kumar",
+                        "contacts" : [ "9884789358" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Line Follower",
+                "description" : "There's a time when the operation of the machine becomes so odious yet so enthralling, that as engineers you can't not take part!<br />And you've got to put your bodies upon the gears and upon the wheel as you weave through the dark trail.<br />Fall in Line. Survive the track. Complete the course.<br />In this trial of time, you have three lives. Make them count.",
+                "rules" : 
+                [
+                    "<strong>Problem Statement:</strong> To design an autonomous line follower robot capable of traversing a given track. The track is a black, 3 cm wide line against on a white background. It will have checkpoints indicated by markers. If the bot moves out of the track, it must be placed at the nearest checkpoint. The start and stop positions will be a black box (5 x 5 cm).",
+                    "<strong>Robot Specification:</strong><ul><li>The robot should be controlled using a microcontroller.</li><li>The dimensions of the bot should not exceed 30 cm x 30 cm x 30 cm.</li><li>The potential difference between any two points in the robot should not exceed 12V at any given point in time.</li><li>The robot must be started manually using a switch.</li></ul>",
+                    "<strong>General Rules:</strong><ul><li>Each team can have a maximum of 4 members</li><li>The Robot must fit in a box of dimension 20cm x 20cm x 20cm.</li><li>The robot must be completely autonomous.</li><li>Each team will be given two trials for both prelims and finals. The organizers can reduce the number of trials in case of time constraints. The better trial of the two will be considered.</li><li>Only one member of the team will be allowed to intervene and points will be reduced for each intervention.</li><li>Calibration time of one hour will be given before the start of the event.</li><li>Participants must bring their own components, laptops and software if they wish to make changes on the day of the event. No components will be provided.</li><li>A bot that does not meet the specifications or damages the track in any way will be disqualified</li><li>The organizers reserve the right to change any of the rules mentioned above. In such a case, the participants will be informed of the changes beforehand.</li></ul>",
+                    "<strong>Round 1 (Preliminary):</strong><ul><li>The robot should traverse the given track within five minutes</li><li>The time and points noted by the organizers will be final</li><li>Organizers will have the final say with respect to any dispute that may arise on the day of the event.</li></ul>",
+                    "<strong>Round 2 (Finals):</strong><li>The top five teams to complete the preliminary round will qualify for the final round.</li></ul>"
+                ],
+                "venue" : "Machines and Instrumentation Lab (EEE Dept)",
+                "timings" : [ "Day 2 (Round 1: 8.00 – 12.30)", "Day 2 (Round 2: 12.30 – 15.30)" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Supreeta Venkatesan",
+                        "contacts" : [ "8939367938" ]
+                    },
+                    {
+                        "name" : "Arvind T",
+                        "contacts" : [ "9840345205" ]
+                    },
+                    {
+                        "name" : "Venkatesh C",
+                        "contacts" : [ "9444204371" ]
+                    }
+                ]
+            }
+            ],
+
+    "gear up" : [
+                {
+                    "title" : "Auto Quiz",
+                    "description" : "Find out if you have it in you to be a true petrol-head as we subject your knowledge on everything related to automobiles, to the ultimate test. Register to battle your way through the two rounds and be crowned the champion of the auto world!",
+                    "rules" : 
+                    [
+                        "This is a team event. Each team must consist of a minimum of two and a maximum of three members (no lone wolf).",
+                        "This is a two stage event. The prelims will be a written round.",
+                        "Five questions will be star marked and these will be used in the event of a tie breaker.",
+                        "The top six teams will qualify for the finals.",
+                        "The final will be an A/V based round.",
+                        "The decision of the quizmaster will be treated as final, in case of any discrepancies."
+                    ],
+                    "venue" : "Mechanical Department Lecture Halls",
+                    "timings" :
+                    [
+                        "Prelims: 9th September 2016 at 1 p.m and 10th September 2016 at 9 a.m",
+                        "Finals: 10th September 2016 at 12 p.m"
+                    ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Arjun A",
+                            "contacts" : [ "9176794182" ]
+                        },
+                        {
+                            "name" : "Gokul V",
+                            "contacts" : [ "8939438802" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Bottle Rocketrix",
+                    "description" : "It is D-Day, nerves all around, last minute checks. Countdown- 5..4..3..2..1..BLAST OFF. Is it a bird? Is it a plane? It’s a BOTTLE ROCKET?!<br /><br />Back with a bang and a bottle to give wings to your dreams! Come, watch them soar.",
+                    "rules" : 
+                    [
+                        "A minimum of two and a maximum of three members are allowed per team.",
+                        "Water, a compressor and a launch-pad will be provided.",
+                        "Maximum bottle capacity is 2500 ml (violation of which will result in disqualification).",
+                        "Only single stage rockets are allowed, any modifications must be validated by the event head. Information regarding the modifications must be intimated well in advance. (Judge's decision is final)",
+                        "Pressure range is pre-determined (40-45 psi)",
+                        "Time allotted to each team is 3 minutes",
+                        "Judgement will be based on the distance travelled by the rocket and the deviation from the fixed trajectory",
+                        "Use of sheet metal for the rockets is prohibited.",
+                        "In case of any discrepancies, the decision of the event co-ordinators will be deemed final."
+                    ],
+                    "venue" : "Bus Bay (near Mechanical Dept.)",
+                    "timings" : [ "10th September 2016, 9.00 am" ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Anandh SRB",
+                            "contacts" : [ "9790831175" ]
+                        },
+                        {
+                            "name" : "Meegadeepan",
+                            "contacts" : [ "8754636187" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Cyborg Combat (Robowars)",
+                    "description" : "Is your anger coming in the way of your friendship? Do you have the urge to prove your mettle to your peers? Have you always wanted to punch someone till you draw blood?<br /><br />Don’t do that.<br /><br />We provide you instead with a platform to relish the pleasure of watching two months of your opponents’ hard work get blown to smithereens.<br /><br />ADDED BONUS- You won’t have to serve jail term, because robots don’t have rights (yet).",
+                    "rules" : 
+                    [
+                        "A team may consist of a maximum of 3 participants.",
+                        "The competition will be played on a knock-out basis consisting of 2 players at a time. The maximum duration of each round will be 5 minutes. Any team that is not ready at the time specified will be disqualified from the competition.",
+                        "The machine will be checked for safety before the competition. Any robot found unsafe to other participants and spectators will be disqualified.",
+                        "Change in rules, if any, will be highlighted on the website and notified to the registered teams.",
+                        "Violation of any the above rules will lead to disqualification.",
+                        "Judges’ decision shall be treated as final and binding on all.",
+                        "A robot is declared victorious if its opponent is immobilized or out of the arena.",
+                        "A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds.",
+                        "A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement.",
+                        "If both robots survive the 5 minutes, the robot with the higher hit points wins.",
+                        "The winner advances to the next round while the loser is eliminated from the tournament.",
+                        "<strong>Note: The bot should conform to the specified conditions.</strong>"
+                    ],
+                    "venue" : "Ground (near Mechanical Dept.)",
+                    "timings" : [ "10th September 2016, 9.00 am" ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Tarun Subramanian",
+                            "contacts" : [ "9176358957" ]
+                        },
+                        {
+                            "name" : "Ram Sharma",
+                            "contacts" : [ "9659336828" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Indoor Grand Prix",
+                    "description" : "So maybe your favourite place to be is indoors. You hate the pollution; you’re far too refined to seek pleasure in exhaust smoke or perfectly executed drifts. You envision yourself in a Tesla, in equilibrium with your surroundings.<br /><br />We’d love to have you on-board at the Indoor Grand Prix, as you duel with your peers, to prove your prowess, and with petrol-heads, to prove a point.",
+                    "rules" : 
+                    [
+                        "<strong>Track Specification</strong><ul><li>Two identical tracks for the participating teams to compete separately in the initial round and against each other in the knockout stages.</li><li>The track will include sharp turns, obstacles and loops.</li><li>The two tracks will be combined into one for the final round.</li></ul>",
+                        "<strong>Time Trial</strong><ul><li>This round will be a time trial, in which each team will be allowed to ride their cars on the track for a lap; the time taken to complete the lap will be recorded.</li><li>The faster you finish, the better are your chances to qualify for the knockout round.</li></ul>",
+                        "<strong>Knockout</strong><ul><li>Teams will compete against each other in twos, in two identical tracks. The winner stays in contention while the losing team is eliminated.</li><li>Races will continue to happen between the teams ranked first and last in the points table. The top two teams from the knockout round will compete in the finals.</li><li>The two tracks will be combined into a single one for the final round. The details of this round will be given on spot.</li></ul>",
+                        "<strong>Specifications</strong><ul><li>The car should not exceed 25x25x25 cm in dimensions.</li><li>12 volt, 5A On-board battery</li><li>The vehicle should be able to climb obstacles and run on slippery surfaces.</li><li>Track width is 32 cm.</li></ul>"
+                        
+                    ],
+                    "venue" : "Drawing Halls - Mechanical Dept.",
+                    "timings" : [ "10th September 2016, 9.00 am" ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Padmashravan",
+                            "contacts" : [ "9940373212" ]
+                        },
+                        {
+                            "name" : "Shanmugavel",
+                            "contacts" : [ "9043659551" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Mechathlon",
+                    "description" : "The more you think about it, the more you want to be a mechanical engineer. But, you lack a forum to fully showcase your adept grasp on the subject. For you whiz kids, Mechathlon is the perfect event. Tackle the wide range of questions put forth, and compete with the very best. Step up, and come forward, for the world needs to have a taste of your knowledge.",
+                    "rules" : 
+                    [
+                        "This is an event that happens in three stages.",
+                        "All participants who have registered for the event will take a preliminary quiz consisting of 15 MCQs. The allotted time is 30 min.",
+                        "The preliminary quiz will be evaluated by volunteers and a merit list will be formed. In case of a tie, the starred questions will be used to break it.",
+                        "The top 8 to 12 candidates will qualify for the next round, which is a Group Discussion (GD).",
+                        "The GD will be presided over by a professor. It will either be a GD of 1 group with 8 members or 2 groups of 6 members each.",
+                        "The performance of participants in the GD will be evaluated by the faculty.",
+                        "On a scale of 0 to 1, the weightage for the prelims quiz is 0.7, and the weightage for GD is 0.3.",
+                        "A revised merit list will be drafted after the GD; the top 4 - 6 candidates will be eligible for the Final Interview.",
+                        "The panellists for the interview will be 3 faculty members (one each from the three broad areas of Manufacturing, Design and Thermal).",
+                        "The panellists will unanimously decide the winner and the runners-up based on the performance in the interview."
+                    ],
+                    "venue" : "Mechanical Department Lecture Halls",
+                    "timings" :
+                    [
+                        "Prelims: 9th September 2016 at 1 p.m and 10th September 2016 at 9 a.m",
+                        "Finals: 10th September 2016 at 12 p.m"
+                    ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Amartya Karthik",
+                            "contacts" : [ "9003294018" ]
+                        },
+                        {
+                            "name" : "Mohan Kumar",
+                            "contacts" : [ "9488928916" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Outdoor Grand Prix",
+                    "description" : "The growling, power hungry automobile whizzes past you, its tyres drifting across the tarmac. The smell of burning rubber, with sparks flying off the road, pumps you and you are gunning to take down the terrain that dares to challenge you… Have you ever had dreams like that? If so, Outdoor Grand Prix, now bigger and better than ever before, is the event for you. With a challenging track to tackle, consisting of numerous towering obstacles in your path, channel the inner racer in you and drive your car to glory. Your racing dream begins right here.",
+                    "rules" : 
+                    [
+                        "<strong>Track Specification</strong><ul><li>The track will be off-road with obstacles, slopes and tunnels.</li><li>The width of the track will be intimated on spot.</li></ul>",
+                        "Only cars powered by internal combustion engines are allowed to compete. Electric or solar powered cars will not be allowed under any circumstances.",
+                        "Maximum allowable displacement for IC engines is 4.6cc.",
+                        "Only nitro-based fuels or gasoline should be used in the cars.",
+                        "For nitro-based fuels, the amount of nitro compounds in the mixture should not exceed 25%.",
+                        "Fuel will not be provided by the organizers. Teams must bring their own.",
+                        "The cars should fit in a box of dimensions 500mm x 400mm x300mm. The antenna used for radio control is exempted from height restrictions.",
+                        "Participants are advised to have multi-channel radio controllers to prevent frequency clashes. Transmitters with FHSS - Frequency Hop Spread Spectrum are allowed. Organizers will not be responsible for any interference in frequencies.",
+                        "Batteries will not be provided. Contestants must bring sufficient number of batteries.",
+                        "Both ready-to-run kit cars and custom fabricated cars are allowed to compete. Special prizes might be awarded for cars with maximum number of custom fabricated parts. Participants are required to submit an abstract containing the details of the parts fabricated to the email id mentioned below before the day of the event.",
+                        "The abstract must contain photographs of the parts fabricated. All other technical specifications of the car must be included in the abstract.",
+                        "Organizers have the right to stop a car from competing if it is found to be unsafe.",
+                        "Time penalties for cars leaving the track are at the sole discretion of the organizers. Details of the penalties will be revealed on the day of the event.",
+                        "Participants will be given time for setting up their car before the commencement of the first round. Each team gets one practice lap on the track. Requests for additional trial runs on the actual track will not be entertained.",
+                        "Organizers will not be responsible for accidental collisions during the head to head race. Teams deliberately trying to obstruct another vehicle are subject to disqualification. The final decision rests with the organizers in this regard.",
+                        "A pedestal will be provided for drivers to control their vehicles. Drivers are prohibited from running around the track along with the car. The track may contain challenging blind spots that are not clearly visible to the driver.",
+                        "Only two track marshals per team will be allowed on the track (on the outside) to restore the cars leaving the track.",
+                        "Participants will have to forfeit the competition if they face any technical issues with their vehicle. Additional time will not be provided once the event starts.",
+                        "Abstracts to be sent to: dineshkumar13306@mech.ssn.edu.in or visveshwar13124@mech.ssn.edu.in"
+                    ],
+                    "venue" : "Ground (near Basketball groound)",
+                    "timings" : [ "10th September 2016, 9.00 am" ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Ragul Kishore",
+                            "contacts" : [ "9940240849" ]
+                        },
+                        {
+                            "name" : "Dinesh",
+                            "contacts" : [ "8903637209" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Project Exhibition",
+                    "description" : "“If God exists, he is definitely an engineer”, and nowhere is this more evident than when we engineers do what we were born to do- Create. The project exhibition at SSN is a stage for all you creators- whether you obsess over the tiniest details of your brainchild or coast on a vision bigger than the universe itself. Come, join us in this celebration of human ingenuity!",
+                    "rules" : 
+                    [
+                        "<strong>General Details</strong><ul><li>Projects must fit in one of the following three streams: Design, Thermal (includes projects related to alternate fuels and renewable energy) or Manufacturing & Production.</li><li>Each team can have a maximum of 4 members.</li><li>Participants cannot be part of more than one team.</li><li>A team cannot exhibit more than one project.</li></ul>",
+                        "<strong>Prelims</strong><ul><li>Every team must submit a two page (A4 size) report of their project work.</li><li>The report should include a brief write up on the following: project definition (problem statement or aim), methodology adopted (should provide basic information on calculations, fabrication method employed etc.) and conclusion (brief on the final outcome of the project)</li><li>Last date for submitting the preliminary report (by e-mail) is 1st September 2015. The results of the selection will be intimated to the teams by 1st September 2015.</li></ul>",
+                        "<strong>Finals</strong><ul><li>The teams selected in the prelims will present their project on the event day, in a space allocated to them.</li><li>Teams can use visual aids such as flex banners and charts for presentation. (Maximum Size of Visual aids: 2x2 feet).</li><li>It is advised that the visual aids include the following topics:<ol><li>Problem Definition</li><li>Design Calculation and Methodology</li><li>Fabrication Process and Method</li><li>Results and Discussion</li><li>Conclusion</li></ol></li><li>More points will be given for inclusion of visual content such as flowcharts, graphs and elements to aid easier understanding.</li><li>Each team will exhibit the working of the projects to the judges.</li><li>Aids required to present the working (such as pipes, tubes, in case of any projects involving fluids) should be brought by the respective teams.</li><li>Teams can utilize the electricity and plumbing facilities available in the department.</li><li>Teams submitting projects are allowed to show a video of the working where actual working cannot be shown on the day of the event. However, preference will be given to teams who can demonstrate the working.</li><li>Teams will be evaluated for the following:<ol><li>Originality (5 points)</li><li>Ease of Implementation (5 points)</li><li>Conceptual Clarity (5 points)</li><li>Working and desired results (5 points)</li><li>Innovation (5 points)</li><li>Overall adherence to the format prescribed( A4, Visual aids etc,) (5 points)</li></ol>Total- 30 points</li><li>The two best projects will be awarded.</li></ul>",
+                        "Send your project abstract to ramsharma13318@mech.ssn.edu.in"
+                    ],
+                    "venue" : "Mechanical Department Lecture Halls",
+                    "timings" : [ "10th September 2016, 9.00 am" ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "R Venkatraman",
+                            "contacts" : [ "8015195170" ]
+                        },
+                        {
+                            "name" : "Shankar",
+                            "contacts" : [ "8939423425" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Technical Paper Presentation",
+                    "description" : "Your mind is abuzz with ideas and you crave the recognition you deserve. But where will you find a platform to display your might over the subject? We bring to you budding engineers, the technical paper presentation. Papers may be from any of the three broad streams in Mechanical Engineering: Manufacturing, Design and Thermal. What are you waiting for? Send in your papers!",
+                    "rules" : 
+                    [
+                        "The topic must fit into one of these three streams - Manufacturing, Design or Thermal.",
+                        "The following contents are generally expected in a paper: Abstract, Keywords, Introduction, Experimental setup (if any), Numerical Model (if any), Results and Discussions, Conclusions, Acknowledgment (if any), References (compulsory) and Appendix (if any).",
+                        "Authors are requested to follow the format of any standard (preferably Mechanical Engineering Journal) under Elsevier publications while citing references and for art works, figures and tables.",
+                        "There can be a maximum of three authors per paper presented; each author can only be part of one paper.",
+                        "The paper is to be presented by one author.",
+                        "The time limit for presentation is 8 minutes; this might be followed by a Q&A session.",
+                        "The quality, novelty and depth of research involved in the paper will be judged by professors (2 in each stream) and their decision will be deemed final.",
+                        "The teams placed first and second in each stream will receive a winner's certificate along with a cash prize (certificates will be provided to individual team members).",
+                        "Other teams will receive participation certificates. ",
+                        "The paper has to be mailed to the ID mentioned below as per the standardized paper format (You could use this IEEE format); the name of the file must contain the topic in brief and the stream. Example: A manufacturing paper based on welding will have the following file name: Manufacturing - Welding.doc. The mail must also contain contact details of authors - their phone numbers and e-mail IDs.",
+                        "The deadline for mailing the paper is 9pm on 25th August 2016.",
+                        "The selected teams will be intimated through e-mail latest by 1st September 2016.",
+                        "PS: We are against plagiarism in any form. Papers submitted will be strictly evaluated. The smallest hint of plagiarism will result in your paper being disqualified from the event.",
+                        "Please send in your papers on or before 9 p.m 25th August 2016 to sathish13090@mech.ssn.edu.in"
+                    ],
+                    "venue" : "Mechanical Department Lecture Halls",
+                    "timings" : [ "10th September 2016, 1.00 pm" ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "NS Siddharth",
+                            "contacts" : [ "7299971195" ]
+                        },
+                        {
+                            "name" : "Satish Kumar",
+                            "contacts" : [ "7299512541" ]
+                        }
+                    ]
+                }
+                ],
+
+    "crystic" : [
+                {
+                    "title" : "Paper Presentation",
+                    "description" : "Do you consider yourself thorough in your field of interest? Do you wish to flaunt it? if yes, this platform is for you. Come present a paper if your expertise aligns with any of the following domains, stand proud as you shoot down the volley of queries afterwards. Following are the topics available for paper presentation.<br><ol><li>Sustainable Energy</li><li>Environment and Pollution control</li><li>Solid waste management</li><li>Waste water treatment</li><li>Nanotechnology</li><li>Computational Modelling and Simulation</li><li>Material Science</li><li>Bioprocess Engineering</li></ol>",
+                    "rules" : 
+                    [
+                        "<strong>RULES AND REGULATIONS:</strong>",
+                        "Maximum of 3 participants are allowed per presentation.",
+                        "Abstracts should not exceed 200 words.",
+                        "Judges’ decision is final and binding.",
+                        "Send your abstracts to :",
+                        "The file name should be the title of your paper.",
+                        "The subject of the mail should be 'PAPER PRESENTATION – (PARTICIPANTS NAMES)'",
+                        "Last day for submission of abstracts :"
+                    ],
+                    "venue" : "Chemical Department Lecture Halls",
+                    "timings" :
+                    [
+                        "9th September 2016 from 1 PM to 10th September 2016 03:30 PM"
+                    ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "M Sharmada",
+                            "contacts" : [ "9677000740"	]
+                        },
+                        {
+                            "name" : "S Keerthana",
+                            "contacts" : [ "8220064443" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Pin It Up!",
+                    "description" : "If you are the kind of person who can’t do slides, this is for you. Turn your paper into a colourful and illustrative poster adhering to the guidelines. Give a brief explanation about the content to our judges and stand a chance to win exciting prizes!<br><strong>TOPICS FOR POSTER</strong><br><ol><li>Environment and Energy </li><li>Catalysis and Reaction Engineering</li><li>Sustainability</li><li>Food, Pharmaceutical and Biotechnology</li><li>Separations</li><li>Fuels and Petrochemicals</li><li>Materials Engineering and Sciences</li><li>Transport Phenomena</li><li>Process Simulation and Modelling</li><li>Material Technology</li><li>Nanotechnology</li><li>Safety Management and other related topics</li></ol>",
+                    "rules" : 
+                    [
+                        "<strong>RULES AND REGULATIONS</strong>",
+                        "Maximum of 3 participants are allowed per presentation.",
+                        "Abstracts should not exceed 200 words.",
+                        "First page of the abstract must contain the Title of the Paper and author’s full postal address, email id, mobile number.",
+                        "A space of 75*60 cm2 will be provided for your poster display.",
+                        "Judges’ decision is final and binding.",
+                        "Send your abstracts to",
+                        "The file name should be the title of your paper.",
+                        "The subject of the mail should be 'POSTER PRESENTATION – PARTICIPANTS NAMES'.",
+                        "Last day for submission of abstracts: "
+                    ],
+                    "venue" : "Chemical Department Design Lab ",
+                    "timings" : [ "10th September 2016 at 09:30 AM" ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "K Anthony Arvind",
+                            "contacts" : [ "9043636612" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Working Model",
+                    "description" : "Two dimensional diagrams on the texts are passé! In the age of printers who wants to learn from static images? Break out of the paper and build us a working model for any of the following topics and explain briefly to our panel of judges. The models will be judged based on<br><ol><li>The design of the model</li><li>Operating cost and efficiency.</li><li>Concepts involved and explanation.</li></ol><br><strong>TOPICS FOR WORKING MODEL:</strong><ol><li>Pumps</li><li>Recovery of Chemicals</li><li>Waste water treatment</li><li>Utilization of Waste materials</li><li>A study on Electrochemical reactions</li><li>Alternative sources of Energy</li><li>Biochemical Projects(Biogas, Bio-fuel, Biomass production)</li><li>Condensation mechanism</li><li>Effluent Treatment in petroleum refinery</li><li>Desalination system</li><li>Extraction process</li><li>Corrosion study</li><li>Pollution control</li><li>Energy Resources conservation</li><li>Environmental Health</li><li>Safety in industries</li></ol>",
+                    "rules" : 
+                    [
+                        "<strong>RULES AND REGULATIONS</strong><br>An abstract should to be submitted by each team on or before with the below mentioned details.",
+                        "<br>Name of the participants (Maximum 4), their Email ID, contact number",
+                        "Institution/College to which they belong",
+                        "team name",
+                        "Properly labeled schematic diagram of the model.",
+                        "Specification of chemical reactants used and reactions used (if any).",
+                        "A short explanation of the mechanism.",
+                        "Quantify the cost of each material used in the model.",
+                        "<br>This abstract should be mailed (in pdf format only) to chemiczna2k15@gmail.com with “Working Model – ” as subject before 11:59pm of",
+                        "<br>N.B: The judges’ decision will be final no discrepancies will be encouraged. No second attempts will be permitted. Participants can be from any department. They can be of same or different institutions. No participants should register in more than one team. In that case the teams would be disqualified."
+                        
+                    ],
+                    "venue" : "Chemial Department - Reaction Engineering Lab",
+                    "timings" : [ "10th September 2016 at 02:00 PM" ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "K Prapanchana",
+                            "contacts" : [ "8870705400" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Crossfire",
+                    "description" : "Tech savvy, gizmo guru in the world of chemical technology, the goto person. If you are any one of the above, this quiz is for you. Polish your intellectual armour and come prepared. Get ready to battle it out over 4 gruelling rounds as we put you to test.",
+                    "rules" : 
+                    [
+                        "<strong>Round 1:</strong>Preliminary pen and paper test",
+                        "<strong>Round 2:</strong>Finals consisting of 3 rounds in itself"
+                    ],
+                    "venue" : "Chemical Department - Seminar Hall",
+                    "timings" : [ "10th September 2016 at 09:30 PM" ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "G Ravikanth",
+                            "contacts" : [ "9789431845" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Chemcrypto",
+                    "description" : "Are you an ardent fan of Dan Brown’s Digital Fortress and Da Vinci Code? Do you love chemical engineering unit operations? If yes to both, then you are “perfect” to take part in this event. Crack the code and answer the questions that follow and emerge as the winner.",
+                    "rules" : 
+                    [
+                        "<strong>RULES AND REGULATIONS</strong><ul><li>Maximum of 3 members are allowed per team.</li><li>All the team members can/cannot be from the same institution. Cross teams are allowed.</li><li>Every team will be given a set of puzzles. The number of questions they crack in the given time will be considered for deciding the winner.</li><li>Use of electronic gadgets while attending the event is strictly prohibited and will lead to disqualification of the team.</li><li>The decision taken by event organisers is final.</li></ul>"
+                    ],
+                    "venue" : "Chemical department - Seminar Hall",
+                    "timings" : [ "9th September 2016 at 12:30 PM" ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "S Siddarth",
+                            "contacts" : [ "9566125805" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Chanakya's Pitch",
+                    "description" : "Come up with an innovative idea for your start-up – in accordance with the  theme of a GREEN industry. The company you propose should be in the field of Chemical Engineering Industry and should differ essentially from the existing such industries. On approval of your abstract you would be invited to pitch your start-up to us, in the presence of judges from varied fields. You would be marked on the extent of your differentiation and innovation, the greenness of your industry and your financial plans for it.",
+                    "rules" : 
+                    [
+                        "<strong>RULES AND REGULATIONS:</strong><ul><li>The abstract you submit for our prior consideration should contain the following details:</li><li>A brief description of your start-up and its purpose.</li><li>Its need in the present age. </li><li>A proposed location for establishing your start-up.</li><li>The GREEN aspect and uniqueness of your industry. </li><li>A brief technical description of the processes that take place in your industry – right from the inventory, raw material stage to the finished product, distribution stage.</li><li>Your ideas to obtain financial aid to run your start-up.</li><li>Your innovative ideas to market your own product.</li></ul>"
+                    ],
+                    "venue" : "Chemical department - PG Lecture Hall",
+                    "timings" : [ "10th September 2016 at 09:30 AM" ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "K R Rohit Narayanan",
+                            "contacts" : [ "9566015075" ]
+                        },
+                        {
+                            "name" : "Priya B",
+                            "contacts" : [ "9551546295" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Fantasy Chemical League",
+                    "description" : "Who said chemical engineers were all about lab coats and safety goggles? We are just as good at taking stock of wall street as we are at handling test tubes. We bring to you fantasy chemical league where we combine the best of both worlds, management and engineering. Are you ready to dabble numbers, crunch some stocks and produce at the same time? This event plays upon only virtual things. There is a lot to win with no investment, “BRAIN” exception!!!.",
+                    "rules" : 
+                    [
+                        "<strong>RULES AND REGULATIONS:</strong><ul><li>The game proceeds in sessions. Each session lasts for 45 minutes. </li><li>This is a team event. Each team consists of 3 members.</li><li>Raw materials and licence are first come first served basis.</li><li>Have a prior knowledge about Chemical licence and marketing procedure in India (GST?!).</li><li>Decision of the organising board is final.</li><li>Winners will be notified through email id and phone call.</li></ul>"
+                    ],
+                    "venue" : "Chemical Department - Mechanical Operations Lab",
+                    "timings" : [ "9th September 2016 at 02:00 PM" ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "B Sudhan",
+                            "contacts" : [ "9791860918" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Mystery Project",
+                    "description" : "How good are you at cooking up something on spot? We put you on a task to test your presence of mind and mastery over simple concepts in the most interesting way possible. Come unprepared and experience the gusto... Apply some logic and techie stuff to build what we ask for. That is it! We give you the material. You are only required to build your project.",
+                    "rules" : 
+                    [
+                        "<strong>RULES AND REGULATIONS:</strong><ul><li>Maximum of 3 members are allowed per team.</li><li>All the team members can/cannot be from the same institution.Cross teams are allowed.</li><li>Use of electronic gadgets while attending the event is strictly prohibited and will lead to disqualification of the team.</li><li>The decision taken by event organisers is final.</li></ul>"
+                    ],
+                    "venue" : "Chemical Department - Heat Transfer Lab",
+                    "timings" : [ "10th September 2016 at 02:00 PM"	],
+                    "heads" :
+                    [
+                        {
+                            "name" : "R Pavan Kumar",
+                            "contacts" : [ "9445907833" ]
+                        }
+                    ]
+                }
+                ],
+
+    "organic chip" : [
+            {
+                "title" : "Biogonize",
+                "description" : "Tired of filling pages and pages to prove your knowledge in biology? Well, here is an opportunity to prove your talent without having to fill 42 pages! And guess what? We evaluate content! We evaluate only once!  And we give you what you deserve!  Sounds rejuvenating, doesn’t it?! So there you go! Don’t forget to join us on the 9th of September at INVENTE V1.0!",
+                "rules" : 
+                [
+                    "<strong>Preliminary round description:</strong>It will be a paper and pen quiz which will contain 25 questions that test your basic biology knowledge.",
+                    
+                    "<strong>Intermediate round description:</strong>Eight best teams will be selected for the second round. In the second round 4 visual clues that are related to the same term will be given. The team which identifies the correct word first will be given the points.",
+                    
+                    "<strong>Final round description:</strong>Out of the 8 teams, 4 finalists will be selected. In round 3, a set of 7 words will be given to one of the participants of each team. This participant has to give one word clues so that the other team member identifies the words correctly. Only 3 clues can be given per word and only one guess is allowed per clue.  The fastest team that identifies all the words correctly will be declared as the winner."
+                    
+                ],
+                "venue" : "4th year classroom - First Floor (BME Dept)",
+                "timings" : [ ],
+                "heads" :
+                [
+                    {
+                        "name" : "Ritu V",
+                        "contacts" : [ "9444707025" ]
+                    },
+                    {
+                        "name" : "Lekha R",
+                        "contacts" : [ "9600164196" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Bioquest",
+                "description" : "Do you consider yourself an aspiring entrepreneur nipped in the bud by engineering? Have you been waiting for that dormant business animal to unleash itself? Wait no more because BIOQUEST beckons. Turn up at the Biomedical Department and find out just how good you are.",
+                "rules" : 
+                [
+                    "<strong>General rules and regulations:</strong><ul><li>Each team can have two or three members.</li><li>Cross college teams are allowed.</li><li>ID card is compulsory for the participants.</li><li>Decision of judges and event coordinators are final and binding to all.</li></ul>",
+                    
+                    "<strong>Preliminary round (Round 1):</strong><ul><li>Each member from a team will come forth and pick a chit that has different domains related to Biomedical engineering/ Biotechnology.</li><li>The team will get questions based on the domain they have chosen throughout the event.</li><li>There will be ten MCQ questions and one problem statement which has to be answered in brief within 40 minutes.</li></ul>",
+                    
+                    "<strong>Final round description (Round 2):</strong><ul><li>One team from each domain will move into the finals.</li><li>Each team will get one evening to prepare their presentation on the problem statement they have answered in the previous round.</li><li>They have to present it with the perspective of an entrepreneur. The team which is able to convince the judges will be declared winner.</li></ul>"
+                ],
+                "venue" : "3rd year classroom - Ground Floor (BME Dept)",
+                "timings" :	[ ],
+                "heads" :
+                [
+                    {
+                        "name" : "Sushmitha.S",
+                        "contacts" : [ "9176220217" ]
+                    },
+                    {
+                        "name" : "Chitra.R",
+                        "contacts" : [ "8754504737" ]
+                    }
+                ]
+            },	
+            {
+                "title" : "Ludo Quiz",
+                "description" : "Let’s sprinkle some of that wizarding world magic and have an ‘Organic Board Game’ transpire. Álohomora your way into a massive game of Ludo and intense quizzing and maybe brew a big cauldron of fun at Ludo Quiz Save the date: 09-09-2016.",
+                "rules" : 
+                [
+                    "<strong>General rules and regulations:</strong><Ol><li>The game, as the name indicates, will be a mix of the traditional board game, Ludo, and a technical quiz. It will be a tournament-style event so get ready for heart-pumping excitement.</li><li>The event will consist of three rounds- The Prelims and The Knockouts, and The Finale.  Participants will be allowed to either play alone or in groups of 2.</li></ol>",
+                    
+                    "<strong>Preliminary round (Round 1):</strong>The Prelims stage will consist of a paper-based technical quiz, where the participants are made to complete the quiz within 30 minutes. The prelims will start from 10:30AM and continue until 12:00 PM. This is to ensure ample time is present for the participants who register late. There will be 30 questions in the paper, all in MCQ format. Each correct answer will be given a +1 and wrong answers will be given 0. From this, 16 teams will be selected for The Knockouts.",
+                    
+                    "<strong>Knockout round description (Round 2):</strong>This is where the tournament style kicks in, dwelling on the ever-thrilling format of knockout matches. The knockouts will blend the fun board game, Ludo, with the usual technical quiz. In this stage, there will be two games happening simultaneously in two ludo boards. Each team will be drawn in random and a bracket will be established.  4 teams choose a colour by drawing chits, and act as the set pieces in the game. Each team will be posed with an initial question. On answering it, one member may exit the start area, and progress towards the end.  After this, all the questions will contain answers that have the length of words between 1 and 6. These answers are analogous to the dice numbers 1 to 6. Upon answering, the participant may move steps equal to the number of words.  If answered wrong, the participant is not allowed to move. The team that has all its members reach the finish line wins. In the event that a player steps onto the tile of another idle player, the idle player has to go back to the start position. The top team will be chosen from each match. These four teams will get to advance to The Finale.",
+                    
+                    "<strong>Final round description (Round 3):</strong>Same rules, same game, but higher stakes, and even higher difficulty, as teams face-off to win three cash prizes. The Finale will pose a serious challenge to the teams, as they must be on their feet, to respond quickly to the questions posed."
+                ],
+                "venue" : "2nd year classroom - Ground Floor (BME Dept)",
+                "timings" : [ ],
+                "heads" :
+                [
+                    {
+                        "name" : "Tanushree Devi B",
+                        "contacts" : [ "9952040922"	]
+                    },
+                    {
+                        "name" : "Monica A",
+                        "contacts" : [ "8056327327" ]
+                    }
+                ]	
+            },
+            {
+                "title" : "Masterpiece",
+                "description" : "In a sea of the ordinary, stand out and let your brilliant ideas surface as we uncover your technical skills in the most artistic and colorful way, here at Masterpiece!",
+                "rules" : 
+                [
+                    "<strong>General rules and regulations:</strong><ol><li>All the materials such as agar, pour plates, clay, gloves and masks, bacterial inoculum will be provided.</li><li>Maximum of 3 numbers per team.</li><li>Contestants must bring their own stationery.</li></ol>",
+                    
+                    "<strong>Preliminary round description:<br>Streaks</strong><br>Inoculate artistic streaking on a agar filled pour plate and display your knowledge of culture media streaking techniques.<br><strong>Duration:30 minutes</strong>",
+                    
+                    "<strong>Intermediate round description:<br>Clay modeling</strong><br>Modelling of a physiological system and a MCQ based test on the selected system. The said biological system will be assigned on the day of the event.<br><strong>Duration:90 minutes</strong>",
+                    
+                    "<strong>Final round description:<br>Biomimetics </strong><br>Matching of a natural object with its real time applications including identification of logos for instruments and Biomedical companies.<br><strong>Duration:60 minutes</strong>"
+                ],
+                "venue" : "Diagonistic and Therapeutic Equipments Lab - Second Floor (BME Dept)",
+                "timings" : [ ],
+                "heads" :
+                [
+                    {
+                        "name" : "Pushpika S",
+                        "contacts" : [ "8695534777" ]
+                    },
+                    {
+                        "name" : "Santhanalakshmi A",
+                        "contacts" : [ "9442851990" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Paper Presentation",
+                "description" : "",
+                "rules" : 
+                [
+                    "The following are the domains for paper presentation:<ul><li>Healthcare technology</li><li>Nano electronics</li><li>Biosignal processing</li><li>Artificial organs</li><li>Physiological modelling</li><li>Digital image processing</li><li>Artificial neural networks</li><li>VLSI signal processing</li><li>Real time embedded systems</li><li>.Robotics</li></ul>",
+                    "Abstract has to be submitted(word document)in not more than 300 words before the due date (4th September 2016)",
+                    "Based on peer review of the abstracts, contestants will be shortlisted for the next round. If chosen, the hard copy of the paper with the abstract in A4 sheets(not more than 10 pages including references,tables and graphs) has to be submitted on the day of the event. The paper should be in IEEE format and written in Times New Roman font.",
+                    "The ‘Microsoft Powerpoint’ presentation should be mailed to the organizing team on or before the 8th of September and can last for a maximum of 7 minutes. There will be a 3 minute Q&A session following it."
+                ],
+                "venue" : "Redington Learning Center(Seminar Hall) - Ground Floor (BME Dept)",
+                "timings" : [ ],
+                "heads" :
+                [
+                    {
+                        "name" : "R Mohamed Ajmal",
+                        "contacts" : [ "8220451101" ]
+                    },
+                    {
+                        "name" : "P N Nova Belle",
+                        "contacts" : [ "9600834504" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Poster Presentation - Papyrus",
+                "description" : "Here’s something for all the tech savvy and creative engineers out there. Pour all your innovative ideas onto a single sheet of chart. Visually present your concepts and win cash prizes!",
+                "rules" : 
+                [
+                    "General rules and regulations:<ul><li>The posters that adhere to the topics given are alone expected.</li><li>The abstract for the poster must reach before the deadline. Abstracts reaching us after deadline will not be accepted.</li><li>Not more than 3 members can constitute in a team.</li></ul>",
+                    "Preliminary round description:<ul><li>The posters should be based on one of the following topics.<ul><li>Biomedical sciences</li><li>Biotechnology</li><li>Medical image processing</li><li>Biometrics</li><li>Biomechanics</li><li>Healthcare technology</li><li>Artificial intelligence</li><li>Nanotechnology</li><li>Biomedical instrumentation</li><li>Biomaterials and Artificial organs</li></ul></li><li>The abstracts will be processed by the committee members. The deserving candidates will be called for the final round to present their posters.</li><li>A maximum of 8 teams will be selected for the final round.</li></ul>",
+                    "Final round description:<ul><li>The candidates are expected to present the posters. The poster must include the following:<ul><li>Title</li><li>Names of author(s) and affiliated organization(s)</li><li>Abstract (brief summary of objectives, methods, results, and conclusions)</li><li>Background Information</li><li>Project Objectives</li><li>Materials and Methods</li><li>Results (tables, graphs, charts)</li><li>Conclusions</li><li>Discussion of possible future directions or why project is complete</li></ul></li><li>Competitors shall plot the poster on a 46”x56” sheet of paper</li><li>All illustrations and text must be readable from a distance of 3 feet</li><li>This round will be judged by the subject experts.</li></ul>"
+                ],
+                "venue" : "Project Incubation Cell - First Floor (BME Dept)",
+                "timings" : [ ],
+                "heads" :
+                [
+                    {
+                        "name" : "J B Rosheema Bala",
+                        "contacts" : [ "9789988206" ]
+                    },
+                    {
+                        "name" : "Krriti R",
+                        "contacts" : [ "9789633212" ]
+                    },
+                    {
+                        "name" : "Madhuvanthi S",
+                        "contacts" : [ "9445457587" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Scintelligence",
+                "description" : "Feel the adrenaline rush, as we test your technical knowledge and skill with brain games. Get ready to discover some unexplored territory.",
+                "rules" : 
+                [
+                    "<strong>Preliminary round description:</strong><br />Crack it up<ol><li>Each team will have two members.</li><li>They will be made to crack the word hidden in pictorial clues.</li><li>There will be a total of 5 questions.</li><li>Every right answer gets two points.</li><li>Duration: 1 hour.</li><li>",
+                    "<strong>Intermediate round description(Semifinals):</strong><ol><li>Knick Knack:<ol><li>Each team can have two members.</li><li>They will have to unscramble the given words and link them up to find the underlying concept. </li><li>There will be a total of 3 questions.</li><li>Every right answer gets two points.</li><li>Duration:30 minutes.</li></ol></li><li>Cat's tail:<ol><li>Each team will have two members.</li><li>The team members will be asked to analyze the given picture, and guide their blind folded partner to identify the correct spot.</li><li>There will be a total of 2 questions posed.</li><li>Every right answer will be awarded 2 points.</li><li>Duration: 30 minutes.</li></ol></li></ol>",
+                    "<strong>Finals:</strong><ol><li>Gravitics:<ol><li>Each team will have two members</li><li>They’ll have to solve the problem within time limit which is decided by their partner's balancing skill.</li><li>There will be a total of 3 questions.</li><li>Every right answer gets two points.</li><li>Duration: 30 minutes.</li></ol></li><li>Impulse:<ol><li>Each team will have two members.</li><li>They’ll have to help their partner find the words by giving clues.</li><li>Every word is allowed 3 clues.</li><li>There will be a total of 5 questions.</li><li>Every right answer gets two points</li><li>Duration: 30 minutes.</li></ol></li></ol>"
+                ],
+                "venue" : "Bio Electronics Lab - First Floor (BME Dept)",
+                "timings" : [ ],
+                "heads" :
+                [
+                    {
+                        "name" : "Anuradha Lakshmanan",
+                        "contacts" : [ "9791468398"	]
+                    },
+                    {
+                        "name" : "S Gayathri Devi",
+                        "contacts" : [ "9840321046" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Tellurians",
+                "description" : "Webster’s Dictionary defines ‘Tellurians’ as the tenants of the Earth. Come take part and try to unravel the enigma of evolution.",
+                "rules" : 
+                [
+                    "<strong>Preliminary round description:</strong><br />Online quiz related to areas:<ul><li>Medical biology</li><li>Medical devices.</li></ul><br />Each section will comprise of 10 easy questions, 5 medium question and 3 hard questions. Easy and medium questions will be MCQs. The hard questions will involve finding the odd one out, matching or identifying the unknowns. Ten teams will be shortlisted.",
+                    "<strong>Intermediate round description:</strong><br />Tie In-Flavoured Connections<br />Only three teams will be shortlisted for the next round. The common term linking the pictures presented has to be identified. Each team will get a maximum of three questions. In the event of a tie, a tie breaker will be established.",
+                    "<strong>Final round description:</strong><br />Muckrakes<br />A clue will be given to a member of the team and the rest of the team has to find the word by means of Dumb Charades. The team as a whole will then have to discover the physical object described by the clue by searching the room."
+                ],
+                "venue" : "M.E 2nd year classroom - Second Floor (BME Dept)",
+                "timings" : [ ],
+                "heads" :
+                [
+                    {
+                        "name" : "Madhumitra S K",
+                        "contacts" : [ "9944013093" ]
+                    },
+                    {
+                        "name" : "Ganesh Kumar D",
+                        "contacts" : [ "9791736183" ]
+                    }
+                ]
+            }
+            ],
+
+    "structured" : [
+                {
+                    "title" : "Concrete Challenge",
+                    "description" : "What is the most widely used material? Google for the answer…. It is indeed Concrete!!!! We want our participants to play around with the proportions of the constituent components of concrete. Concrete Challenge is back this year with more fun and a realistic problem statement which requires a decent understanding of concrete mix proportions, appropriate mold and aesthetics .In addition to reports and posters or presentations, we expect our participants to be more practical and innovative.",
+                    "rules" : 
+                    [
+                        "<strong>FORMAT:</strong><ul><li>The participants are expected to bring the cubes casted by them on the day of event.</li><li>The cubes will be tested for strength and other properties in the Concrete Technology Lab at SSN College of Engineering.</li><li>JUDGEMENT CRITERIA:<br />Total score = S1 + S2 +S3 = 100 marks<ul><li>S1-Abstract - 10 marks</li><li>S2-Density range - 50 marks</li><li>S3-Strength and Size – 40 marks</li></ul></li></ul>",
+                        "<strong>RULES:</strong><ul><li>Light weight Concrete with a density of 1400 -1600 kg/m3 must be used to obtain the highest possible achievable strength.</li><li>Artificial light weight aggregates such as Thermocole beads and Foamed slag can be used in concrete.</li><li>Dimension of concrete cubes (LWH): 150mm*150mm*150mm cubes are mandatory.</li><li>7-day compressive strength test will be conducted and team with the maximum compressive strength cube will be the winner.</li><li>A paper will be sent by us to all the participants seven days before the competition and that paper must be kept inside the concrete cubes while casting, as a reference and it is mandatory. Participants whose cubes are without that paper face rejection from the competition.  </li><li>Team participating in the event should have a guide, who must be a registered faculty member of any engineering college recognized by Government of India.</li><li>One copy of the report must be duly signed by the guide and e-mailed to the event coordinator’s email id before 25th August 2016.</li><li>Students must carry their college ID card throughout the event.</li><li>Please keep checking the website and your mails for further updates.</li><li>Failure to abide by any of the above rules will lead to disqualification from the event.</li><li>Event coordinators and managing Professor’s decision is / are final and binding</li></ul>"
+                    ],
+                    "venue" : "Civil Department",
+                    "timings" : [ ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Dharani C",
+                            "contacts" : [ "8056050533" ]
+                        },
+                        {
+                            "name" : "Reshma S",
+                            "contacts" : [ "9791173285" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "In-QUIZ-itive - NV3k",
+                    "description" : "A Platform to retrieve information effortlessly from your memory, The main motto of this event is not only to test want you have learned, but also to motivate you to learn more. It is an inkling, to the enthusiastic learners the way to see their deficits and motivate them to work on those deficits. We hope this  event will help you remember the content what you have covered so far in civil engineering, and help you access what you learned.",
+                    "rules" : 
+                    [
+                        "<strong>FORMAT:</strong><ul><li>It is a TECHNICAL QUIZ event, where the final round will be conducted like the very famous program Kaun Banega Crorepati (Neengalum Vellalam Oru Kodi)</li><li>The event consists of three rounds:<ul><li>Prelims</li><li>Knockouts</li><li>The HOT SEAT - Finals</li></ul></li><li>The finals will be a replica of the TV program with prize money at every stage and lifelines to help you out.</li></ul>",
+                        "<strong>RULES:</strong><ol><li>We are restricting the number of participants to 50-60.(first come first basis) and we will be alloting them with slot numbers to them (1-10) such that each team will have 5 competitors.</li><li>The prelims round, is a buzzer round, where you will be given 5 questions. From this the best 20 will be promoted to the knockouts round.</li><li>The knockout round rules will be provided on the spot.</li><li>The qualified participants to the Final round, get a chance to be on the Hot Seat and win the cash prize for every right question answered by them.</li><li>The question split up and prize money will be showcased on the day of event.</li></ol>",
+                        "(The participants are expected to have knowledge about various principles, aspects and advancements in civil engineering.)"
+                    ],
+                    "venue" : "Civil Department",
+                    "timings" : [ ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Jubin John Thomas",
+                            "contacts" : [ "9965202288" ]
+                        },
+                        {
+                            "name" : "Surya Teja",
+                            "contacts" : [ "8056080022" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Paper Presentation",
+                    "description" : "“It's not just about great ideas, it is about making them happen.”<br /><br />An arena to showcase your talent and in-depth knowledge from your research areas, Paper presentation focuses on exposing your ideas to the world thereby facilitating transformation of seedling ideas to giant trees of innovation and progress.  We hope that our endeavor will play a significant part in providing the platform for deserving minds on an ever rising and never ending growth.",
+                    "rules" : 
+                    [
+                        "<strong>PRE-SELECTION PROCESS</strong><ul><li>TOPIC - Any topic related to civil engineering, preferably “Recent Advances in Civil Engineering”</li><li>Participants are requested to mail in their abstracts of 250-300 words in .pdf format and the title of the paper must be clearly stated.</li><li>The abstract should be mailed to *@* on or before 25th August (10:00pm)</li><li>The selected abstracts will be intimated through e-mail and the selected participants should mail their entire paper in .pdf format with the subject as PAPER - *Title of paper* on or before 28th August 2016.</li><li>Selected papers will be intimated through e-mail by September 5th 2016.</li></ul>",
+                        "<strong>FINAL ROUND:</strong><ul><li>The selected participants will get 8-10 minutes to present their paper and 3 minutes for answering questions on the day of event.</li><li>The participants are requested to bring their PowerPoint presentations in a pendrive on the day of presentation.</li><li>You will be judged for originality, innovation, clarity in presentation and adherence to time. </li><li> Note that all participants who took part in the event are requested to report at the venue on September 10,2016 for collecting their participation certificates.</li></ul>",
+                        "<strong>RULES:</strong><ol><li>A team of 2-3 can participate.</li><li>Plagiarism should strictly be avoided. References made can be mentioned at the end of the paper.  </li><li>The paper should be in IEEE format (.pdf file). Papers not adhering to this format would be directly eliminated. </li><li>The mail should include the following details regarding all the participants: Full Name, Contact No, Email ID and College Name.</li><li>The selected candidates will have to present their papers on September 10, 2016 at SSN College of Engineering.</li><li>The winners will be awarded.</li></ol>"
+                    ],
+                    "venue" : "Civil Department",
+                    "timings" : [ ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Rashmi Nagendran",
+                            "contacts" : [ "9840154511"	]
+                        },
+                        {
+                            "name" : "Srivatsan",
+                            "contacts" : [ "9003046191" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Perfect Civil Engineer",
+                    "description" : "<strong>“Scientists study the world as it is; Engineers create the world that has never been.”</strong><br />It takes an extraordinary mind to create miracles from bricks and stones. Come explore the depth of your civil engineering knowledge with us in “Perfect Civil Engineer”. Know your strengths and ability to think on your feet, to provide technical solutions to various field related problems.",
+                    "rules" : 
+                    [
+                        "Group of minimum 2 and maximum of 3 members.",
+                        "Team members must be from the same college.",
+                        "Everyone should carry their College ID cards.",
+                        "Participants found copying or violating any rules will be directly disqualified.",
+                        "Round 1: Technical Quiz (preliminary round). Time: 30 minutes. Questions: 30 MCQS.",
+                        "Round 2 (Picture Mart): Identify the picture as per the question",
+                        "Round 3: “SURPRISE” round (final round)"
+                    ],
+                    "venue" : "Civil Department",
+                    "timings" : [ ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "D Deepak",
+                            "contacts" : [ "9677289167" ]
+                        },
+                        {
+                            "name" : "D Dhivya",
+                            "contacts" : [ "8056263742" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Poster Presentation",
+                    "description" : "An academic poster is a summary of your research or project in a visually engaging way. A poster session has the potential to reach larger numbers of people than a typical oral presentation.  It is usually a mixture of a brief text mixed with tables, graphs, pictures, and figures. For those of you who like being creative in the way you present, this is just the event for you!",
+                    "rules" : 
+                    [
+                        "<strong>PRE-SELECTION ROUND:</strong><ul><li>The pre-selection round will start from 20th August 2016. In order to take part in the event, participants need to register on the INVENTE 2K16 website.</li><li>Once registered, an abstract of the project or topic (150-250 words) is to be sent to the organizing team based on which the participants will be shortlisted.</li><li>The abstracts should be mailed to *insert id* on or before 25th August 2016.</li><li>The shortlisted participants will be notified via mail on 27th August 2016.</li><li>The selected participants should mail their completed posters to the team before 3rd September 2016.</li></ul>",
+                        "<strong>FINAL ROUND:</strong><ul><li>The selected participants should report at the venue on September 9,2016 with their full size posters.</li><li>Duration of 5 minutes will be allotted for presentation of the poster and 3 minutes for queries.</li><li>Participant(s) will be judged on the basis of technical content of poster, creativity, presentation skills and format.</li><li>Note that all participants who took part in the event are requested to report at the venue on September 9,2016 for collecting their participation certificates.</li></ul>",
+                        "<strong>POSTER FORMAT:</strong><ol><li>Topic – Any research topic or project.</li><li>Poster size – A3 size.</li><li>The poster can be either handmade or printed.</li><li>Font style – Times New Roman.</li><li>Font size – 20 to 28</li><li>The poster should be oriented in the ‘landscape’ position. </li><li>Appropriate title should be provided. The name of the participant(s), name of college should be included in the poster.</li><li>Paragraphs and texts should be avoided. Use bullets. </li><li>Use figures, diagrams, graphics, or easy-to-read tables to explain/illustrate ideas or findings.</li><li> Graphic materials should be visible easily from a minimum distance of 6 feet.</li></ol>",
+                        "<strong>RULES:</strong><ol><li>Maximum of 2 participants are permitted per team.</li><li>The participant(s) should mail their posters to ‘*insert mail id*’ before *date* along with an abstract in about 150-250 words.</li><li>The selected teams will be intimated before*date*.</li><li>Duration of 5 minutes will be allotted for presentation of the poster and 3 minutes for queries.</li><li>Participant(s) will be judged on the basis of technical content of poster, creativity, presentation skills and format.</li></ol>"
+                    ],
+                    "venue" : "Civil Department",
+                    "timings" : [ ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Roshni",
+                            "contacts" : [ "8056141184" ]
+                        },
+                        {
+                            "name" : "Priyamvadha",
+                            "contacts" : [ "9677148081" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Potential Professor",
+                    "description" : "Do you think you have an inherent quality to get a grip of the concepts and elucidate them to others in an interesting and clear way?<br/>Then, here comes the most awaited event of the SSN Techfest – INVENTE, just right for the vibrant minds – “PONTENTIAL PROFEESOR”.<br />Do you believe that interactive and fun teaching is the correct way to get the concepts right into the minds of the students?<br /><br />Here is a platform to experiment and showcase your teaching skills. Unleash your potential, prepare yourself to become a future professor.",
+                    "rules" : 
+                    [
+                        "Pre-registrations and spot registrations are allowed.",
+                        "There will be two rounds in this event.",
+                        "First Round (Prelims) will be conducted on spot from which around 10-15 students shortlisted will be considered for the second round. The rules for prelims will be notified shortly.",
+                        "Selected candidates will be given a choice of topics to choose from for which they can prepare during the given time and teach the concepts in the best way possible.",
+                        "Participants will be given 1 hour 30 minutes time and required resources i.e., books and internet access for them to prepare on their topics.",
+                        "Participants have to present their topic to the judges and the audience in about 15 minutes.",
+                        "Chalk and board method can be used to present the topic.",
+                        "Judges and Coordinators' decision will be final."
+                    ],
+                    "venue" : "Civil Department",
+                    "timings" : [ ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Aadhitya",
+                            "contacts" : [ "8428841010" ]
+                        },
+                        {
+                            "name" : "Rekha",
+                            "contacts" : [ "9445046012" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Civilian's Tech Hunt",
+                    "description" : "Buckle up to discover  the treasure with all that you have learnt in college. Tech hunt is a combination of several clues and fun activities and a lots of exciting prizes to win!",
+                    "rules" : 
+                    [
+                        "The Tech Hunt will start at the same time for all contesting teams at the same time (Refer to event schedule for details).",
+                        "Interesting clues, missions and activities  will be provided on spot and it will take place just like any other Treasure Hunt.",
+                        "Clues of every team are different and located at different places but the final destination i.e. the treasure is same .The team which finds the treasure first wins.",
+                        "Each team must have three members.",
+                        "All participants should be pursuing their Bachelor's degree in Civil Engineering. Other streams cannot participate as the clues will be regarding civil engineering.",
+                        "A leader has to be selected amongst the team members at the time of registration.",
+                        "Each team will be allotted a particular name. And all the clues for the team will go by that name.",
+                        "Wallets, mobile phones and other devices of communication are not allowed.",
+                        "A member of tech hunt committee will be with each team to confirm that a fair game is played. It is mandatory for each team to keep the committee member with them till the game ends.",
+                        "The clues are to be found in a particular order. A team cannot skip a clue. Skipping a clue will lead to disqualification of your team."
+                    ],
+                    "venue" : "Civil Department",
+                    "timings" : [ ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Sarathkumar R",
+                            "contacts" : [ "8056561409" ]
+                        },
+                        {
+                            "name" : "Gohila R",
+                            "contacts" : [ "9003692305" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Bridge - IT!",
+                    "description" : "Simple engineering with a twist of design, Bridge IT is one of the biggest hands on event of Invente. A challenging and fascinating problem statement to transform the sedentary into working models. This event is the real test of your creativity and knowledge with civil engineering putting your grey cells into work!",
+                    "rules" : 
+                    [
+                        "The Event will consist of two rounds.<ul><li>The QUESTIONNAIRE Round</li><li>The FINALE</li></ul>",
+                        "The Questionnaire round is basically the prelims. Participants will be asked to take up a test where questions will be asked from topics related to Bridges, trusses etc. The test comprises multiple choice questions.",
+                        "Based on the marks obtained, selected participants will qualify to the next and the final round which is The FINALE.",
+                        "In the Finale, the participants will be asked to make models of bridges. The strength of the bridge will be tested by load application and the participant whose bridge withstands more load will be declared the winner.",
+                        "Only two students are permitted per team.",
+                        "All the materials needed for making the bridge will be provided by us.",
+                        "The dimensions of the bridge will be specified and participants should stick to   it.",
+                        "Load will be applied only on the deck of the bridge.",
+                        "Any participant violating all these rules will be disqualified."
+                    ],
+                    "venue" : "Civil Department",
+                    "timings" : [ ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Santhana Bharathi",
+                            "contacts" : [ "8870692685" ]
+                        },
+                        {
+                            "name" : "Priyanka",
+                            "contacts" : [ "9003114115" ]
+                        }
+                    ]
+                },
+                {
+                    "title" : "Battle of Designs",
+                    "description" : "For any civil engineering project, designing the structure has always been the preliminary stage. It may be the interiors or exteriors - design has always involved creativity, knowledge of all the aspects of civil engineering, principles of designing, customer requirements and various unique features which we develop with experience and practice. Do you think you can match up to these? Are you good with AutoCad? Join us at SSN!",
+                    "rules" : 
+                    [
+                        "Only individual participation is allowed.",
+                        "Participants should bring their ID cards.",
+                        "Prelims will be conducted for 15minutes and 10 - 15 participants will be qualified to the finals.",
+                        "Any kind of malpractice will lead to disqualification.",
+                        "<strong>Preliminary Round:</strong><ul><li>An interactive quiz session will take place.</li><li>The questions will mostly be related to design aspects, softwares used in Civil, plans and drawings etc.</li></ul>",
+                        "<strong>Final Round:</strong><ul><li>The final round will take place in the CADD Lab.</li><li>Every participant will be given a topic on spot.</li><li>The participants should use Autodesk AutoCAD to design/ draw their design, plans based on their topic.</li><li>Judges selection will be final.</li></ul>"
+                    ],
+                    "venue" : "Civil Department",
+                    "timings" : [ ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Arjun",
+                            "contacts" : [ "9629147221" ]
+                        },
+                        {
+                            "name" : "Bhagiradhan",
+                            "contacts" : [ "9095057669" ]
+                        }
+                    ]
+                }
+                ]
+
+}

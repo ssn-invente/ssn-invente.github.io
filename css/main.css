@@ -945,3 +945,8 @@ html,body
 
   }
 }
+
+.six-list-box > a > h2:hover {
+	background: #fefefe;
+	color: #d83f00;
+}

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html ng-app="events">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+        <title>Events | Invente</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="event.css">
+        <!--<link href="Events_files/css.css" rel="stylesheet">-->
+        <!--<link rel="stylesheet" href="../css/font-awesome.css">-->
+        <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="../css/navbar.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+		<header>
+            <nav id="header-nav" class="navbar navbar-default">
+            <div class="container">
+                <div class="navbar-header">
+                <div class="navbar-brand">
+                    <a href="/">
+					<img src="../img/logo-nav1.png" class="hidden-xs imlog">
+					<img src="../img/logo-nav2.png" class="hidden-md hidden-lg hidden-sm imlog">
+					</a>
+                </div>
+
+                <button id="navbarToggle" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                </div>
+                
+                <div id="collapsable-nav" class="collapse navbar-collapse cnv">
+                <ul id="nav-list" class="nav navbar-nav navbar-right">
+                    <li>
+                    <a href="../">
+                    <br class="hidden-xs">Home</a>
+                    </li>
+					<li>
+					  <a href="../aboutus">
+					  <br class="hidden-xs">About Us</a>
+					</li>
+                    <li class="active">
+                    <a href="../events/" class="act">
+                    <br class="hidden-xs">Events</a>
+                    </li>
+                    <li>
+                    <a href="../workshops/" id="workshop">
+                    <br class="hidden-xs">Workshop</a>
+                    </li>
+					<li>
+                    <a href="../hackathon">
+                    <br class="hidden-xs">Hackathon</a>
+                    </li>
+                    <li>
+                    <a href="../register">
+                    <br class="hidden-xs">Register</a>
+                    </li>
+                    <!--<li>
+                    <a href="#">
+                    <br class="hidden-xs"> Contact Us</a>
+                    </li>-->
+                </ul><!-- #nav-list -->
+                </div><!-- .collapse .navbar-collapse -->
+            </div><!-- .container -->
+            </nav><!-- #header-nav -->
+        </header>
+	
+         <events>    
+            <ui-view></ui-view>
+        </events>
+        
+        <script src="../js/vendor/angular.min.js"></script>
+        <script src="../js/vendor/angular-ui-router.js"></script>
+        <script src="index.js"></script>
+	</body>
+</html>
