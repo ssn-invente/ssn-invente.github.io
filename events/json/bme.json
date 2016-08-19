@@ -1,0 +1,204 @@
+[
+{
+	"title" : "Biogonize",
+	"description" : "Tired of filling pages and pages to prove your knowledge in biology? Well, here is an opportunity to prove your talent without having to fill 42 pages! And guess what? We evaluate content! We evaluate only once!  And we give you what you deserve!  Sounds rejuvenating, doesn’t it?! So there you go! Don’t forget to join us on the 9th of September at INVENTE V1.0!",
+	"rules" : 
+	[
+		"<strong>Preliminary round description:</strong>It will be a paper and pen quiz which will contain 25 questions that test your basic biology knowledge.",
+		
+		"<strong>Intermediate round description:</strong>Eight best teams will be selected for the second round. In the second round 4 visual clues that are related to the same term will be given. The team which identifies the correct word first will be given the points.",
+		
+		"<strong>Final round description:</strong>Out of the 8 teams, 4 finalists will be selected. In round 3, a set of 7 words will be given to one of the participants of each team. This participant has to give one word clues so that the other team member identifies the words correctly. Only 3 clues can be given per word and only one guess is allowed per clue.  The fastest team that identifies all the words correctly will be declared as the winner."
+		
+	],
+	"venue" : "BME Department",
+	"timings" : [ ],
+	"heads" :
+	[
+		{
+			"name" : "Ritu V",
+			"contacts" : [ "9444707025" ]
+		},
+		{
+			"name" : "Lekha R",
+			"contacts" : [ "9600164196" ]
+		}
+	]
+},
+{
+	"title" : "Bioquest",
+	"description" : "Do you consider yourself an aspiring entrepreneur nipped in the bud by engineering? Have you been waiting for that dormant business animal to unleash itself? Wait no more because BIOQUEST beckons. Turn up at the Biomedical Department and find out just how good you are.",
+	"rules" : 
+	[
+		"<strong>General rules and regulations:</strong><ul><li>Each team can have two or three members.</li><li>Cross college teams are allowed.</li><li>ID card is compulsory for the participants.</li><li>Decision of judges and event coordinators are final and binding to all.</li></ul>",
+		
+		"<strong>Preliminary round (Round 1):</strong><ul><li>Each member from a team will come forth and pick a chit that has different domains related to Biomedical engineering/ Biotechnology.</li><li>The team will get questions based on the domain they have chosen throughout the event.</li><li>There will be ten MCQ questions and one problem statement which has to be answered in brief within 40 minutes.</li></ul>",
+		
+		"<strong>Final round description (Round 2):</strong><ul><li>One team from each domain will move into the finals.</li><li>Each team will get one evening to prepare their presentation on the problem statement they have answered in the previous round.</li><li>They have to present it with the perspective of an entrepreneur. The team which is able to convince the judges will be declared winner.</li></ul>"
+	],
+	"venue" : "BME Department",
+	"timings" :	[ ],
+	"heads" :
+	[
+		{
+			"name" : "Sushmitha.S",
+			"contacts" : [ "9176220217" ]
+		},
+		{
+			"name" : "Chitra.R",
+			"contacts" : [ "8754504737" ]
+		}
+	]
+},	
+{
+	"title" : "LudaQuiz",
+	"description" : "Let’s sprinkle some of that wizarding world magic and have an ‘Organic Board Game’ transpire. Álohomora your way into a massive game of Ludo and intense quizzing and maybe brew a big cauldron of fun at LudaQuiz Save the date: 09-09-2016.",
+	"rules" : 
+	[
+		"<strong>General rules and regulations:</strong><Ol><li>The game, as the name indicates, will be a mix of the traditional board game, Ludo, and a technical quiz. It will be a tournament-style event so get ready for heart-pumping excitement.</li><li>The event will consist of three rounds- The Prelims and The Knockouts, and The Finale.  Participants will be allowed to either play alone or in groups of 2.</li></ol>",
+		
+		"<strong>Preliminary round (Round 1):</strong>The Prelims stage will consist of a paper-based technical quiz, where the participants are made to complete the quiz within 30 minutes. The prelims will start from 10:30AM and continue until 12:00 PM. This is to ensure ample time is present for the participants who register late. There will be 30 questions in the paper, all in MCQ format. Each correct answer will be given a +1 and wrong answers will be given 0. From this, 16 teams will be selected for The Knockouts.",
+		
+		"<strong>Knockout round description (Round 2):</strong>This is where the tournament style kicks in, dwelling on the ever-thrilling format of knockout matches. The knockouts will blend the fun board game, Ludo, with the usual technical quiz. In this stage, there will be two games happening simultaneously in two ludo boards. Each team will be drawn in random and a bracket will be established.  4 teams choose a colour by drawing chits, and act as the set pieces in the game. Each team will be posed with an initial question. On answering it, one member may exit the start area, and progress towards the end.  After this, all the questions will contain answers that have the length of words between 1 and 6. These answers are analogous to the dice numbers 1 to 6. Upon answering, the participant may move steps equal to the number of words.  If answered wrong, the participant is not allowed to move. The team that has all its members reach the finish line wins. In the event that a player steps onto the tile of another idle player, the idle player has to go back to the start position. The top team will be chosen from each match. These four teams will get to advance to The Finale.",
+		
+		"<strong>Final round description (Round 3):</strong>Same rules, same game, but higher stakes, and even higher difficulty, as teams face-off to win three cash prizes. The Finale will pose a serious challenge to the teams, as they must be on their feet, to respond quickly to the questions posed."
+	],
+	"venue" : "BME Department",
+	"timings" : [ ],
+	"heads" :
+	[
+		{
+			"name" : "Tanushree Devi B",
+			"contacts" : [ "9952040922"	]
+		},
+		{
+			"name" : "Monica A",
+			"contacts" : [ "8056327327" ]
+		}
+	]	
+},
+{
+	"title" : "Masterpiece",
+	"description" : "In a sea of the ordinary, stand out and let your brilliant ideas surface as we uncover your technical skills in the most artistic and colorful way, here at Masterpiece!",
+	"rules" : 
+	[
+		"<strong>General rules and regulations:</strong><ol><li>All the materials such as agar, pour plates, clay, gloves and masks, bacterial inoculum will be provided.</li><li>Maximum of 3 numbers per team.</li><li>Contestants must bring their own stationery.</li></ol>",
+		
+		"<strong>Preliminary round description:<br>Streaks</strong><br>Inoculate artistic streaking on a agar filled pour plate and display your knowledge of culture media streaking techniques.<br><strong>Duration:30 minutes</strong>",
+		
+		"<strong>Intermediate round description:<br>Clay modeling</strong><br>Modelling of a physiological system and a MCQ based test on the selected system. The said biological system will be assigned on the day of the event.<br><strong>Duration:90 minutes</strong>",
+		
+		"<strong>Final round description:<br>Biomimetics </strong><br>Matching of a natural object with its real time applications including identification of logos for instruments and Biomedical companies.<br><strong>Duration:60 minutes</strong>"
+	],
+	"venue" : "BME Department",
+	"timings" : [ ],
+	"heads" :
+	[
+		{
+			"name" : "Pushpika S",
+			"contacts" : [ "8695534777" ]
+		},
+		{
+			"name" : "Santhanalakshmi A",
+			"contacts" : [ "9442851990" ]
+		}
+	]
+},
+{
+	"title" : "Paper Presentation",
+	"description" : "",
+	"rules" : 
+	[
+		"The following are the domains for paper presentation:<ul><li>Healthcare technology</li><li>Nano electronics</li><li>Biosignal processing</li><li>Artificial organs</li><li>Physiological modelling</li><li>Digital image processing</li><li>Artificial neural networks</li><li>VLSI signal processing</li><li>Real time embedded systems</li><li>.Robotics</li></ul>",
+		"Abstract has to be submitted(word document)in not more than 300 words before the due date (4th September 2016)",
+		"Based on peer review of the abstracts, contestants will be shortlisted for the next round. If chosen, the hard copy of the paper with the abstract in A4 sheets(not more than 10 pages including references,tables and graphs) has to be submitted on the day of the event. The paper should be in IEEE format and written in Times New Roman font.",
+		"The ‘Microsoft Powerpoint’ presentation should be mailed to the organizing team on or before the 8th of September and can last for a maximum of 7 minutes. There will be a 3 minute Q&A session following it."
+	],
+	"venue" : "BME Department",
+	"timings" : [ ],
+	"heads" :
+	[
+		{
+			"name" : "R Mohamed Ajmal",
+			"contacts" : [ "8220451101" ]
+		},
+		{
+			"name" : "P N Nova Belle",
+			"contacts" : [ "9600834504" ]
+		}
+	]
+},
+{
+	"title" : "Poster Presentation - Papyrus",
+	"description" : "Here’s something for all the tech savvy and creative engineers out there. Pour all your innovative ideas onto a single sheet of chart. Visually present your concepts and win cash prizes!",
+	"rules" : 
+	[
+		"General rules and regulations:<ul><li>The posters that adhere to the topics given are alone expected.</li><li>The abstract for the poster must reach before the deadline. Abstracts reaching us after deadline will not be accepted.</li><li>Not more than 3 members can constitute in a team.</li></ul>",
+		"Preliminary round description:<ul><li>The posters should be based on one of the following topics.<ul><li>Biomedical sciences</li><li>Biotechnology</li><li>Medical image processing</li><li>Biometrics</li><li>Biomechanics</li><li>Healthcare technology</li><li>Artificial intelligence</li><li>Nanotechnology</li><li>Biomedical instrumentation</li><li>Biomaterials and Artificial organs</li></ul></li><li>The abstracts will be processed by the committee members. The deserving candidates will be called for the final round to present their posters.</li><li>A maximum of 8 teams will be selected for the final round.</li></ul>",
+		"Final round description:<ul><li>The candidates are expected to present the posters. The poster must include the following:<ul><li>Title</li><li>Names of author(s) and affiliated organization(s)</li><li>Abstract (brief summary of objectives, methods, results, and conclusions)</li><li>Background Information</li><li>Project Objectives</li><li>Materials and Methods</li><li>Results (tables, graphs, charts)</li><li>Conclusions</li><li>Discussion of possible future directions or why project is complete</li></ul></li><li>Competitors shall plot the poster on a 46”x56” sheet of paper</li><li>All illustrations and text must be readable from a distance of 3 feet</li><li>This round will be judged by the subject experts.</li></ul>"
+	],
+	"venue" : "BME Department",
+	"timings" : [ ],
+	"heads" :
+	[
+		{
+			"name" : "J B Rosheema Bala",
+			"contacts" : [ "9789988206" ]
+		},
+		{
+			"name" : "Krriti R",
+			"contacts" : [ "9789633212" ]
+		},
+		{
+			"name" : "Madhuvanthi S",
+			"contacts" : [ "9445457587" ]
+		}
+	]
+},
+{
+	"title" : "Scintelligence",
+	"description" : "Feel the adrenaline rush, as we test your technical knowledge and skill with brain games. Get ready to discover some unexplored territory.",
+	"rules" : 
+	[
+		"<strong>Preliminary round description:</strong><br />Crack it up<ol><li>Each team will have two members.</li><li>They will be made to crack the word hidden in pictorial clues.</li><li>There will be a total of 5 questions.</li><li>Every right answer gets two points.</li><li>Duration: 1 hour.</li><li>",
+		"<strong>Intermediate round description(Semifinals):</strong><ol><li>Knick Knack:<ol><li>Each team can have two members.</li><li>They will have to unscramble the given words and link them up to find the underlying concept. </li><li>There will be a total of 3 questions.</li><li>Every right answer gets two points.</li><li>Duration:30 minutes.</li></ol></li><li>Cat's tail:<ol><li>Each team will have two members.</li><li>The team members will be asked to analyze the given picture, and guide their blind folded partner to identify the correct spot.</li><li>There will be a total of 2 questions posed.</li><li>Every right answer will be awarded 2 points.</li><li>Duration: 30 minutes.</li></ol></li></ol>",
+		"<strong>Finals:</strong><ol><li>Gravitics:<ol><li>Each team will have two members</li><li>They’ll have to solve the problem within time limit which is decided by their partner's balancing skill.</li><li>There will be a total of 3 questions.</li><li>Every right answer gets two points.</li><li>Duration: 30 minutes.</li></ol></li><li>Impulse:<ol><li>Each team will have two members.</li><li>They’ll have to help their partner find the words by giving clues.</li><li>Every word is allowed 3 clues.</li><li>There will be a total of 5 questions.</li><li>Every right answer gets two points</li><li>Duration: 30 minutes.</li></ol></li></ol>"
+	],
+	"venue" : "BME Department",
+	"timings" : [ ],
+	"heads" :
+	[
+		{
+			"name" : "Anuradha Lakshmanan",
+			"contacts" : [ "9791468398"	]
+		},
+		{
+			"name" : "S Gayathri Devi",
+			"contacts" : [ "9840321046" ]
+		}
+	]
+},
+{
+	"title" : "Tellurians",
+	"description" : "Webster’s Dictionary defines ‘Tellurians’ as the tenants of the Earth. Come take part and try to unravel the enigma of evolution.",
+	"rules" : 
+	[
+		"<strong>Preliminary round description:</strong><br />Online quiz related to areas:<ul><li>Medical biology</li><li>Medical devices.</li></ul><br />Each section will comprise of 10 easy questions, 5 medium question and 3 hard questions. Easy and medium questions will be MCQs. The hard questions will involve finding the odd one out, matching or identifying the unknowns. Ten teams will be shortlisted.",
+		"<strong>Intermediate round description:</strong><br />Tie In-Flavoured Connections<br />Only three teams will be shortlisted for the next round. The common term linking the pictures presented has to be identified. Each team will get a maximum of three questions. In the event of a tie, a tie breaker will be established.",
+		"<strong>Final round description:</strong><br />Muckrakes<br />A clue will be given to a member of the team and the rest of the team has to find the word by means of Dumb Charades. The team as a whole will then have to discover the physical object described by the clue by searching the room."
+	],
+	"venue" : "Civil Department",
+	"timings" : [ ],
+	"heads" :
+	[
+		{
+			"name" : "Madhumitra S K",
+			"contacts" : [ "9944013093" ]
+		},
+		{
+			"name" : "Ganesh Kumar D",
+			"contacts" : [ "9791736183" ]
+		}
+	]
+}
+]

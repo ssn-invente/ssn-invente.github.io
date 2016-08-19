@@ -1,0 +1,249 @@
+[
+{
+	"title" : "Auto Quiz",
+	"description" : "Find out if you have it in you to be a true petrol-head as we subject your knowledge on everything related to automobiles, to the ultimate test. Register to battle your way through the two rounds and be crowned the champion of the auto world!",
+	"rules" : 
+	[
+		"This is a team event. Each team must consist of a minimum of two and a maximum of three members (no lone wolf).",
+		"This is a two stage event. The prelims will be a written round.",
+		"Five questions will be star marked and these will be used in the event of a tie breaker.",
+		"The top six teams will qualify for the finals.",
+		"The final will be an A/V based round.",
+		"The decision of the quizmaster will be treated as final, in case of any discrepancies."
+	],
+	"venue" : "Mechanical Department Lecture Halls",
+	"timings" :
+	[
+		"Prelims: 9th September 2016 at 1 p.m and 10th September 2016 at 9 a.m",
+		"Finals: 10th September 2016 at 12 p.m"
+	],
+	"heads" :
+	[
+		{
+			"name" : "Arjun A",
+			"contacts" : [ "9176794182" ]
+		},
+		{
+			"name" : "Gokul V",
+			"contacts" : [ "8939438802" ]
+		}
+	]
+},
+{
+	"title" : "Bottle Rocketrix",
+	"description" : "It is D-Day, nerves all around, last minute checks. Countdown- 5..4..3..2..1..BLAST OFF. Is it a bird? Is it a plane? It’s a BOTTLE ROCKET?!<br /><br />Back with a bang and a bottle to give wings to your dreams! Come, watch them soar.",
+	"rules" : 
+	[
+		"A minimum of two and a maximum of three members are allowed per team.",
+		"Water, a compressor and a launch-pad will be provided.",
+		"Maximum bottle capacity is 2500 ml (violation of which will result in disqualification).",
+		"Only single stage rockets are allowed, any modifications must be validated by the event head. Information regarding the modifications must be intimated well in advance. (Judge's decision is final)",
+		"Pressure range is pre-determined (40-45 psi)",
+		"Time allotted to each team is 3 minutes",
+		"Judgement will be based on the distance travelled by the rocket and the deviation from the fixed trajectory",
+		"Use of sheet metal for the rockets is prohibited.",
+		"In case of any discrepancies, the decision of the event co-ordinators will be deemed final."
+	],
+	"venue" : "Mechanical Department Grounds",
+	"timings" : [ "10th September 2016, 9.00 am" ],
+	"heads" :
+	[
+		{
+			"name" : "Anandh SRB",
+			"contacts" : [ "9790831175" ]
+		},
+		{
+			"name" : "Meegadeepan",
+			"contacts" : [ "8754636187" ]
+		}
+	]
+},
+{
+	"title" : "Cyborg Combat (Robowars)",
+	"description" : "Is your anger coming in the way of your friendship? Do you have the urge to prove your mettle to your peers? Have you always wanted to punch someone till you draw blood?<br /><br />Don’t do that.<br /><br />We provide you instead with a platform to relish the pleasure of watching two months of your opponents’ hard work get blown to smithereens.<br /><br />ADDED BONUS- You won’t have to serve jail term, because robots don’t have rights (yet).",
+	"rules" : 
+	[
+		"A team may consist of a maximum of 3 participants.",
+		"The competition will be played on a knock-out basis consisting of 2 players at a time. The maximum duration of each round will be 5 minutes. Any team that is not ready at the time specified will be disqualified from the competition.",
+		"The machine will be checked for safety before the competition. Any robot found unsafe to other participants and spectators will be disqualified.",
+		"Change in rules, if any, will be highlighted on the website and notified to the registered teams.",
+		"Violation of any the above rules will lead to disqualification.",
+		"Judges’ decision shall be treated as final and binding on all.",
+		"A robot is declared victorious if its opponent is immobilized or out of the arena.",
+		"A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds.",
+		"A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement.",
+		"If both robots survive the 5 minutes, the robot with the higher hit points wins.",
+		"The winner advances to the next round while the loser is eliminated from the tournament.",
+		"<strong>Note: The bot should conform to the specified conditions.</strong>"
+	],
+	"venue" : "Mechanical Department Lecture Halls",
+	"timings" : [ "10th September 2016, 9.00 am" ],
+	"heads" :
+	[
+		{
+			"name" : "Tarun Subramanian",
+			"contacts" : [ "9176358957" ]
+		},
+		{
+			"name" : "Ram Sharma",
+			"contacts" : [ "9659336828" ]
+		}
+	]
+},
+{
+	"title" : "Indoor Grand Prix",
+	"description" : "So maybe your favourite place to be is indoors. You hate the pollution; you’re far too refined to seek pleasure in exhaust smoke or perfectly executed drifts. You envision yourself in a Tesla, in equilibrium with your surroundings.<br /><br />We’d love to have you on-board at the Indoor Grand Prix, as you duel with your peers, to prove your prowess, and with petrol-heads, to prove a point.",
+	"rules" : 
+	[
+		"<strong>Track Specification</strong><ul><li>Two identical tracks for the participating teams to compete separately in the initial round and against each other in the knockout stages.</li><li>The track will include sharp turns, obstacles and loops.</li><li>The two tracks will be combined into one for the final round.</li></ul>",
+		"<strong>Time Trial</strong><ul><li>This round will be a time trial, in which each team will be allowed to ride their cars on the track for a lap; the time taken to complete the lap will be recorded.</li><li>The faster you finish, the better are your chances to qualify for the knockout round.</li></ul>",
+		"<strong>Knockout</strong><ul><li>Teams will compete against each other in twos, in two identical tracks. The winner stays in contention while the losing team is eliminated.</li><li>Races will continue to happen between the teams ranked first and last in the points table. The top two teams from the knockout round will compete in the finals.</li><li>The two tracks will be combined into a single one for the final round. The details of this round will be given on spot.</li></ul>",
+		"<strong>Specifications</strong><ul><li>The car should not exceed 25x25x25 cm in dimensions.</li><li>12 volt, 5A On-board battery</li><li>The vehicle should be able to climb obstacles and run on slippery surfaces.</li><li>Track width is 32 cm.</li></ul>"
+		
+	],
+	"venue" : "Mechanical Department Lecture Halls",
+	"timings" : [ "10th September 2016, 9.00 am" ],
+	"heads" :
+	[
+		{
+			"name" : "Padmashravan",
+			"contacts" : [ "9940373212" ]
+		},
+		{
+			"name" : "Shanmugavel",
+			"contacts" : [ "9043659551" ]
+		}
+	]
+},
+{
+	"title" : "Mechathlon",
+	"description" : "The more you think about it, the more you want to be a mechanical engineer. But, you lack a forum to fully showcase your adept grasp on the subject. For you whiz kids, Mechathlon is the perfect event. Tackle the wide range of questions put forth, and compete with the very best. Step up, and come forward, for the world needs to have a taste of your knowledge.",
+	"rules" : 
+	[
+		"This is an event that happens in three stages.",
+		"All participants who have registered for the event will take a preliminary quiz consisting of 15 MCQs. The allotted time is 30 min.",
+		"The preliminary quiz will be evaluated by volunteers and a merit list will be formed. In case of a tie, the starred questions will be used to break it.",
+		"The top 8 to 12 candidates will qualify for the next round, which is a Group Discussion (GD).",
+		"The GD will be presided over by a professor. It will either be a GD of 1 group with 8 members or 2 groups of 6 members each.",
+		"The performance of participants in the GD will be evaluated by the faculty.",
+		"On a scale of 0 to 1, the weightage for the prelims quiz is 0.7, and the weightage for GD is 0.3.",
+		"A revised merit list will be drafted after the GD; the top 4 - 6 candidates will be eligible for the Final Interview.",
+		"The panellists for the interview will be 3 faculty members (one each from the three broad areas of Manufacturing, Design and Thermal).",
+		"The panellists will unanimously decide the winner and the runners-up based on the performance in the interview."
+	],
+	"venue" : "Mechanical Department Lecture Halls",
+	"timings" :
+	[
+		"Prelims: 9th September 2016 at 1 p.m and 10th September 2016 at 9 a.m",
+		"Finals: 10th September 2016 at 12 p.m"
+	],
+	"heads" :
+	[
+		{
+			"name" : "Amartya Karthik",
+			"contacts" : [ "9003294018" ]
+		},
+		{
+			"name" : "Mohan Kumar",
+			"contacts" : [ "9488928916" ]
+		}
+	]
+},
+{
+	"title" : "Outdoor Grand Prix",
+	"description" : "The growling, power hungry automobile whizzes past you, its tyres drifting across the tarmac. The smell of burning rubber, with sparks flying off the road, pumps you and you are gunning to take down the terrain that dares to challenge you… Have you ever had dreams like that? If so, Outdoor Grand Prix, now bigger and better than ever before, is the event for you. With a challenging track to tackle, consisting of numerous towering obstacles in your path, channel the inner racer in you and drive your car to glory. Your racing dream begins right here.",
+	"rules" : 
+	[
+		"<strong>Track Specification</strong><ul><li>The track will be off-road with obstacles, slopes and tunnels.</li><li>The width of the track will be intimated on spot.</li></ul>",
+		"Only cars powered by internal combustion engines are allowed to compete. Electric or solar powered cars will not be allowed under any circumstances.",
+		"Maximum allowable displacement for IC engines is 4.6cc.",
+		"Only nitro-based fuels or gasoline should be used in the cars.",
+		"For nitro-based fuels, the amount of nitro compounds in the mixture should not exceed 25%.",
+		"Fuel will not be provided by the organizers. Teams must bring their own.",
+		"The cars should fit in a box of dimensions 500mm x 400mm x300mm. The antenna used for radio control is exempted from height restrictions.",
+		"Participants are advised to have multi-channel radio controllers to prevent frequency clashes. Transmitters with FHSS - Frequency Hop Spread Spectrum are allowed. Organizers will not be responsible for any interference in frequencies.",
+		"Batteries will not be provided. Contestants must bring sufficient number of batteries.",
+		"Both ready-to-run kit cars and custom fabricated cars are allowed to compete. Special prizes might be awarded for cars with maximum number of custom fabricated parts. Participants are required to submit an abstract containing the details of the parts fabricated to the email id mentioned below before the day of the event.",
+		"The abstract must contain photographs of the parts fabricated. All other technical specifications of the car must be included in the abstract.",
+		"Organizers have the right to stop a car from competing if it is found to be unsafe.",
+		"Time penalties for cars leaving the track are at the sole discretion of the organizers. Details of the penalties will be revealed on the day of the event.",
+		"Participants will be given time for setting up their car before the commencement of the first round. Each team gets one practice lap on the track. Requests for additional trial runs on the actual track will not be entertained.",
+		"Organizers will not be responsible for accidental collisions during the head to head race. Teams deliberately trying to obstruct another vehicle are subject to disqualification. The final decision rests with the organizers in this regard.",
+		"A pedestal will be provided for drivers to control their vehicles. Drivers are prohibited from running around the track along with the car. The track may contain challenging blind spots that are not clearly visible to the driver.",
+		"Only two track marshals per team will be allowed on the track (on the outside) to restore the cars leaving the track.",
+		"Participants will have to forfeit the competition if they face any technical issues with their vehicle. Additional time will not be provided once the event starts.",
+		"Abstracts to be sent to: dineshkumar13306@mech.ssn.edu.in or visveshwar13124@mech.ssn.edu.in"
+	],
+	"venue" : "Mechanical Department Lecture Halls",
+	"timings" : [ "10th September 2016, 9.00 am" ],
+	"heads" :
+	[
+		{
+			"name" : "Ragul Kishore",
+			"contacts" : [ "9940240849" ]
+		},
+		{
+			"name" : "Dinesh",
+			"contacts" : [ "8903637209" ]
+		}
+	]
+},
+{
+	"title" : "Project Exhibition",
+	"description" : "“If God exists, he is definitely an engineer”, and nowhere is this more evident than when we engineers do what we were born to do- Create. The project exhibition at SSN is a stage for all you creators- whether you obsess over the tiniest details of your brainchild or coast on a vision bigger than the universe itself. Come, join us in this celebration of human ingenuity!",
+	"rules" : 
+	[
+		"<strong>General Details</strong><ul><li>Projects must fit in one of the following three streams: Design, Thermal (includes projects related to alternate fuels and renewable energy) or Manufacturing & Production.</li><li>Each team can have a maximum of 4 members.</li><li>Participants cannot be part of more than one team.</li><li>A team cannot exhibit more than one project.</li></ul>",
+		"<strong>Prelims</strong><ul><li>Every team must submit a two page (A4 size) report of their project work.</li><li>The report should include a brief write up on the following: project definition (problem statement or aim), methodology adopted (should provide basic information on calculations, fabrication method employed etc.) and conclusion (brief on the final outcome of the project)</li><li>Last date for submitting the preliminary report (by e-mail) is 1st September 2015. The results of the selection will be intimated to the teams by 1st September 2015.</li></ul>",
+		"<strong>Finals</strong><ul><li>The teams selected in the prelims will present their project on the event day, in a space allocated to them.</li><li>Teams can use visual aids such as flex banners and charts for presentation. (Maximum Size of Visual aids: 2x2 feet).</li><li>It is advised that the visual aids include the following topics:<ol><li>Problem Definition</li><li>Design Calculation and Methodology</li><li>Fabrication Process and Method</li><li>Results and Discussion</li><li>Conclusion</li></ol></li><li>More points will be given for inclusion of visual content such as flowcharts, graphs and elements to aid easier understanding.</li><li>Each team will exhibit the working of the projects to the judges.</li><li>Aids required to present the working (such as pipes, tubes, in case of any projects involving fluids) should be brought by the respective teams.</li><li>Teams can utilize the electricity and plumbing facilities available in the department.</li><li>Teams submitting projects are allowed to show a video of the working where actual working cannot be shown on the day of the event. However, preference will be given to teams who can demonstrate the working.</li><li>Teams will be evaluated for the following:<ol><li>Originality (5 points)</li><li>Ease of Implementation (5 points)</li><li>Conceptual Clarity (5 points)</li><li>Working and desired results (5 points)</li><li>Innovation (5 points)</li><li>Overall adherence to the format prescribed( A4, Visual aids etc,) (5 points)</li></ol>Total- 30 points</li><li>The two best projects will be awarded.</li></ul>",
+		"Send your project abstract to ramsharma13318@mech.ssn.edu.in"
+	],
+	"venue" : "Mechanical Department Lecture Halls",
+	"timings" : [ "10th September 2016, 9.00 am" ],
+	"heads" :
+	[
+		{
+			"name" : "R Venkatraman",
+			"contacts" : [ "8015195170" ]
+		},
+		{
+			"name" : "Shankar",
+			"contacts" : [ "8939423425" ]
+		}
+	]
+},
+{
+	"title" : "Technical Paper Presentation",
+	"description" : "Your mind is abuzz with ideas and you crave the recognition you deserve. But where will you find a platform to display your might over the subject? We bring to you budding engineers, the technical paper presentation. Papers may be from any of the three broad streams in Mechanical Engineering: Manufacturing, Design and Thermal. What are you waiting for? Send in your papers!",
+	"rules" : 
+	[
+		"The topic must fit into one of these three streams - Manufacturing, Design or Thermal.",
+		"The following contents are generally expected in a paper: Abstract, Keywords, Introduction, Experimental setup (if any), Numerical Model (if any), Results and Discussions, Conclusions, Acknowledgment (if any), References (compulsory) and Appendix (if any).",
+		"Authors are requested to follow the format of any standard (preferably Mechanical Engineering Journal) under Elsevier publications while citing references and for art works, figures and tables.",
+		"There can be a maximum of three authors per paper presented; each author can only be part of one paper.",
+		"The paper is to be presented by one author.",
+		"The time limit for presentation is 8 minutes; this might be followed by a Q&A session.",
+		"The quality, novelty and depth of research involved in the paper will be judged by professors (2 in each stream) and their decision will be deemed final.",
+		"The teams placed first and second in each stream will receive a winner's certificate along with a cash prize (certificates will be provided to individual team members).",
+		"Other teams will receive participation certificates. ",
+		"The paper has to be mailed to the ID mentioned below as per the standardized paper format (You could use this IEEE format); the name of the file must contain the topic in brief and the stream. Example: A manufacturing paper based on welding will have the following file name: Manufacturing - Welding.doc. The mail must also contain contact details of authors - their phone numbers and e-mail IDs.",
+		"The deadline for mailing the paper is 9pm on 25th August 2016.",
+		"The selected teams will be intimated through e-mail latest by 1st September 2016.",
+		"PS: We are against plagiarism in any form. Papers submitted will be strictly evaluated. The smallest hint of plagiarism will result in your paper being disqualified from the event.",
+		"Please send in your papers on or before 9 p.m 25th August 2016 to sathish13090@mech.ssn.edu.in"
+	],
+	"venue" : "Mechanical Department Lecture Halls",
+	"timings" : [ "10th September 2016, 1.00 pm" ],
+	"heads" :
+	[
+		{
+			"name" : "NS Siddharth",
+			"contacts" : [ "7299971195" ]
+		},
+		{
+			"name" : "Satish Kumar",
+			"contacts" : [ "7299512541" ]
+		}
+	]
+}
+]
