@@ -1,0 +1,214 @@
+@font-face{font-family:'FontAwesome';src:url('../fonts/fontawesome-webfont.eot?v=4.6.3');src:url('../fonts/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'),url('../fonts/fontawesome-webfont.woff2?v=4.6.3') format('woff2'),url('../fonts/fontawesome-webfont.woff?v=4.6.3') format('woff'),url('../fonts/fontawesome-webfont.ttf?v=4.6.3') format('truetype'),url('../fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-lg{font-size:1.33333333em;line-height:.75em;vertical-align:-15%}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-fw{width:1.28571429em;text-align:center}.fa-ul{padding-left:0;margin-left:2.14285714em;list-style-type:none}.fa-ul>li{position:relative}.fa-li{position:absolute;left:-2.14285714em;width:2.14285714em;top:.14285714em;text-align:center}.fa-li.fa-lg{left:-1.85714286em}.fa-border{padding:.2em .25em .15em;border:solid .08em #eee;border-radius:.1em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left{margin-right:.3em}.fa.fa-pull-right{margin-left:.3em}.pull-right{float:right}.pull-left{float:left}.fa.pull-left{margin-right:.3em}.fa.pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}.fa-rotate-90{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";-webkit-transform:rotate(270deg);-ms-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";-webkit-transform:scale(-1, 1);-ms-transform:scale(-1, 1);transform:scale(-1, 1)}.fa-flip-vertical{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";-webkit-transform:scale(1, -1);-ms-transform:scale(1, -1);transform:scale(1, -1)}:root .fa-rotate-90,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-flip-horizontal,:root .fa-flip-vertical{filter:none}.fa-stack{position:relative;display:inline-block;width:2em;height:2em;line-height:2em;vertical-align:middle}.fa-stack-1x{position:absolute;left:0;width:100%;text-align:center}
+.fa-facebook-official:before{content:"\f230"}
+.fa-twitter:before{content:"\f099"}
+.fa-facebook-f:before,.fa-facebook:before{content:"\f09a"}
+.fa-medium:before{content:"\f23a"}
+.fa-user:before{content:"\f007"}
+.fa-university:before{content:"\f19c"}
+.fa-calendar:before{content:"\f073"}
+.fa-certificate:before{content:"\f0a3"}
+.fa-envelope:before{content:"\f0e0"}
+.fa-mobile-phone:before,.fa-mobile:before{content:"\f10b"}
+.fa-phone:before{content:"\f095"}
+
+
+form {
+  margin: auto;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 1.3em;
+  color: #999;
+  text-decoration: none;
+  padding: 10px;
+  margin: 50px auto;
+}
+
+/* Let's add some style to our fieldset & legend */
+.fc {
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  border: 3px #f5f5f5 solid;
+}
+
+/*
+fieldset {
+background-color: #fefefe;
+border-radius: 10px;
+-moz-border-radius: 10px;
+border: 3px #fefefe solid;
+padding: 10px;
+margin: 20px auto;
+}
+*/
+
+#but{
+  width: 50%;
+  background: #ff9800;
+  color: #fefefe;
+  font-family: 'Titillium Web', sans-serif;
+  height: 50px;
+  border-radius: 5px;
+  float: left;
+  margin-left: 25%;
+  font-size: 1.2em;
+  border: none;
+}
+
+#but:hover {
+  background: #f26739;
+  color: #fefefe;
+}
+
+
+.title-block{
+    width: 40%;
+    border-bottom: 1px solid #fefefe;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+}
+
+.title-block h1{
+    color: #fefefe;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 200;
+}
+
+.title-block:after{
+    content: ' ';
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #fefefe;
+    position: absolute;
+    margin-left : -20px;
+    left: 50%;
+}
+
+input[type="text"], input[type="email"], input[type="tel"] {
+  border-left: 2px solid transparent;
+  border-right: 2px solid transparent;
+  border-top: 2px solid transparent;
+  border-bottom: 2px solid #ff9800;
+  height: 2em;
+  margin-bottom: 20px;
+  width: 90%;
+  background-color: #f5f5f5;
+}
+
+
+select {
+  border-left: 2px solid transparent !important;
+  border-right: 2px solid transparent !important;
+  border-top: 2px solid transparent !important;
+  border-bottom: 2px solid #ff9800 !important;
+  margin-bottom: 20px !important;
+  background-color: #f5f5f5 !important;
+}
+
+
+@media (max-width: 594px) {
+.col-xxs-12 {
+
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: center;
+    width: 100%;
+
+  }
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+
+body{
+  background: -webkit-linear-gradient(#ff9800, #f26739) no-repeat;
+  background: -moz-linear-gradient(#ff9800, #f26739) no-repeat;
+  background: linear-gradient(#ff9800, #f26739) no-repeat;
+  width: 100%;
+  height: 100%;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.form-control{
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+
+
+
+.pop-up-cover{
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.7);
+}
+
+.pop-up-box{
+	width: 500px;
+	height: 300px;
+	margin: 170px auto;
+	background : #fefefe;
+	border-radius: 5px;
+}
+.rec, .not-rec{
+	padding-top : 30px;
+}
+
+.img{
+	width: 100px;
+	height: 100px;
+}
+
+.rec .img{
+	background: url('../img/rec.png');
+	background-size: contain;
+}
+
+.not-rec .img{
+	background: url('../img/not-rec.png');
+	background-size: contain;
+}
+
+.msg{
+	padding-top: 20px;
+	color: #333;
+	font-size: 20px;
+}
+
+.rec .msg:after{
+	content: "Success";
+}
+
+.not-rec .msg:after{
+	content: "Failed";
+}
+
+.proceed-button{
+	width: 90%;
+	margin: 20px 0px 0px 22px;
+	height: 60px;
+	color: #e0f2f1;
+	font-size: 20px;
+	font-weight: 400;
+	background: #ff9800;
+	border: 1px solid #ff9800;
+	border-radius: 50px;
+	margin-right: 30px;
+}
+
+.form-group {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}

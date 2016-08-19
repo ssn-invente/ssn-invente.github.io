@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html ng-app="invente">
+
+<head>
+    <title>Invente | Register</title>
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200' rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="reg.css" />
+    <link rel="stylesheet" type="text/css" href="../css/navbar.css" >
+</head>
+
+<body  ng-controller="regFormController">
+    <header>
+    <nav id="header-nav" class="navbar navbar-default">
+      <div class="container">
+        <div class="navbar-header">
+          <div class="navbar-brand">
+            <a href="/">
+            <img src="../img/logo-nav1.png" class="hidden-xs imlog">
+            <img src="../img/logo-nav2.png" class="hidden-md hidden-lg hidden-sm imlog">
+			</a>
+          </div>
+
+          <button id="navbarToggle" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        
+        <div id="collapsable-nav" class="collapse navbar-collapse cnv">
+           <ul id="nav-list" class="nav navbar-nav navbar-right">
+            <li>
+              <a href="../">
+              <br class="hidden-xs"> Home</a>
+            </li>
+			<li>
+              <a href="../aboutus">
+              <br class="hidden-xs"> About Us</a>
+            </li>
+            <li>
+              <a href="../events/">
+              <br class="hidden-xs"> Events</a>
+            </li>
+            <li>
+              <a href="../workshops/" id="workshop">
+              <br class="hidden-xs"> Workshop</a>
+            </li>
+			<li>
+				<a href="../hackathon">
+				<br class="hidden-xs">Hackathon</a>
+			</li>
+            <li class="active">
+              <a href="../register" class="act">
+              <br class="hidden-xs"> Register</a>
+            </li>
+            <!--<li>
+              <a href="#">
+              <br class="hidden-xs"> Contact Us</a>
+            </li>-->
+          </ul><!-- #nav-list -->
+        </div><!-- .collapse .navbar-collapse -->
+      </div><!-- .container -->
+    </nav><!-- #header-nav -->
+  </header>
+    <!--<div class="success-info">Successfully Registered</div>-->
+    <!--<div class="failure-info">Registration Failed</div>-->
+    <div id="reg" class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-md-12 col-lg-12 col-xxs-12">
+                <div class="title-block">
+                    <h1>Register</h1></div>
+            </div>
+        </div>
+        <div class="row">
+
+        <form class="form-horizontal fc col-xs-offset-3 col-xs-6" role="form" name="regForm" ng-submit="register()" novalidate>
+
+
+            <div class="form-group" ng-class="{ 'has-error' : regForm.uname.$error.required && !regForm.uname.$pristine }">
+                <label class="control-label col-xs-2" for="uname"><i class="fa fa-user" aria-hidden="true"></i></label>
+                <div class="col-xs-10">
+                    <input type="text"  ng-model="data.uname"  class="form-control" name="uname" placeholder="Full Name" required>
+                    <span ng-show="regForm.uname.$error.required && !regForm.uname.$pristine" class="help-block">First Name is Required</span>
+                </div>
+            </div>
+
+            <div class="form-group" ng-class="{ 'has-error' : regForm.college.$error.required && !regForm.college.$pristine }">
+                <label class="control-label col-xs-2" for="college"><i class="fa fa-university" aria-hidden="true"></i></label>
+                <div class="col-xs-10">
+                    <input type="text"  ng-model="data.college"  class="form-control" name="college" placeholder="College Name" required>
+                    <span ng-show="regForm.college.$error.required && !regForm.college.$pristine" class="help-block">College is Required</span>
+                </div>
+            </div>
+            
+            <div class="form-group" ng-class="{ 'has-error' : invalidYearSelection}">
+                <label class="control-label col-xs-2" for="year"><i class="fa fa-calendar" aria-hidden="true"></i></label>
+                    <div class="col-xs-9">
+                        <select name="year" ng-model='data.year' ng-options="year.value as year.label for year in years" class="form-control">
+                            <option value="">Year</option>
+                        </select>
+                        <span ng-show="invalidYearSelection" class="help-block">Select an Option</span>
+                    </div>
+            </div>
+
+            <div class="form-group" ng-class="{ 'has-error' : invalidBranchSelection}">
+                <label class="control-label col-xs-2" for="branch"><i class="fa fa-certificate" aria-hidden="true"></i></label>
+                    <div class="col-xs-9">
+                        <select name="year" ng-model='data.branch' ng-options="branch.value as branch.label for branch in branches" class="form-control">
+                            <option value="">Branch</option>
+                        </select>
+                        <span ng-show="invalidBranchSelection" class="help-block">Select an Option</span>
+                    </div>
+            </div>
+
+            <div class="form-group" ng-class="{ 'has-error' : (regForm.email.$error.required  && !regForm.email.$pristine) || regForm.email.$error.email }">
+                <label class="control-label col-xs-2" for="email"><i class="fa fa-envelope" aria-hidden="true"></i></label>
+                <div class="col-xs-10">
+                    <input type="email"  ng-model="data.email"  class="form-control" name="email" placeholder="Email" required>
+                    <span ng-show="regForm.email.$error.required && !regForm.email.$pristine" class="help-block">Email is Required</span>
+                    <span ng-show="regForm.email.$error.email" class="help-block">Invalid email address.</span>
+                </div>
+            </div>
+
+            <div class="form-group" ng-class="{ 'has-error' : (regForm.phone.$error.required || regForm.phone.$invalid) && !regForm.phone.$pristine }">
+                <label class="control-label col-xs-2" for="phone"><i class="fa fa-phone" aria-hidden="true"></i></label>
+                <div class="col-xs-10">
+                    <input type="text" ng-pattern="/^[0-9]{10}$/"  ng-model="data.phone"  class="form-control" name="phone" placeholder="Mobile Number" required>
+                    <span ng-show="regForm.phone.$error.required && !regForm.phone.$pristine" class="help-block">Mobile Number is Required</span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-sm-offset-3 col-sm-6">
+                    <button ng-disabled="regForm.$invalid" type="submit" class="btn btn-default" id="but">Register</button>
+                </div>
+            </div>
+        </form>
+      </div>
+    </div>
+
+    
+
+    <div class="pop-up-cover" ng-show="popup">
+        <div class="pop-up-box">
+          <center>
+            <div ng-class="{'rec': recommended, 'not-rec': !recommended}">
+              <div class="img"></div>
+              <div class="msg"></div>
+            </div>
+           </center>
+           <button ng-click="dismissPopup()" class="proceed-button">Dismiss</button>
+        </div>
+      </div>
+
+    <!--<script src="js/jquery-2.1.4.min.js"></script>-->
+ <!--<script src="js/bootstrap.min.js"></script>-->
+ <!--<script src="js/ajax-utils.js"></script>-->
+ <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+<!--<script src="../js/vendor/angular.min.js"></script>-->
+<script src="reg.js"></script>
+<script src="../js/jquery-2.1.4.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/ajax-utils.js"></script>
+<script src="../js/toggle.js"></script>
+
+
+        <!-- Google Analytics: -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='https://www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-82191930-1','auto');ga('send','pageview');
+        </script>
+</body>
+
+</html>
