@@ -11,10 +11,7 @@ body{margin:0px;}
 
 
 /*Main css*/
-header{align-items:center;background-color:#37474F;display:flex;justify-content:space-between;}
-    header brand{flex:1;}
-    header links a{text-decoration: none;color:white;display:inline-block;padding:20px 20px;color:whitesmoke;font-family:tahoma;}
-    header links a:hover{background-color:white;color:#37474F;}
+
    
     
 body{background:linear-gradient(#ff9900,#f26739) fixed;min-height:100vh;}
@@ -22,8 +19,8 @@ body{background:linear-gradient(#ff9900,#f26739) fixed;min-height:100vh;}
         card{display:flex;flex-direction:column;align-items:center;text-align: center;opacity:1;}
             card.dark,item.dark{opacity:0.5;}
                 card.dark:hover{opacity:1;}
-            letter{background: url('icons/cse.png'); background-size: contain; cursor:pointer;padding:30px;font-size:2em;vertical-align:middle;font-weight:900;height:95px;width:95px; border: 2px solid #fefefe; border-radius:50%}
-                letter:hover,letter.active{border: 7px solid #fefefe; background-size: contain; color:orange;text-shadow:none;opacity:1;}
+            letter{background: url('icons/cse.png');background-size: contain;opacity:0.7; cursor:pointer;padding:30px;font-size:2em;vertical-align:middle;font-weight:900;height:95px;width:95px; border: 2px solid #fefefe; border-radius:50%}
+                letter:hover,letter.active{border: 7px solid #fefefe;background-size: contain;box-shadow:10px 10px 10px #000; color:orange;text-shadow:none;opacity:1;}
                 
             dept{text-transform: Uppercase;margin:10px;}
     tabbed-content{display:flex;color:white;text-align: center;justify-content:flex-start;}
@@ -33,7 +30,7 @@ body{background:linear-gradient(#ff9900,#f26739) fixed;min-height:100vh;}
         tabbed-content div#about-event{flex-direction:column;background-color:#fff3E0;color:orange;text-align:left;align-items:flex-start;padding:20px;}
         tabbed-content div#about-event p{padding:0px;}
             item{display:block;padding:20px;width:30%;border:2px solid white;cursor:pointer;margin:20px;border-radius:4px;}
-                item:hover,item.active{background-color:white;color:orange;}
+                item:hover,item.active{background-color:white;color:orange;box-shadow:5px 5px 5px #888 inset;}
                 item.dark:hover{opacity:1;}
             tabbed-content div img{width:100%;height:auto;}
             tabbed-content div p{line-height:2.5em;padding:40px;}
@@ -41,7 +38,7 @@ body{background:linear-gradient(#ff9900,#f26739) fixed;min-height:100vh;}
             
 /*plugins*/
 hide{display:none;}
-collapser{padding:5px;background-color:white;color:orange;display:none;}
+collapser{padding:5px;color:#888;display:none;}
 .flexColumn{display:flex;flex-direction:column;justify-content:center;}
 flexRow{display:flex;}
 hr{width:60%;}
@@ -57,56 +54,24 @@ openclose{display:none;}
 
 /*temp*/
 @media only screen and (max-width:768px){
-    header{flex-wrap:wrap;}
-    header links{width:100%;}
-    header links a{width:100%;}
-    openclose{display:inline-block;cursor:pointer;}
-    links{display:none;width:100%;}
-    
+        
     
     tab{flex-wrap:wrap;}
     .dialer{display:inline;}
     tabbed-content{flex-direction:column;align-items:center;}
     tabbed-content div{width:100%;}
     tabbed-content div item{width:auto;}
-    
+    #about-event{margin-right:0px;border-radius:0px;}
     /*plugins*/
-    collapser{display:flex;justify-content:space-between;}
-    
+    collapser{display:flex;justify-content:space-between;align-items:center;}
+    }
 
-}
 
+accord{display:block;width:100%;}
 
 /*imported open clos e quereyi*/
-.bar1,.bar2,.bar3{
-    width:35px;
-    height:5px;
-    background-color:#888;
-    margin:5px;
-    transition:0.6s;
-}
-.open .bar1{
-    transform: translate(0,10px) rotateZ(45deg);
-}
-.open .bar3{
-    transform: translate(0,-10px) rotateZ(-45deg);
-}
-.open .bar2{
-    opacity:0;
-}
-collapser{background-color:#37474F;width:100%;}
-collapser p{color:white;}
-collapse{width:35px;padding:20px;margin-right:20px;}
-collapse hor,collapse ver{
-    width:35px;height:5px;background-color:#888;display:block;
-}
 
-collapse ver{
-    transition:0.25s;
-    transform:rotateZ(0deg);
-   /*// transform: translate(0px,0px) rotateZ(90deg);*/
-}
-
-collapse.active ver{
-   transform:rotateZ(90deg);
-}
+collapser{background-color:#37474F;width:100%;color:#888;}
+collapser p{}
+collapse{cursor:pointer;margin-right:20px;padding:20px;transform:rotateZ(0deg);transition:0.4s;}
+collapse.active{transform:rotateZ(45deg);}
