@@ -1,23 +1,30 @@
 {    
     "code it"  : [
-			{
-                "title" : "Open Programming",
-                "description" : "Code your way ahead as dawn meets dusk in this all day long coding event to prove the budding Zuckerberg in you. Model real world scenarios that can withstand the TEST OF TURING ..(:P)",
+        
+            {
+                "title" : "Paper Presentation - CSE",
+                "description" : "Put on your thinking caps and pop the magic in presenting your novel ideas of the era in paper.Make a STATEMENT (literally...) and stand by itin the domain of CSE and let our esteemed panelists be the better judges. We sure can find the copy cats..",
                 "rules" :
                 [
-                    "Maximum of 2 members per team"
+                    "Only CS domains are encouraged.",
+                    "Maximum of 3 authors and only student authors allowed. It is not a necessity that all the authors must be from the same institute.",
+                    "We take plagiarism very seriously. Only original research works are accepted.",
+                    "The paper must not have been presented or published anywhere else.",
+                    "The paper must be in two column IEEE format. This format must be strictly adhered to. The paper length must be limited to 6 pages.",
+                    "The paper must be in .pdf or .doc or .docx formats.",
+                    "The paper must be sent through mail. The instructions are as follows:<br/><ul><li>The subject must be the title of the paper.</li><li>The body of the mail should include - Name and Institute of participant (starting from the first author and going till the third one), Department and Year, Contact numbers, Email addresses.</li><li>Send the paper as an attachment with this mail.</li><li>The email id is : <strong>ppcse@ssninvente.com</strong></li></ul><br/><br/>Last date to send in the paper: <strong>25th August 2015</strong><br/><br/>Acceptance notification: <strong>30th August 2015</strong>"
                 ],
-                "venue" : "CSE Department Software Engineering Lab and PG Lab",
+                "venue" : "CSE Department Seminar Hall",
                 "timings" : [ "10th September 2016, 9.00 am" ],
                 "heads" :
                 [
                     {
-                        "name" : "Janani",
-                        "contacts" : [ "9994779789" ]
+                        "name" : "Rajeswari Sujana",
+                        "contacts" : [ "9600094640" ]
                     },
                     {
-                        "name" : "Renuka",
-                        "contacts" : [ "9176357332" ]
+                        "name" : "Keerthika",
+                        "contacts" : [ "9566228541" ]
                     }
                 ]
             },
@@ -36,6 +43,27 @@
                     {
                         "name" : "L. Swetha",
                         "contacts" : [ "9840318244" ]
+                    }
+                ]
+            },
+			{
+                "title" : "Open Programming",
+                "description" : "Code your way ahead as dawn meets dusk in this all day long coding event to prove the budding Zuckerberg in you. Model real world scenarios that can withstand the TEST OF TURING ..(:P)",
+                "rules" :
+                [
+                    "Maximum of 2 members per team"
+                ],
+                "venue" : "CSE Department Software Engineering Lab and PG Lab",
+                "timings" : [ "10th September 2016, 9.00 am" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Janani",
+                        "contacts" : [ "9994779789" ]
+                    },
+                    {
+                        "name" : "Renuka",
+                        "contacts" : [ "9176357332" ]
                     }
                 ]
             },
@@ -89,33 +117,7 @@
                     }
                 ]
             },
-            {
-                "title" : "Paper Presentation - CSE",
-                "description" : "Put on your thinking caps and pop the magic in presneting your novel ideas of the era in paper.Make a STATEMENT (literally...) and stand by itin the domain of CSE and let our esteemed panelists be the better judges. We sure can find the copy cats..",
-                "rules" :
-                [
-                    "Only CS domains are encouraged.",
-                    "Maximum of 3 authors and only student authors allowed. It is not a necessity that all the authors must be from the same institute.",
-                    "We take plagiarism very seriously. Only original research works are accepted.",
-                    "The paper must not have been presented or published anywhere else.",
-                    "The paper must be in two column IEEE format. This format must be strictly adhered to. The paper length must be limited to 6 pages.",
-                    "The paper must be in .pdf or .doc or .docx formats.",
-                    "The paper must be sent through mail. The instructions are as follows:<br/><ul><li>The subject must be the title of the paper.</li><li>The body of the mail should include - Name and Institute of participant (starting from the first author and going till the third one), Department and Year, Contact numbers, Email addresses.</li><li>Send the paper as an attachment with this mail.</li><li>The email id is : will be announced..</li></ul><br/><br/>Last date to send in the paper: 25th August 2015<br/><br/>Acceptance notification: 30th August 2015"
-                ],
-                "venue" : "CSE Department Seminar Hall",
-                "timings" : [ "10th September 2016, 9.00 am" ],
-                "heads" :
-                [
-                    {
-                        "name" : "Rajeswari Sujana",
-                        "contacts" : [ "9600094640" ]
-                    },
-                    {
-                        "name" : "Keerthika",
-                        "contacts" : [ "9566228541" ]
-                    }
-                ]
-            },
+            
 			{
                 "title" : "Cryptomaniac",
                 "description" : "A witty and fun filled event that requires you to squeeze your brains to decipher the hidden messages!",
@@ -1000,7 +1002,7 @@
                         "Participants will have to forfeit the competition if they face any technical issues with their vehicle. Additional time will not be provided once the event starts.",
                         "Abstracts to be sent to: dineshkumar13306@mech.ssn.edu.in or visveshwar13124@mech.ssn.edu.in"
                     ],
-                    "venue" : "Ground (near Basketball groound)",
+                    "venue" : "Ground (near Basketball court)",
                     "timings" : [ "10th September 2016, 9.00 am" ],
                     "heads" :
                     [

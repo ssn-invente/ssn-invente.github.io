@@ -565,8 +565,8 @@ angular.module("events", ['ui.router', 'ngSanitize'])
                                 
                                 $scope.currDomain = $stateParams.domain;
                                 $scope.currEvent = $stateParams.event;
-                                console.log($stateParams.domain)
-                                console.log(params)
+                                // console.log($stateParams.domain)
+                                // console.log(params)
 
                                 $scope.domain = [];
                                 EventService.getEventList($scope.currDomain).then(function(domain){
