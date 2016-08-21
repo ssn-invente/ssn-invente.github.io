@@ -1,16 +1,58 @@
-{
-
-    
+{    
     "code it"  : [
+			{
+                "title" : "Open Programming",
+                "description" : "Code your way ahead as dawn meets dusk in this all day long coding event to prove the budding Zuckerberg in you. Model real world scenarios that can withstand the TEST OF TURING ..(:P)",
+                "rules" :
+                [
+                    "Maximum of 2 members per team"
+                ],
+                "venue" : "CSE Department Software Engineering Lab and PG Lab",
+                "timings" : [ "10th September 2016, 9.00 am" ],
+                "heads" :
+                [
+                    {
+                        "name" : "Janani",
+                        "contacts" : [ "9994779789" ]
+                    },
+                    {
+                        "name" : "Renuka",
+                        "contacts" : [ "9176357332" ]
+                    }
+                ]
+            },
+			{
+                "title" : "Virtually Real",
+                "description" : "Create your own world right here, right now. An innovative event on virtual reality and modeling. This event will be truly thought provoking, bringing out the best of your creative abilities.",
+                "rules" : 
+                [
+                    "Round 1: The first round will be a Multiple Choice Questions Round, testing the participant's knowledge on the fundamental concepts of Virtual Reality. The top performers will be shortlisted for the subsequent rounds.",
+                    "Round 2: This round will have an on-the-spot topic, and the participants will be assessed on how novel, relevant and innovative their ideas are, on the topic given to them.",
+                    "Participants can use any software of their choice for developing their models from the options given by us."
+                ],
+                "venue" : "IT Department",
+				"timings" : [ ],
+                "heads" :
+                [
+                    {
+                        "name" : "Sachin Ram",
+                        "contacts" :
+                        [
+                            "9940194877",
+                            "7708516263"
+                        ]
+                    }
+                ]
+            },
             {
                 "title" : "Tech Quiz",
-                "description" : "Not into coding??? Here we have the quizzing event of the likes that is bound to make you fall in love, head over heels, with leraning new aspects of CSE.<br/><br/>Come have FUN!!! and be a WINNER!!",
+                "description" : "Ever felt that “Tcha, it's at the tip of my tongue!” feeling when asked to answer a question? Do you walk around with your nose buried (no, not literally) in the latest developments from the world of technology? Have you what it takes to trump every other techno-freak, gadget geek, and whizkid out there in a frenetic battle of quizzing? If your answer to zero or more of the above questions is 1 (That's “Yes” for you CS neophytes), be there on the 10th of September at Invente '16 for the Tech Quiz. Good luck, and may the quizzing gods bless all your fluke guesses with +10!",
                 "rules" :
                 [
                     "This is a team event, with 2 or 3 per team. Lone wolves can find a team mate on the spot.",
                     "There will be 2 rounds",
-                    "Prelims will be written.",
-                    "Finals will be an on stage quiz."
+                    "Prelims: Written, 25 questions",
+					"Finals: 4 rounds; 2 standard bounce-pounce, 2 written theme rounds"
                 ],
                 "venue" : "CSE Department Class rooms and Seminar Hall",
                 "timings" :
@@ -27,6 +69,28 @@
                     {
                         "name" : "Krithika N",
                         "contacts" : [ "9500259400" ]
+                    }
+                ]
+            },
+			{
+                "title" : "AI Blitz",
+                "description" : "Ever wondered how Ironman’s assistant Jarvis works? Does Siri intrigue you? Do you have unbound imagination? Put your skills into practice. Here is your platform. Fasten your seatbelts, ride along with us and win exciting goodies.",
+                "venue" : "IT Department",
+				"timings" : [ ],
+                "rules" : 
+                [
+                    "Round 1: You will have to work on two questions and solve them in 20 minutes. Shortlisted candidates go to the next round.",
+                    "Round 2: In this final round, you'll have only one problem to solve in 1 ½ hours."
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Srinivasan",
+                        "contacts" : [ "9962203656" ]
+                    },
+                    {
+                        "name" : "Vishnu Varadan",
+                        "contacts" : [ "9884465285" ]
                     }
                 ]
             },
@@ -57,34 +121,42 @@
                     }
                 ]
             },
-            {
-                "title" : "Open Programming",
-                "description" : "Code your way ahead as dawn meets dusk in this all day long coding event to prove the budding Zuckerberg in you. Model real world scenarios that can withstand the TEST OF TURING ..(:P)",
-                "rules" :
+			{
+                "title" : "SSN Nuggets",
+                "description" : "Are you into data analytics? Do you find patterns in large datasets that others fail to notice? Do you think you can make better predictions than the astrologer? Then this is the event for you, come and indulge in some data analytics fun and win fun prizes.",
+                "venue" : "IT Department",
+				"timings" : [ ],
+                "rules" : 
                 [
-                    "Maximum of 2 members per team"
+                    "This event will be played by teams with a maximum of two people per team.",
+                    "Round 1: MCQ questions on regular data intuition and statistics. It'll be a pen & paper round with 20 questions within 20 minutes.",
+                    "Round 2: Coding round. You'll be given a dataset, and you'll have to perform predictive analysis on it. The most accurate model wins.",
+                    "The duration of the event will be 1.5 - 2 hours. After 1.5 hrs teams have to provide a brief explanation of what they've done, and their next plan of action. This explanation will give them nugget points which will play a major role in the final decision and in clearance of tie breakers.",
+                    "You'll be provided with following tools: <ol><li>Python + anaconda + text editor</li><li>R + R studio + add any packages you want</li><li>Weka</li></ol>"
                 ],
-                "venue" : "CSE Department Software Engineering Lab and PG Lab",
-                "timings" : [ "10th September 2016, 9.00 am" ],
                 "heads" :
                 [
                     {
-                        "name" : "Janani",
-                        "contacts" : [ "9994779789" ]
+                        "name" : "Sri Vishnu",
+                        "contacts" : [ "9884884933" ]
                     },
                     {
-                        "name" : "Renuka",
-                        "contacts" : [ "9176357332" ]
+                        "name" : "Gautham Krishna",
+                        "contacts" : [ "9698141161" ]
                     }
                 ]
             },
             {
                 "title" : "Triathlon",
-                "description" : "Threesome anyone? We present to you the exact stage from the Rio Olympics.Participate in this three course programming event that tests your technical nuances to the zeniths. Come as three and win as one!!",
+                "description" : "Is coding your cup of tea? Can you code anything right from simple hello world to scenarios? Do you like winning events? Then Triathlon is ready to give you its entire prize money! After all, a perfect blend of aptitude, coding and presence of mind is all that you need to win this three-round event. Well, what are you waiting for, get set code!",
                 "rules" :
                 [
-                    "Each team MUST consist of THREE members.",
-                    "Lone wolves and duos are not permitted. Sorry!"
+                    "Not more than three members in a team.",
+					"Students from different colleges can team-up.",
+					"Usage of internet is NOT ALLOWED",
+					"Decision taken by the panel will be final.",
+					"Round 1: A set of not-so-technical not-so-non-technical MCQs to be solved in 20 minutes. Crack as many you can to get through this round!",
+					"Round 2 and 3: Surprise rounds based on coding! (Before each round you will be given round details)"
                 ],
                 "venue" : "CSE Department Seminar Hall and Class room",
                 "timings" : [ "9th September 2016, 11.00 am" ],
@@ -97,6 +169,29 @@
                     {
                         "name" : "Sockalingam",
                         "contacts" : [ "9600043685" ]
+                    }
+                ]
+            },
+			{
+                "title" : "Appstronaut",
+                "description" : "Interested in becoming an Appstronaut? Let’s gear up our space shuttle and explore the App Galaxy. Together we can reach new heights and reveal limitless opportunities. This is the time for you to showcase your exceptional Developing skills. Don’t miss this chance to be a part of our Appstronaut crew!",
+                "venue" : "IT Department",
+				"timings" : [ ],
+                "rules" : 
+                [
+                    "This is a team event that consists of a maximum of 3 per team.",
+                    "Round 1: Basic Technical Pen and Paper Round with Questions on Android, Java and C++.",
+                    "Round 2: Application Development using any language you are comfortable with. The App developed must be useful, innovative and creative."
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Arun B",
+                        "contacts" : [ "8148449990" ]
+                    },
+                    {
+                        "name" : "Sophia",
+                        "contacts" : [ "9500005531" ]
                     }
                 ]
             },
@@ -125,6 +220,29 @@
                     }
                 ]
             },
+			{
+                "title" : "Cryptomaniac",
+                "description" : "A witty and fun filled event that requires you to squeeze your brains to decipher the hidden messages!",
+                "venue" : "IT Department",
+				"timings" : [ ],
+                "rules" : 
+                [
+                    "Team event with a maximum of 2 per team.",
+                    "Round 1: This is a prelims round which will be a pen and paper test.",
+                    "Round 2: The finals will be a group event. All the teams will have to encrypt a few messages and other teams would be given the chance in a round robin fashion to decrypt them. The teams with most points shall be awarded prizes."
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Pragal Paah",
+                        "contacts" : [ "9566068715" ]
+                    },
+                    {
+                        "name" : "Anirudh Sesadhri",
+                        "contacts" : [ "8056259792" ]
+                    }
+                ]
+            },
             {
                 "title" : "Poster Design",
                 "description" : "Create the things! Dont just imagine..<br/>Step into your creative SHOES and STAMP your way to success by bringing life to pixels/paper. Design posters that stand the test of time and bring out the best in you.",
@@ -135,7 +253,7 @@
                     "Team can consist of members from different colleges also.",
                     "Lone Wolves are welcome !!"
                 ],
-                "venue" : "CSE Department PG Lab-3(Library Block)",
+                "venue" : "CSE Department PG Lab - 3(Library Block)",
                 "timings" : [ "9th September 2016, 11.00 am" ],
                 "heads" :
                 [
@@ -146,6 +264,28 @@
                     {
                         "name" : "Vijay Sarathy",
                         "contacts" : [ "8056256472" ]
+                    }
+                ]
+            },
+			{
+                "title" : "DigDBug",
+                "venue" : "IT Department",
+				"timings" : [ ],
+                "description" : "For all you Sherlock Holmes out there, who investigate through the scene, why not win prizes for exactly that. SSN Invente 2K16 provides you the opportunity to dig through the bugs and show off your talents!",
+                "rules" : 
+                [
+                    "Round 1: Chota bug - Find the chota bug hidden in the code that opens your gateway leading to Kaaliya bug!",
+                    "Round 2: Kaaliya bug - Top three to make their way through the code overcoming the kaaliya bug walks away as winners!"
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Dhanush",
+                        "contacts" : [ "9942699946" ]
+                    },
+                    {
+                        "name" : "Jayashree",
+                        "contacts" : [ "9840287411" ]
                     }
                 ]
             },
@@ -171,6 +311,29 @@
                     {
                         "name" : "Sudha",
                         "contacts" : [ "9790917705" ]
+                    }
+                ]
+            },
+			{
+                "title" : "Web Clasico",
+                "description" : "Things arent always #include , they are mostly between #000000 and #FFFFFF, come join us at the most classic, extravagant and a competition like never before. Prove to people that math is easy and design is hard, that design is not some buttons in Photoshop and Creative minds are rarely tidy! We know what it takes to be them and we assure you that you will be font of our event coz it's your type/>",
+				"venue" : "IT Department",
+				"timings" : [ ],
+                "rules" : 
+                [
+                    "This is an individual participation event.",
+                    "Round 1: A list of activities will be present. Teams will have to pick lots and work on a particular activity.",
+                    "Round 2: This is a dynamic development round. Further details will be provided ahead of the session."
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Ashok Madavan",
+                        "contacts" : [ "9962166546" ]
+                    },
+                    {
+                        "name" : "Krishna G",
+                        "contacts" : [ "9791140709" ]
                     }
                 ]
             },
@@ -202,6 +365,28 @@
                     }
                 ]
             },
+			{
+                "title" : "UI-Xpress",
+                "description" : "Design is the new basis of competition. Design has evolved to even consider how you feel when you use something. It is an emerging creativity that helps enhance user experience. Design is what can many anything extraordinary and it starts here at SSN Invente 2K16!",
+                "venue" : "IT Department",
+				"timings" : [ ],
+                "rules" : 
+                [
+                    "Round 1: 15 mins will be given to each person for this prelims round which will consist of 10 questions and 10 fill-ups.",
+                    "Round 2: Design Challenge – This will be a 1.5 hour design challenge which can be a mobile application or a website design. Separate validation, so design matters."
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Arjun S",
+                        "contacts" : [ "8939733489" ]
+                    },
+                    {
+                        "name" : "Nizam",
+                        "contacts" : [ "8056176006" ]
+                    }
+                ]
+            },
             {
                 "title" : "Networking",
                 "description" : "Develop your networking skills in this rare chance where we provide you platforms and wonderful opportunities to bring out the best in you.Connect through our systems and leave home with a happy heart!!!...",
@@ -224,230 +409,11 @@
                 ]
             },
             {
-                "title" : "Virtually Real",
-                "description" : "Create your own world right here, right now. An innovative event on virtual reality and modeling. This event will be truly thought provoking, bringing out the best of your creative abilities.",
-                "rules" : 
-                [
-                    "Round 1: The first round will be a Multiple Choice Questions Round, testing the participant's knowledge on the fundamental concepts of Virtual Reality. The top performers will be shortlisted for the subsequent rounds.",
-                    "Round 2: This round will have an on-the-spot topic, and the participants will be assessed on how novel, relevant and innovative their ideas are, on the topic given to them.",
-                    "Participants can use any software of their choice for developing their models from the options given by us."
-                ],
-                    "timings":[],
-                "heads" :
-                [
-                    {
-                        "name" : "Sachin Ram",
-                        "contacts" :
-                        [
-                            "9940194877",
-                            "7708516263"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title" : "AI Blitz",
-                "description" : "Ever wondered how Ironman’s assistant Jarvis works? Does Siri intrigue you? Do you have unbound imagination? Put your skills into practice. Here is your platform. Fasten your seatbelts, ride along with us and win exciting goodies.",
-                "timings":[],
-                    "rules" : 
-                [
-                    "Round 1: You will have to work on two questions and solve them in 20 minutes. Shortlisted candidates go to the next round.",
-                    "Round 2: In this final round, you'll have only one problem to solve in 1 ½ hours."
-                ],
-                "heads" :
-                [
-                    {
-                        "name" : "Srinivasan",
-                        "contacts" : [ "9962203656" ]
-                    },
-                    {
-                        "name" : "Vishnu Varadan",
-                        "contacts" : [ "9884465285" ]
-                    }
-                ]
-            },
-            {
-                "title" : "SSN Nuggets",
-                "description" : "Are you into data analytics? Do you find patterns in large datasets that others fail to notice? Do you think you can make better predictions than the astrologer? Then this is the event for you, come and indulge in some data analytics fun and win fun prizes.",
-                "timings":[],
-                    "rules" : 
-                [
-                    "This event will be played by teams with a maximum of two people per team.",
-                    "Round 1: MCQ questions on regular data intuition and statistics. It'll be a pen & paper round with 20 questions within 20 minutes.",
-                    "Round 2: Coding round. You'll be given a dataset, and you'll have to perform predictive analysis on it. The most accurate model wins.",
-                    "The duration of the event will be 1.5 - 2 hours. After 1.5 hrs teams have to provide a brief explanation of what they've done, and their next plan of action. This explanation will give them nugget points which will play a major role in the final decision and in clearance of tie breakers.",
-                    "You'll be provided with following tools: <ol><li>Python + anaconda + text editor</li><li>R + R studio + add any packages you want</li><li>Weka</li></ol>"
-                ],
-                "heads" :
-                [
-                    {
-                        "name" : "Sri Vishnu",
-                        "contacts" : [ "9884884933" ]
-                    },
-                    {
-                        "name" : "Gautham Krishna",
-                        "contacts" : [ "9698141161" ]
-                    }
-                ]
-            },
-            {
-                "title" : "Codalympics",
-                "description" : "If you've started many a day with a #include, said 'Hello World' in a bunch of different languages, or if you believe coding is therapeutic, look no further. SSN's Invente presents you with an event designed for you. Just bring in your coding talent and walk away with prizes.",
-                "timings":[],
-                    "rules" : 
-                [
-                    "Round I: Lightning the torch – A set of questions related to coding. ",
-                    "Round II: Entry to the Podium – A great platform to showcase your coding skills."
-                ],
-                "heads" :
-                [
-                    {
-                        "name" : "Mohan Raheja",
-                        "contacts" : [ "9789970708" ]
-                    },
-                    {
-                        "name" : "Muthusamy",
-                        "contacts" : [ "8056111540" ]
-                    }
-                ]
-            },
-            {
-                "title" : "App Development Event - Appstronaut",
-                "description" : "Interested in becoming an Appstronaut? Let’s gear up our space shuttle and explore the App Galaxy. Together we can reach new heights and reveal limitless opportunities. This is the time for you to showcase your exceptional Developing skills. Don’t miss this chance to be a part of our Appstronaut crew!",
-                "timings":[],
-                    "rules" : 
-                [
-                    "This is a team event that consists of a maximum of 3 per team.",
-                    "Round 1: Basic Technical Pen and Paper Round with Questions on Android, Java and C++.",
-                    "Round 2: Application Development using any language you are comfortable with. The App developed must be useful, innovative and creative."
-                ],
-                "heads" :
-                [
-                    {
-                        "name" : "Arun B",
-                        "contacts" : [ "8148449990" ]
-                    },
-                    {
-                        "name" : "Sophia",
-                        "contacts" : [ "9500005531" ]
-                    }
-                ]
-            },
-            {
-                "title" : "Cryptomaniac",
-                "description" : "A witty and fun filled event that requires you to squeeze your brains to decipher the hidden messages!",
-                "timings":[],
-                    "rules" : 
-                [
-                    "Team event with a maximum of 2 per team.",
-                    "Round 1: This is a prelims round which will be a pen and paper test.",
-                    "Round 2: The finals will be a group event. All the teams will have to encrypt a few messages and other teams would be given the chance in a round robin fashion to decrypt them. The teams with most points shall be awarded prizes."
-                ],
-                "heads" :
-                [
-                    {
-                        "name" : "Pragal Paah",
-                        "contacts" : [ "9566068715" ]
-                    },
-                    {
-                        "name" : "Anirudh Sesadhri",
-                        "contacts" : [ "8056259792" ]
-                    }
-                ]
-            },
-            {
-                "title" : "NetworKING?",
-                "timings":[],
-                    "description" : "NetworKING  is a cool and  mind boggling event where competitors are assured with entertainment , fun and a lot of exciting factors. Test your brain cells in the Networks domain. Play along and enjoy the vibe. It's more than just a game. It’s a must participate event of SSN Invente 2K16.",
-                "rules" : 
-                [
-                    "A maximum of 2 per team.",
-                    "Round 1: MCQs based on Computer Networks",
-                    "Round 2: Applications of algorithms, Router Coding, Shell Script Coding",
-                    "Round 3 (If necessary): Surprise!"
-                ],
-                "heads" :
-                [
-                    {
-                        "name" : "Bhargav",
-                        "contacts" : [ "9566208036" ]
-                    },
-                    {
-                        "name" : "Prakash",
-                        "contacts" : [ "9841628555" ]
-                    }
-                ]
-            },
-            {
-                "title" : "DigDBug",
-                "timings":[],
-                    "description" : "For all you Sherlock Holmes out there, who investigate through the scene, why not win prizes for exactly that. SSN Invente 2K16 provides you the opportunity to dig through the bugs and show off your talents!",
-                "rules" : 
-                [
-                    "Round 1: Chota bug - Find the chota bug hidden in the code that opens your gateway leading to Kaaliya bug!",
-                    "Round 2: Kaaliya bug - Top three to make their way through the code overcoming the kaaliya bug walks away as winners!"
-                ],
-                "heads" :
-                [
-                    {
-                        "name" : "Dhanush",
-                        "contacts" : [ "9942699946" ]
-                    },
-                    {
-                        "name" : "Jayashree",
-                        "contacts" : [ "9840287411" ]
-                    }
-                ]
-            },
-            {
-                "title" : "Web Clasico",
-                
-                    "description" : "Things arent always #include , they are mostly between #000000 and #FFFFFF, come join us at the most classic, extravagant and a competition like never before. Prove to people that math is easy and design is hard, that design is not some buttons in Photoshop and Creative minds are rarely tidy! We know what it takes to be them and we assure you that you will be font of our event coz it's your type/>",
-                "timings":[],
-                    "rules" : 
-                [
-                    "This is an individual participation event.",
-                    "Round 1: A list of activities will be present. Teams will have to pick lots and work on a particular activity.",
-                    "Round 2: This is a dynamic development round. Further details will be provided ahead of the session."
-                ],
-                "heads" :
-                [
-                    {
-                        "name" : "Ashok Madavan",
-                        "contacts" : [ "9962166546" ]
-                    },
-                    {
-                        "name" : "Krishna G",
-                        "contacts" : [ "9791140709" ]
-                    }
-                ]
-            },
-            {
-                "title" : "UI-Xpress",
-                "description" : "Design is the new basis of competition. Design has evolved to even consider how you feel when you use something. It is an emerging creativity that helps enhance user experience. Design is what can many anything extraordinary and it starts here at SSN Invente 2K16!",
-                "timings":[],
-                    "rules" : 
-                [
-                    "Round 1: 15 mins will be given to each person for this prelims round which will consist of 10 questions and 10 fill-ups.",
-                    "Round 2: Design Challenge – This will be a 1.5 hour design challenge which can be a mobile application or a website design. Separate validation, so design matters."
-                ],
-                "heads" :
-                [
-                    {
-                        "name" : "Arjun S",
-                        "contacts" : [ "8939733489" ]
-                    },
-                    {
-                        "name" : "Nizam",
-                        "contacts" : [ "8056176006" ]
-                    }
-                ]
-            },
-            {
                 "title" : "Paper Presentation",
                 "description" : "<strong>“One of the advantages of being disorganized is that one is always having surprising discoveries.”</strong><br /><br />All innovations are born out of creativity. After all, the best designs of today’s technology started as mere blueprints. Even small creative ideas of individuals may prove to be the basis for tomorrow’s massive technologies. Here is a wonderful opportunity for the you to show case your talents.<br /><br />We want you to present your idea to us so that we can help you convert it to reality!",
-                "timings":[],
-                    "rules" : [	],
+                "venue" : "IT Department",
+				"timings" : [ ],
+                "rules" : [	],
                 "heads" :
                 [
                     {
@@ -461,7 +427,6 @@
                 ]
             }
             ],
-
     "wired" : [
             {
                 "title" : "Paper Presentation",
@@ -629,7 +594,6 @@
                 ]
             }
             ],
-
     "power up" : [
             {
                 "title" : "Paper Presentation",
@@ -860,7 +824,6 @@
                 ]
             }
             ],
-
     "gear up" : [
                 {
                     "title" : "Auto Quiz",
@@ -1109,8 +1072,7 @@
                         }
                     ]
                 }
-                ],
-
+                ],		
     "crystic" : [
                 {
                     "title" : "Paper Presentation",
@@ -1287,7 +1249,6 @@
                     ]
                 }
                 ],
-
     "organic chip" : [
             {
                 "title" : "Biogonize",
@@ -1302,7 +1263,11 @@
                     
                 ],
                 "venue" : "4th year classroom - First Floor (BME Dept)",
-                "timings" : [ ],
+                "timings" : 
+				[
+					"Round 1: 9th September 1:30 pm",
+					"Round 2 and 3: 10th September 10:30 am"
+				],
                 "heads" :
                 [
                     {
@@ -1327,7 +1292,7 @@
                     "<strong>Final round description (Round 2):</strong><ul><li>One team from each domain will move into the finals.</li><li>Each team will get one evening to prepare their presentation on the problem statement they have answered in the previous round.</li><li>They have to present it with the perspective of an entrepreneur. The team which is able to convince the judges will be declared winner.</li></ul>"
                 ],
                 "venue" : "3rd year classroom - Ground Floor (BME Dept)",
-                "timings" :	[ ],
+                "timings" :	[ "10th September 10:00 am" ],
                 "heads" :
                 [
                     {
@@ -1342,7 +1307,7 @@
             },	
             {
                 "title" : "Ludo Quiz",
-                "description" : "Let’s sprinkle some of that wizarding world magic and have an ‘Organic Board Game’ transpire. Álohomora your way into a massive game of Ludo and intense quizzing and maybe brew a big cauldron of fun at Ludo Quiz Save the date: 09-09-2016.",
+                "description" : "Let’s sprinkle some of that wizarding world magic and have an ‘Organic Board Game’ transpire. Álohomora your way into a massive game of Ludo and intense quizzing and maybe brew a big cauldron of fun at Ludo Quiz.",
                 "rules" : 
                 [
                     "<strong>General rules and regulations:</strong><Ol><li>The game, as the name indicates, will be a mix of the traditional board game, Ludo, and a technical quiz. It will be a tournament-style event so get ready for heart-pumping excitement.</li><li>The event will consist of three rounds- The Prelims and The Knockouts, and The Finale.  Participants will be allowed to either play alone or in groups of 2.</li></ol>",
@@ -1354,7 +1319,7 @@
                     "<strong>Final round description (Round 3):</strong>Same rules, same game, but higher stakes, and even higher difficulty, as teams face-off to win three cash prizes. The Finale will pose a serious challenge to the teams, as they must be on their feet, to respond quickly to the questions posed."
                 ],
                 "venue" : "2nd year classroom - Ground Floor (BME Dept)",
-                "timings" : [ ],
+                "timings" : [ "9th September 1:00 pm" ],
                 "heads" :
                 [
                     {
@@ -1381,7 +1346,7 @@
                     "<strong>Final round description:<br>Biomimetics </strong><br>Matching of a natural object with its real time applications including identification of logos for instruments and Biomedical companies.<br><strong>Duration:60 minutes</strong>"
                 ],
                 "venue" : "Diagonistic and Therapeutic Equipments Lab - Second Floor (BME Dept)",
-                "timings" : [ ],
+                "timings" : [ "10th September 9:00 am" ],
                 "heads" :
                 [
                     {
@@ -1405,7 +1370,7 @@
                     "The ‘Microsoft Powerpoint’ presentation should be mailed to the organizing team on or before the 8th of September and can last for a maximum of 7 minutes. There will be a 3 minute Q&A session following it."
                 ],
                 "venue" : "Redington Learning Center(Seminar Hall) - Ground Floor (BME Dept)",
-                "timings" : [ ],
+                "timings" : [ "10th September 9:00 am" ],
                 "heads" :
                 [
                     {
@@ -1428,7 +1393,7 @@
                     "Final round description:<ul><li>The candidates are expected to present the posters. The poster must include the following:<ul><li>Title</li><li>Names of author(s) and affiliated organization(s)</li><li>Abstract (brief summary of objectives, methods, results, and conclusions)</li><li>Background Information</li><li>Project Objectives</li><li>Materials and Methods</li><li>Results (tables, graphs, charts)</li><li>Conclusions</li><li>Discussion of possible future directions or why project is complete</li></ul></li><li>Competitors shall plot the poster on a 46”x56” sheet of paper</li><li>All illustrations and text must be readable from a distance of 3 feet</li><li>This round will be judged by the subject experts.</li></ul>"
                 ],
                 "venue" : "Project Incubation Cell - First Floor (BME Dept)",
-                "timings" : [ ],
+                "timings" : [ "9th September 1:00 pm" ],
                 "heads" :
                 [
                     {
@@ -1455,7 +1420,11 @@
                     "<strong>Finals:</strong><ol><li>Gravitics:<ol><li>Each team will have two members</li><li>They’ll have to solve the problem within time limit which is decided by their partner's balancing skill.</li><li>There will be a total of 3 questions.</li><li>Every right answer gets two points.</li><li>Duration: 30 minutes.</li></ol></li><li>Impulse:<ol><li>Each team will have two members.</li><li>They’ll have to help their partner find the words by giving clues.</li><li>Every word is allowed 3 clues.</li><li>There will be a total of 5 questions.</li><li>Every right answer gets two points</li><li>Duration: 30 minutes.</li></ol></li></ol>"
                 ],
                 "venue" : "Bio Electronics Lab - First Floor (BME Dept)",
-                "timings" : [ ],
+                "timings" : 
+				[
+					"Round 1: 9th September 1:30 pm",
+					"Round 2 and 3: 10th September 10:30 am"
+				],
                 "heads" :
                 [
                     {
@@ -1478,7 +1447,11 @@
                     "<strong>Final round description:</strong><br />Muckrakes<br />A clue will be given to a member of the team and the rest of the team has to find the word by means of Dumb Charades. The team as a whole will then have to discover the physical object described by the clue by searching the room."
                 ],
                 "venue" : "M.E 2nd year classroom - Second Floor (BME Dept)",
-                "timings" : [ ],
+                "timings" : 
+				[
+					"Round 1 and 2: 9th September 1:00 pm",
+					"Round 3: 10th September 11:00 am"
+				],
                 "heads" :
                 [
                     {
@@ -1492,7 +1465,6 @@
                 ]
             }
             ],
-
     "structured" : [
                 {
                     "title" : "Concrete Challenge",
@@ -1727,5 +1699,4 @@
                     ]
                 }
                 ]
-
 }
