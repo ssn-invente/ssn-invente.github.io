@@ -22,25 +22,20 @@
                 ]
             },
 			{
-                "title" : "Virtually Real",
-                "description" : "Create your own world right here, right now. An innovative event on virtual reality and modeling. This event will be truly thought provoking, bringing out the best of your creative abilities.",
-                "rules" : 
-                [
-                    "Round 1: The first round will be a Multiple Choice Questions Round, testing the participant's knowledge on the fundamental concepts of Virtual Reality. The top performers will be shortlisted for the subsequent rounds.",
-                    "Round 2: This round will have an on-the-spot topic, and the participants will be assessed on how novel, relevant and innovative their ideas are, on the topic given to them.",
-                    "Participants can use any software of their choice for developing their models from the options given by us."
-                ],
+                "title" : "Paper Presentation - IT",
+                "description" : "<strong>“One of the advantages of being disorganized is that one is always having surprising discoveries.”</strong><br /><br />All innovations are born out of creativity. After all, the best designs of today’s technology started as mere blueprints. Even small creative ideas of individuals may prove to be the basis for tomorrow’s massive technologies. Here is a wonderful opportunity for the you to show case your talents.<br /><br />We want you to present your idea to us so that we can help you convert it to reality!",
                 "venue" : "IT Department",
 				"timings" : [ ],
+                "rules" : [	],
                 "heads" :
                 [
                     {
-                        "name" : "Sachin Ram",
-                        "contacts" :
-                        [
-                            "9940194877",
-                            "7708516263"
-                        ]
+                        "name" : "Harinie",
+                        "contacts" : [ "9585714521" ]
+                    },
+                    {
+                        "name" : "L. Swetha",
+                        "contacts" : [ "9840318244" ]
                     }
                 ]
             },
@@ -95,7 +90,7 @@
                 ]
             },
             {
-                "title" : "Paper Presentation",
+                "title" : "Paper Presentation - CSE",
                 "description" : "Put on your thinking caps and pop the magic in presneting your novel ideas of the era in paper.Make a STATEMENT (literally...) and stand by itin the domain of CSE and let our esteemed panelists be the better judges. We sure can find the copy cats..",
                 "rules" :
                 [
@@ -122,27 +117,25 @@
                 ]
             },
 			{
-                "title" : "SSN Nuggets",
-                "description" : "Are you into data analytics? Do you find patterns in large datasets that others fail to notice? Do you think you can make better predictions than the astrologer? Then this is the event for you, come and indulge in some data analytics fun and win fun prizes.",
+                "title" : "Cryptomaniac",
+                "description" : "A witty and fun filled event that requires you to squeeze your brains to decipher the hidden messages!",
                 "venue" : "IT Department",
 				"timings" : [ ],
                 "rules" : 
                 [
-                    "This event will be played by teams with a maximum of two people per team.",
-                    "Round 1: MCQ questions on regular data intuition and statistics. It'll be a pen & paper round with 20 questions within 20 minutes.",
-                    "Round 2: Coding round. You'll be given a dataset, and you'll have to perform predictive analysis on it. The most accurate model wins.",
-                    "The duration of the event will be 1.5 - 2 hours. After 1.5 hrs teams have to provide a brief explanation of what they've done, and their next plan of action. This explanation will give them nugget points which will play a major role in the final decision and in clearance of tie breakers.",
-                    "You'll be provided with following tools: <ol><li>Python + anaconda + text editor</li><li>R + R studio + add any packages you want</li><li>Weka</li></ol>"
+                    "Team event with a maximum of 2 per team.",
+                    "Round 1: This is a prelims round which will be a pen and paper test.",
+                    "Round 2: The finals will be a group event. All the teams will have to encrypt a few messages and other teams would be given the chance in a round robin fashion to decrypt them. The teams with most points shall be awarded prizes."
                 ],
                 "heads" :
                 [
                     {
-                        "name" : "Sri Vishnu",
-                        "contacts" : [ "9884884933" ]
+                        "name" : "Pragal Paah",
+                        "contacts" : [ "9566068715" ]
                     },
                     {
-                        "name" : "Gautham Krishna",
-                        "contacts" : [ "9698141161" ]
+                        "name" : "Anirudh Sesadhri",
+                        "contacts" : [ "8056259792" ]
                     }
                 ]
             },
@@ -221,25 +214,27 @@
                 ]
             },
 			{
-                "title" : "Cryptomaniac",
-                "description" : "A witty and fun filled event that requires you to squeeze your brains to decipher the hidden messages!",
+                "title" : "SSN Nuggets",
+                "description" : "Are you into data analytics? Do you find patterns in large datasets that others fail to notice? Do you think you can make better predictions than the astrologer? Then this is the event for you, come and indulge in some data analytics fun and win fun prizes.",
                 "venue" : "IT Department",
 				"timings" : [ ],
                 "rules" : 
                 [
-                    "Team event with a maximum of 2 per team.",
-                    "Round 1: This is a prelims round which will be a pen and paper test.",
-                    "Round 2: The finals will be a group event. All the teams will have to encrypt a few messages and other teams would be given the chance in a round robin fashion to decrypt them. The teams with most points shall be awarded prizes."
+                    "This event will be played by teams with a maximum of two people per team.",
+                    "Round 1: MCQ questions on regular data intuition and statistics. It'll be a pen & paper round with 20 questions within 20 minutes.",
+                    "Round 2: Coding round. You'll be given a dataset, and you'll have to perform predictive analysis on it. The most accurate model wins.",
+                    "The duration of the event will be 1.5 - 2 hours. After 1.5 hrs teams have to provide a brief explanation of what they've done, and their next plan of action. This explanation will give them nugget points which will play a major role in the final decision and in clearance of tie breakers.",
+                    "You'll be provided with following tools: <ol><li>Python + anaconda + text editor</li><li>R + R studio + add any packages you want</li><li>Weka</li></ol>"
                 ],
                 "heads" :
                 [
                     {
-                        "name" : "Pragal Paah",
-                        "contacts" : [ "9566068715" ]
+                        "name" : "Sri Vishnu",
+                        "contacts" : [ "9884884933" ]
                     },
                     {
-                        "name" : "Anirudh Sesadhri",
-                        "contacts" : [ "8056259792" ]
+                        "name" : "Gautham Krishna",
+                        "contacts" : [ "9698141161" ]
                     }
                 ]
             },
@@ -408,24 +403,29 @@
                     }
                 ]
             },
-            {
-                "title" : "Paper Presentation",
-                "description" : "<strong>“One of the advantages of being disorganized is that one is always having surprising discoveries.”</strong><br /><br />All innovations are born out of creativity. After all, the best designs of today’s technology started as mere blueprints. Even small creative ideas of individuals may prove to be the basis for tomorrow’s massive technologies. Here is a wonderful opportunity for the you to show case your talents.<br /><br />We want you to present your idea to us so that we can help you convert it to reality!",
+			{
+                "title" : "Virtually Real",
+                "description" : "Create your own world right here, right now. An innovative event on virtual reality and modeling. This event will be truly thought provoking, bringing out the best of your creative abilities.",
+                "rules" : 
+                [
+                    "Round 1: The first round will be a Multiple Choice Questions Round, testing the participant's knowledge on the fundamental concepts of Virtual Reality. The top performers will be shortlisted for the subsequent rounds.",
+                    "Round 2: This round will have an on-the-spot topic, and the participants will be assessed on how novel, relevant and innovative their ideas are, on the topic given to them.",
+                    "Participants can use any software of their choice for developing their models from the options given by us."
+                ],
                 "venue" : "IT Department",
 				"timings" : [ ],
-                "rules" : [	],
                 "heads" :
                 [
                     {
-                        "name" : "Harinie",
-                        "contacts" : [ "9585714521" ]
-                    },
-                    {
-                        "name" : "L. Swetha",
-                        "contacts" : [ "9840318244" ]
+                        "name" : "Sachin Ram",
+                        "contacts" :
+                        [
+                            "9940194877",
+                            "7708516263"
+                        ]
                     }
                 ]
-            }
+            },
             ],
     "wired" : [
             {
