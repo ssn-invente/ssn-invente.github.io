@@ -1075,7 +1075,7 @@
                     ]
                 }
                 ],		
-    "crystic" : [
+    "catalyst" : [
                 {
                     "title" : "Paper Presentation",
                     "description" : "Do you consider yourself thorough in your field of interest? Do you wish to flaunt it? if yes, this platform is for you. Come present a paper if your expertise aligns with any of the following domains, stand proud as you shoot down the volley of queries afterwards. Following are the topics available for paper presentation.<br><ol><li>Sustainable Energy</li><li>Environment and Pollution control</li><li>Solid waste management</li><li>Waste water treatment</li><li>Nanotechnology</li><li>Computational Modelling and Simulation</li><li>Material Science</li><li>Bioprocess Engineering</li></ol>",
@@ -1251,7 +1251,7 @@
                     ]
                 }
                 ],
-    "organic chip" : [
+    "medimorphosis" : [
             {
                 "title" : "Biogonize",
                 "description" : "Tired of filling pages and pages to prove your knowledge in biology? Well, here is an opportunity to prove your talent without having to fill 42 pages! And guess what? We evaluate content! We evaluate only once!  And we give you what you deserve!  Sounds rejuvenating, doesn’t it?! So there you go! Don’t forget to join us on the 9th of September at INVENTE V1.0!",
@@ -1267,8 +1267,7 @@
                 "venue" : "4th year classroom - First Floor (BME Dept)",
                 "timings" : 
 				[
-					"Round 1: 9th September 1:30 pm",
-					"Round 2 and 3: 10th September 10:30 am"
+					"10th September 9:00 AM"
 				],
                 "heads" :
                 [
@@ -1289,12 +1288,15 @@
                 [
                     "<strong>General rules and regulations:</strong><ul><li>Each team can have two or three members.</li><li>Cross college teams are allowed.</li><li>ID card is compulsory for the participants.</li><li>Decision of judges and event coordinators are final and binding to all.</li></ul>",
                     
-                    "<strong>Preliminary round (Round 1):</strong><ul><li>Each member from a team will come forth and pick a chit that has different domains related to Biomedical engineering/ Biotechnology.</li><li>The team will get questions based on the domain they have chosen throughout the event.</li><li>There will be ten MCQ questions and one problem statement which has to be answered in brief within 40 minutes.</li></ul>",
+                    "<strong>Preliminary round (Round 1):</strong><ul><li>Each member from a team will come forth and pick a chit that has different domains related to Biomedical engineering/ Biotechnology. The domains for biomedical include: bioinstrumentation, clinical engineering, biomaterials,biomedical waste management, bio statistics and the domains for biotechnology include: bioinformatics, pharmaceuticals, environmental biotechnology , cancer biology, genetic engineering</li><li>The team will get questions based on the domain they have chosen throughout the event.</li><li>There will be ten MCQ questions and one problem statement which has to be answered in brief within 40 minutes.</li></ul>",
                     
-                    "<strong>Final round description (Round 2):</strong><ul><li>One team from each domain will move into the finals.</li><li>Each team will get one evening to prepare their presentation on the problem statement they have answered in the previous round.</li><li>They have to present it with the perspective of an entrepreneur. The team which is able to convince the judges will be declared winner.</li></ul>"
+                    "<strong>Final round description (Round 2):</strong><ul><li>One team from each domain will move into the finals.</li><li>Each team will get one evening to prepare their presentation on the problem statement they have answered in the previous round.</li><li>They have to present it with the perspective of an entrepreneur.</li><li>The team which is able to convince the judges will be declared winner.</li></ul>"
                 ],
                 "venue" : "3rd year classroom - Ground Floor (BME Dept)",
-                "timings" :	[ "10th September 10:00 am" ],
+                "timings" :	[ 
+                    "Round 1: 9th September 2016 at 01:00 PM",
+                    "Round 2: 10th September 2016 at 10:00 AM"
+                ],
                 "heads" :
                 [
                     {
@@ -1308,8 +1310,8 @@
                 ]
             },	
             {
-                "title" : "Ludo Quiz",
-                "description" : "Let’s sprinkle some of that wizarding world magic and have an ‘Organic Board Game’ transpire. Álohomora your way into a massive game of Ludo and intense quizzing and maybe brew a big cauldron of fun at Ludo Quiz.",
+                "title" : "LudaQuiz",
+                "description" : "Let’s sprinkle some of that wizarding world magic and have an ‘Organic Board Game’ transpire. Álohomora your way into a massive game of Ludo and intense quizzing and maybe brew a big cauldron of fun at LudaQuiz.",
                 "rules" : 
                 [
                     "<strong>General rules and regulations:</strong><Ol><li>The game, as the name indicates, will be a mix of the traditional board game, Ludo, and a technical quiz. It will be a tournament-style event so get ready for heart-pumping excitement.</li><li>The event will consist of three rounds- The Prelims and The Knockouts, and The Finale.  Participants will be allowed to either play alone or in groups of 2.</li></ol>",
@@ -1320,7 +1322,7 @@
                     
                     "<strong>Final round description (Round 3):</strong>Same rules, same game, but higher stakes, and even higher difficulty, as teams face-off to win three cash prizes. The Finale will pose a serious challenge to the teams, as they must be on their feet, to respond quickly to the questions posed."
                 ],
-                "venue" : "2nd year classroom - Ground Floor (BME Dept)",
+                "venue" : "Diagonistic and Therapeutic Equipments Lab - Second Floor (BME Dept)",
                 "timings" : [ "9th September 1:00 pm" ],
                 "heads" :
                 [
@@ -1331,6 +1333,10 @@
                     {
                         "name" : "Monica A",
                         "contacts" : [ "8056327327" ]
+                    },
+                    {
+                        "name" : "Keerthana Priya S",
+                        "contacts" : [ "9789091005" ]
                     }
                 ]	
             },
@@ -1347,7 +1353,7 @@
                     
                     "<strong>Final round description:<br>Biomimetics </strong><br>Matching of a natural object with its real time applications including identification of logos for instruments and Biomedical companies.<br><strong>Duration:60 minutes</strong>"
                 ],
-                "venue" : "Diagonistic and Therapeutic Equipments Lab - Second Floor (BME Dept)",
+                "venue" : "M.E 2nd year classroom - Second Floor (BME Dept)",
                 "timings" : [ "10th September 9:00 am" ],
                 "heads" :
                 [
@@ -1361,6 +1367,60 @@
                     }
                 ]
             },
+            
+            {
+                "title" : "Scintelligence",
+                "description" : "Feel the adrenaline rush, as we test your technical knowledge and skill with brain games. Get ready to discover some unexplored territory.",
+                "rules" : 
+                [
+                    "<strong>Preliminary round description:</strong><br />Crack it up<ol><li>Each team will have two members.</li><li>They will be made to crack the word hidden in pictorial clues.</li><li>There will be a total of 5 questions.</li><li>Every right answer gets two points.</li><li>Duration: 1 hour.</li><li>",
+                    "<strong>Intermediate round description(Semifinals):</strong><ol><li>Knick Knack:<ol><li>Each team can have two members.</li><li>They will have to unscramble the given words and link them up to find the underlying concept. </li><li>There will be a total of 3 questions.</li><li>Every right answer gets two points.</li><li>Duration:30 minutes.</li></ol></li><li>Cat's tail:<ol><li>Each team will have two members.</li><li>The team members will be asked to analyze the given picture, and guide their blind folded partner to identify the correct spot.</li><li>There will be a total of 2 questions posed.</li><li>Every right answer will be awarded 2 points.</li><li>Duration: 30 minutes.</li></ol></li></ol>",
+                    "<strong>Finals:</strong><ol><li>Gravitics:<ol><li>Each team will have two members</li><li>They’ll have to solve the problem within time limit which is decided by their partner's balancing skill.</li><li>There will be a total of 3 questions.</li><li>Every right answer gets two points.</li><li>Duration: 30 minutes.</li></ol></li><li>Impulse:<ol><li>Each team will have two members.</li><li>They’ll have to help their partner find the words by giving clues.</li><li>Every word is allowed 3 clues.</li><li>There will be a total of 5 questions.</li><li>Every right answer gets two points</li><li>Duration: 30 minutes.</li></ol></li></ol>"
+                ],
+                "venue" : "Diagonistic and Therapeutic Equipments Lab - Second Floor (BME Dept)",
+                "timings" : 
+				[
+					"10th September 2016 at 9:00 AM"
+				],
+                "heads" :
+                [
+                    {
+                        "name" : "Anuradha Lakshmanan",
+                        "contacts" : [ "9791468398"	]
+                    },
+                    {
+                        "name" : "S Gayathri Devi",
+                        "contacts" : [ "9840321046" ]
+                    }
+                ]
+            },
+            {
+                "title" : "Tellurians",
+                "description" : "Tellurians, the tenants of the Earth, let's resolve the puzzles over the evolution!!!. Take part and feel the pleasure of being a human !!!",
+                "rules" : 
+                [
+                    "<strong>Preliminary round description:</strong><br />Online quiz related to areas:<ul><li>Medical biology</li><li>Medical devices.</li></ul><br />Each section will comprise of 10 easy questions, 5 medium question and 3 hard questions. Easy and medium questions will be MCQs. The hard questions will involve finding the odd one out, matching or identifying the unknowns. Ten teams will be shortlisted.",
+                    "<strong>Intermediate round description:</strong><br />Tie In-Flavoured Connections<br />Only three teams will be shortlisted for the next round. The common term linking the pictures presented has to be identified. Each team will get a maximum of three questions. In the event of a tie, a tie breaker will be established.",
+                    "<strong>Final round description:</strong><br />Muckrakes<br />A clue will be given to a member of the team and the rest of the team has to find the word by means of Dumb Charades. The team as a whole will then have to discover the physical object described by the clue by searching the room."
+                ],
+                "venue" : "M.E 1st year classroom - Ground Floor (BME Dept)",
+                "timings" : 
+				[
+					"Round 1: 9th September 2016 at 1:00 PM",
+					"Round 2 and 3: 10th September 2016 at 10:00 AM"
+				],
+                "heads" :
+                [
+                    {
+                        "name" : "Madhumitra S K",
+                        "contacts" : [ "9944013093" ]
+                    },
+                    {
+                        "name" : "Ganesh Kumar D",
+                        "contacts" : [ "9791736183" ]
+                    }
+                ]
+            },
             {
                 "title" : "Paper Presentation",
                 "description" : "",
@@ -1371,8 +1431,8 @@
                     "Based on peer review of the abstracts, contestants will be shortlisted for the next round. If chosen, the hard copy of the paper with the abstract in A4 sheets(not more than 10 pages including references,tables and graphs) has to be submitted on the day of the event. The paper should be in IEEE format and written in Times New Roman font.",
                     "The ‘Microsoft Powerpoint’ presentation should be mailed to the organizing team on or before the 8th of September and can last for a maximum of 7 minutes. There will be a 3 minute Q&A session following it."
                 ],
-                "venue" : "Redington Learning Center(Seminar Hall) - Ground Floor (BME Dept)",
-                "timings" : [ "10th September 9:00 am" ],
+                "venue" : "Seminar Hall - Ground Floor (BME Dept)",
+                "timings" : [ "9th September 2016 at 1:00 PM" ],
                 "heads" :
                 [
                     {
@@ -1395,7 +1455,7 @@
                     "Final round description:<ul><li>The candidates are expected to present the posters. The poster must include the following:<ul><li>Title</li><li>Names of author(s) and affiliated organization(s)</li><li>Abstract (brief summary of objectives, methods, results, and conclusions)</li><li>Background Information</li><li>Project Objectives</li><li>Materials and Methods</li><li>Results (tables, graphs, charts)</li><li>Conclusions</li><li>Discussion of possible future directions or why project is complete</li></ul></li><li>Competitors shall plot the poster on a 46”x56” sheet of paper</li><li>All illustrations and text must be readable from a distance of 3 feet</li><li>This round will be judged by the subject experts.</li></ul>"
                 ],
                 "venue" : "Project Incubation Cell - First Floor (BME Dept)",
-                "timings" : [ "9th September 1:00 pm" ],
+                "timings" : [ "10th September 2016 at 10:00 AM" ],
                 "heads" :
                 [
                     {
@@ -1413,56 +1473,39 @@
                 ]
             },
             {
-                "title" : "Scintelligence",
-                "description" : "Feel the adrenaline rush, as we test your technical knowledge and skill with brain games. Get ready to discover some unexplored territory.",
+                "title" : "VR Workshop",
+                "description" : "Tired of filling pages and pages to prove your knowledge in biology? Well, here is an opportunity to prove your talent without having to fill 42 pages! And guess what? We evaluate content! We evaluate only once!  And we give you what you deserve!  Sounds rejuvenating, doesn’t it?! So there you go! Don’t forget to join us on the 9th of September at INVENTE V1.0!",
                 "rules" : 
                 [
-                    "<strong>Preliminary round description:</strong><br />Crack it up<ol><li>Each team will have two members.</li><li>They will be made to crack the word hidden in pictorial clues.</li><li>There will be a total of 5 questions.</li><li>Every right answer gets two points.</li><li>Duration: 1 hour.</li><li>",
-                    "<strong>Intermediate round description(Semifinals):</strong><ol><li>Knick Knack:<ol><li>Each team can have two members.</li><li>They will have to unscramble the given words and link them up to find the underlying concept. </li><li>There will be a total of 3 questions.</li><li>Every right answer gets two points.</li><li>Duration:30 minutes.</li></ol></li><li>Cat's tail:<ol><li>Each team will have two members.</li><li>The team members will be asked to analyze the given picture, and guide their blind folded partner to identify the correct spot.</li><li>There will be a total of 2 questions posed.</li><li>Every right answer will be awarded 2 points.</li><li>Duration: 30 minutes.</li></ol></li></ol>",
-                    "<strong>Finals:</strong><ol><li>Gravitics:<ol><li>Each team will have two members</li><li>They’ll have to solve the problem within time limit which is decided by their partner's balancing skill.</li><li>There will be a total of 3 questions.</li><li>Every right answer gets two points.</li><li>Duration: 30 minutes.</li></ol></li><li>Impulse:<ol><li>Each team will have two members.</li><li>They’ll have to help their partner find the words by giving clues.</li><li>Every word is allowed 3 clues.</li><li>There will be a total of 5 questions.</li><li>Every right answer gets two points</li><li>Duration: 30 minutes.</li></ol></li></ol>"
+                    "The participants are expected to carry a laptop with connectivity to WiFi and Unity-3D (free VR software) installed.",
+                    
+                    "<strong>Workshop fee is as follows:</strong><ul><li>Individuals- Rs.700</li><li>Team of 2 - Rs.800</li><li>Team of 3 – Rs.900</li></ul>",
+                    
+                    "Certificates and VR kits(one per team) will be provided.",
+
+                    "<strong>Session 1: </strong><br><p>The session will kick off with a brief introduction to Virtual Reality and Augmented Reality. It will delve into the details of the conceptualization of AR and VR.</p>",
+
+                    "<strong>Session 2: </strong><br><p>Resuming after lunch break, it will be a hands-on session teaching the contestants the intricacies of Unity-3D and assisting them in learning the software.</p>"
+                    
                 ],
-                "venue" : "Bio Electronics Lab - First Floor (BME Dept)",
+                "venue" : "Seminar Hall - Ground Floor (BME Dept)",
                 "timings" : 
 				[
-					"Round 1: 9th September 1:30 pm",
-					"Round 2 and 3: 10th September 10:30 am"
+					"10th September 10:00 AM - 4:00 PM"
 				],
                 "heads" :
                 [
                     {
-                        "name" : "Anuradha Lakshmanan",
-                        "contacts" : [ "9791468398"	]
+                        "name" : "Keerthana.M",
+                        "contacts" : [ "9884336322" ]
                     },
                     {
-                        "name" : "S Gayathri Devi",
-                        "contacts" : [ "9840321046" ]
-                    }
-                ]
-            },
-            {
-                "title" : "Tellurians",
-                "description" : "Webster’s Dictionary defines ‘Tellurians’ as the tenants of the Earth. Come take part and try to unravel the enigma of evolution.",
-                "rules" : 
-                [
-                    "<strong>Preliminary round description:</strong><br />Online quiz related to areas:<ul><li>Medical biology</li><li>Medical devices.</li></ul><br />Each section will comprise of 10 easy questions, 5 medium question and 3 hard questions. Easy and medium questions will be MCQs. The hard questions will involve finding the odd one out, matching or identifying the unknowns. Ten teams will be shortlisted.",
-                    "<strong>Intermediate round description:</strong><br />Tie In-Flavoured Connections<br />Only three teams will be shortlisted for the next round. The common term linking the pictures presented has to be identified. Each team will get a maximum of three questions. In the event of a tie, a tie breaker will be established.",
-                    "<strong>Final round description:</strong><br />Muckrakes<br />A clue will be given to a member of the team and the rest of the team has to find the word by means of Dumb Charades. The team as a whole will then have to discover the physical object described by the clue by searching the room."
-                ],
-                "venue" : "M.E 2nd year classroom - Second Floor (BME Dept)",
-                "timings" : 
-				[
-					"Round 1 and 2: 9th September 1:00 pm",
-					"Round 3: 10th September 11:00 am"
-				],
-                "heads" :
-                [
-                    {
-                        "name" : "Madhumitra S K",
-                        "contacts" : [ "9944013093" ]
+                        "name" : "Vishal.S.B",
+                        "contacts" : [ "9500032172" ]
                     },
                     {
-                        "name" : "Ganesh Kumar D",
-                        "contacts" : [ "9791736183" ]
+                        "name" : "Atul Taneja",
+                        "contacts" : [ "7708659019" ]
                     }
                 ]
             }
