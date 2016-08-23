@@ -31,9 +31,16 @@
 			{
                 "title" : "Paper Presentation - IT",
                 "description" : "<strong>“One of the advantages of being disorganized is that one is always having surprising discoveries.”</strong><br /><br />All innovations are born out of creativity. After all, the best designs of today’s technology started as mere blueprints. Even small creative ideas of individuals may prove to be the basis for tomorrow’s massive technologies. Here is a wonderful opportunity for the you to show case your talents.<br /><br />We want you to present your idea to us so that we can help you convert it to reality!",
-                "venue" : "IT Department",
+                "venue" : "IT Department Seminar Hall",
 				"timings" : [ ],
-                "rules" : [	],
+                "rules" : [ "Topics: <ul><li>Wireless Communication and Networking</li><li>Web Services and Machine Intelligence</li><li>Information Security</li><li>Business Intelligence ERP</li><li>Speech and Image Processing</li><li>Data Mining and Data Warehousing</li><li>Distributed Systems</li><li>VoIP</li><li>RFID and Applications</li><li>Open Source Technologies</li><li>Digital Media Broadcasting</li><li>Security and Cloud Computing</li><li>Internet of Things</li><li>Big Data</li><li>Operating System</li></ul>",
+                "Submitted manuscripts must be standard IEEE format.",
+                "Papers must not be published before anywhere or be under consideration for publication in any journal or conference.",
+                "Each Team may have up to 3 participants.",
+                "Submission must include title, abstract, keywords, author (s), affiliation (s) with phone number (s), and email address (ES).",
+                "The entries must be emailed to paperpresentationinvente@gmail.com",
+                "Last date for submission is 31 st August 2016. The hard deadline (maximum extension) is upto 2 nd September 2016."
+                ],
                 "heads" :
                 [
                     {
@@ -67,6 +74,28 @@
                     }
                 ]
             },
+			{
+                "title" : "AI Blitz",
+                "description" : "Ever wondered how Ironman’s assistant Jarvis works? Does Siri intrigue you? Do you have unbound imagination? Put your skills into practice. Here is your platform. Fasten your seatbelts, ride along with us and win exciting goodies.",
+                "venue" : "IT Department",
+				"timings" : [ ],
+                "rules" : 
+                [
+                    "Round 1: You will have to work on two questions and solve them in 20 minutes. Shortlisted candidates go to the next round.",
+                    "Round 2: In this final round, you'll have only one problem to solve in 1 ½ hours."
+                ],
+                "heads" :
+                [
+                    {
+                        "name" : "Srinivasan",
+                        "contacts" : [ "9962203656" ]
+                    },
+                    {
+                        "name" : "Vishnu Varadan",
+                        "contacts" : [ "9884465285" ]
+                    }
+                ]
+            },
             {
                 "title" : "Tech Quiz",
                 "description" : "Ever felt that “Tcha, it's at the tip of my tongue!” feeling when asked to answer a question? Do you walk around with your nose buried (no, not literally) in the latest developments from the world of technology? Have you what it takes to trump every other techno-freak, gadget geek, and whizkid out there in a frenetic battle of quizzing? If your answer to zero or more of the above questions is 1 (That's “Yes” for you CS neophytes), be there on the 10th of September at Invente '16 for the Tech Quiz. Good luck, and may the quizzing gods bless all your fluke guesses with +10!",
@@ -95,29 +124,6 @@
                     }
                 ]
             },
-			{
-                "title" : "AI Blitz",
-                "description" : "Ever wondered how Ironman’s assistant Jarvis works? Does Siri intrigue you? Do you have unbound imagination? Put your skills into practice. Here is your platform. Fasten your seatbelts, ride along with us and win exciting goodies.",
-                "venue" : "IT Department",
-				"timings" : [ ],
-                "rules" : 
-                [
-                    "Round 1: You will have to work on two questions and solve them in 20 minutes. Shortlisted candidates go to the next round.",
-                    "Round 2: In this final round, you'll have only one problem to solve in 1 ½ hours."
-                ],
-                "heads" :
-                [
-                    {
-                        "name" : "Srinivasan",
-                        "contacts" : [ "9962203656" ]
-                    },
-                    {
-                        "name" : "Vishnu Varadan",
-                        "contacts" : [ "9884465285" ]
-                    }
-                ]
-            },
-            
 			{
                 "title" : "Cryptomaniac",
                 "description" : "A witty and fun filled event that requires you to squeeze your brains to decipher the hidden messages!",
