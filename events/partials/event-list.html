@@ -1,35 +1,52 @@
-<collapser data-href="tab"><p>Domains</p><collapse><hor><ver></ver></hor></collapse></collapser>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<!--<collapser data-href="tab"><p>Domains</p><collapse><hor><ver></ver></hor></collapse></collapser>-->
+<!--<collapser data-href="tab"><p>Departments</p><collapse class="fa fa-plus"></collapse></collapser>-->
+<!--<script src="../../js/jquery-2.1.4.min.js"></script>-->
 
 <tab>
     <card ng-repeat="(key, value) in domains">
-        <letter ui-sref="detail({domain: key})" ui-sref-active="active" back-img="{{'icons/' + images[$index] + '.png'}}"></letter>
+        <letter  ui-sref="detail({domain: key , event : 0})" ui-sref-active="active" back-img="{{'icons/' + images[$index] + '.png'}}"></letter>
         <dept>{{key}}</dept>
     </card>
 </tab>
 
 <accord style="display: inline-block;">
     <tabbed-content >
+        <collapser data-href=".eventList"><p>Events</p><collapse class="fa fa-plus"></collapse></collapser>
         <div class="eventList">
             <item ng-repeat="event in domain" ui-sref="detail({domain: currDomain , event : $index})" id="asdf" ui-sref-active="active">{{event.title}}</item>
         </div>
         
-        <collapser data-href="#about-event">
+<!--        <collapser data-href="#about-event">
             <p>About Event</p>
             <collapse>
             <hor></hor><ver></ver>
             </collapse>
-        </collapser>
-        
+        </collapser>-->
+
+        <collapser data-href="#about-event"><p>Event Details</p><collapse class="fa fa-plus"></collapse></collapser>
+
         <div id="about-event" style="display: flex;">
             <h2><i class="fa fa-fa"></i>{{domain[currEvent].title}}</h2>
             <p ng-bind-html="domain[currEvent].description"></p>
             <h3><i class="fa fa-home"> </i>Venue</h3> {{domain[currEvent].venue}}
             <h3><i class="fa fa-hourglass-half"> </i>Timings</h3><p ng-repeat="timing in domain[currEvent].timings" ng-bind-html="timing"></p>
             <h3><i class="fa fa-bullhorn"> </i>Rules</h3><ul><li ng-repeat="rule in domain[currEvent].rules"  ng-bind-html="rule"></li></ul>
-            <h3><i class="fa fa-drupal"> </i>Event Heads<span></span></h3><span class="dialer">Click on the contact card to dial</span>
-            <flexrow>
+            <h3><i class="fa fa-smile-o"> </i>Heads<span></span></h3><span class="dialer">Click on the contact card to dial</span>
+            <flexrow style="flex-wrap:wrap;">
             <a ng-repeat="head in domain[currEvent].heads" href="{{'tel:' + head.contacts[0]}}" class="contact"><img src="drawable/img_avatar.png"><contactname>{{head.name}}</contactname><phone>{{head.contacts[0]}}</phone></a>
             </flexrow>
         </div>
     </tabbed-content>
-</accord>       
+</accord>  
+<script>
+    $("accord collapse").click(function(){
+        $(this).toggleClass("active");
+        $($(this).parent().attr("data-href")).slideToggle();
+    });
+    $("letter").click(function(){
+        alert("ji");
+    });
+  
+</script>
