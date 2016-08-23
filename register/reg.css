@@ -157,7 +157,7 @@ body{
 
 .pop-up-box{
 	width: 500px;
-	height: 300px;
+	height: 375px;
 	margin: 170px auto;
 	background : #fefefe;
 	border-radius: 5px;
@@ -187,11 +187,11 @@ body{
 	font-size: 20px;
 }
 
-.rec .msg:after{
+.rec .msg:before{
 	content: "Success";
 }
 
-.not-rec .msg:after{
+.not-rec .msg:before{
 	content: "Failed";
 }
 

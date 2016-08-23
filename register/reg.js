@@ -1,3 +1,22 @@
+//normal js function
+
+var captchaSuccess = function(response){
+    var el = document.querySelector('.g-recaptcha'),
+            $el = angular.element(el),
+            $scope = $el.scope();
+
+            $scope && $scope.captchaSuccess(response);
+}
+
+var captchaExpired = function(){
+    var el = document.querySelector('.g-recaptcha'),
+            $el = angular.element(el),
+            $scope = $el.scope();
+
+            $scope && $scope.captchaExpired();
+}
+//normal js func end
+
 angular.module("invente",[])
 .controller("regFormController", ['$scope', '$http', function($scope, $http){
 
@@ -7,7 +26,8 @@ angular.module("invente",[])
         year : "",
         branch: "",
         email : "",
-        phone : ""
+        phone : "",
+        gcaptchaResponse : ""
 
     }
 
@@ -112,10 +132,23 @@ angular.module("invente",[])
 
 	$scope.popup = false;
 	$scope.recommended = true;
+    $scope.errMsg = "";
 
     $scope.dismissPopup = function(){
 		$scope.popup = false;
 	}
+
+    $scope.gcaptchaed = false;
+
+    $scope.captchaSuccess = function(response){
+        $scope.gcaptchaed = true;
+        $scope.$apply();
+    }
+
+    $scope.captchaExpired = function(){
+        $scope.gcaptchaed = false;
+        $scope.$apply();
+    }
 
     $scope.register = function(){
         if($scope.data.branch === '') $scope.invalidBranchSelection = true; else $scope.invalidBranchSelection = false;
@@ -125,7 +158,8 @@ angular.module("invente",[])
             $scope.invalidBranchSelection = false;
             $scope.invalidYearSelection = false;
             
-			console.log($scope.data);
+            $scope.data.gcaptchaResponse = grecaptcha.getResponse();
+			// console.log($scope.data.gcaptchaResponse);
             
             $http.post("onlinereg.php",$scope.data, {}).then(
                 function(res){
@@ -136,13 +170,21 @@ angular.module("invente",[])
                         year : "",
                         branch: "",
                         email : "",
-                        phone : ""
-
-                    }
+                        phone : "",
+                        gcaptchaResponse : ""
+                    }     
+                    $scope.gcaptchaed = false;
+                    grecaptcha.reset();
                     $scope.regForm.$setPristine();
 
-                    if(res.data.success === true) $scope.recommended = true;
-                    else $scope.recommended = false;
+                    if(res.data.success === true) {
+                        $scope.recommended = true;
+                        $scope.errMsg = "";
+                    }
+                    else {
+                        $scope.recommended = false;
+                        $scope.errMsg = res.data.message;
+                    }
                     $scope.popup = true;
 
                 }, function(err){
