@@ -7,10 +7,14 @@
     <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="reg.css" />
     <link rel="stylesheet" type="text/css" href="../css/navbar.css" >
+    
+       <link rel="stylesheet" href="../css/cadetnav.css"/>
+           <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+        <script src="../js/cadetnav.js"></script>
 </head>
 
 <body  ng-controller="regFormController">
-    <header>
+<!--    <header>
     <nav id="header-nav" class="navbar navbar-default">
       <div class="container">
         <div class="navbar-header">
@@ -31,21 +35,63 @@
         
         <div id="collapsable-nav" class="collapse navbar-collapse cnv">
            <ul id="nav-list" class="nav navbar-nav navbar-right">
-                <li><a href="../"><br class="hidden-xs"> Home</a></li>
-                <li><a href="../aboutus"><br class="hidden-xs"> About Us</a></li>
-                <li><a href="../events/"><br class="hidden-xs"> Events</a></li>
-                <li><a href="../workshops/" id="workshop"><br class="hidden-xs"> Workshops</a></li>
-                <li><a href="../hackathon"><br class="hidden-xs">Hackathon</a></li>
-                <li class="active"><a href="../register" class="act"><br class="hidden-xs"> Register</a></li>
-            <!--<li>
+            <li>
+              <a href="../">
+              <br class="hidden-xs"> Home</a>
+            </li>
+<<<<<<< HEAD
+			<li>
+              <a href="../aboutus">
+              <br class="hidden-xs"> About Us</a>
+            </li>
+=======
+>>>>>>> origin/master
+            <li>
+              <a href="../events/">
+              <br class="hidden-xs"> Events</a>
+            </li>
+            <li>
+              <a href="../workshops/" id="workshop">
+              <br class="hidden-xs"> Workshop</a>
+            </li>
+<<<<<<< HEAD
+			<li>
+				<a href="../hackathon">
+				<br class="hidden-xs">Hackathon</a>
+			</li>
+=======
+>>>>>>> origin/master
+            <li class="active">
+              <a href="../register" class="act">
+              <br class="hidden-xs"> Register</a>
+            </li>
+            <li>
               <a href="#">
               <br class="hidden-xs"> Contact Us</a>
-            </li>-->
-          </ul><!-- #nav-list -->
-        </div><!-- .collapse .navbar-collapse -->
-      </div><!-- .container -->
-    </nav><!-- #header-nav -->
-  </header>
+            </li>
+          </ul> #nav-list 
+        </div> .collapse .navbar-collapse 
+      </div> .container 
+    </nav> #header-nav 
+  </header>-->
+    <header>
+            <brand>
+                <a href='../'><img src="../img/invente.svg"></a>
+            </brand>
+            <openclose>
+                <div class="bar1"></div>
+                <div class="bar2"></div>
+                <div class="bar3"></div>
+            </openclose>
+            <links>
+                <a href='../'>Home</a>
+                <a href='../aboutus/'>About-us</a>
+                <a href='../events/' >Events</a>
+                <a href='../workshops/'>Workshop</a>
+                <a href='../hackathon/'>Hackathon</a>
+                <a href='../register/' class="linkactive" >Register</a>
+            </links>
+</header>
     <!--<div class="success-info">Successfully Registered</div>-->
     <!--<div class="failure-info">Registration Failed</div>-->
     <div id="reg" class="container-fluid">
