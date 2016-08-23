@@ -2,7 +2,7 @@
 
 <tab>
     <card ng-repeat="(key, value) in domains">
-        <letter ui-sref="detail({domain: key , event : 0})" ui-sref-active="active" back-img="{{'icons/' + images[$index] + '.png'}}"></letter>
+        <letter ui-sref="detail({domain: key})" ui-sref-active="active" back-img="{{'icons/' + images[$index] + '.png'}}"></letter>
         <dept>{{key}}</dept>
     </card>
 </tab>
