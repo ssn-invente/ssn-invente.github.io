@@ -77,12 +77,15 @@
 			{
                 "title" : "AI Blitz",
                 "description" : "Ever wondered how Ironman’s assistant Jarvis works? Does Siri intrigue you? Do you have unbound imagination? Put your skills into practice. Here is your platform. Fasten your seatbelts, ride along with us and win exciting goodies.",
-                "venue" : "IT Department",
-				"timings" : [ ],
+                "venue" : "IT Department 4G Lab (Ground floor)",
+				"timings" : 
+                [
+                    "Round 1 (Prelims): 10th September 10.00am - 12.30pm",
+                    "Round 2 (Finals): 10th September 1.30pm - 3.30pm"
+                ],
                 "rules" : 
                 [
-                    "Round 1: You will have to work on two questions and solve them in 20 minutes. Shortlisted candidates go to the next round.",
-                    "Round 2: In this final round, you'll have only one problem to solve in 1 ½ hours."
+                    
                 ],
                 "heads" :
                 [
@@ -127,13 +130,17 @@
 			{
                 "title" : "Cryptomaniac",
                 "description" : "A witty and fun filled event that requires you to squeeze your brains to decipher the hidden messages!",
-                "venue" : "IT Department",
-				"timings" : [ ],
                 "rules" : 
                 [
                     "Team event with a maximum of 2 per team.",
                     "Round 1: This is a prelims round which will be a pen and paper test.",
                     "Round 2: The finals will be a group event. All the teams will have to encrypt a few messages and other teams would be given the chance in a round robin fashion to decrypt them. The teams with most points shall be awarded prizes."
+                ],
+                "venue" : "IT Department Lecture Hall",
+				"timings" : 
+                [
+                    "Round 1 (Prelims): 10th September 10.00am - 12.30pm",
+                    "Round 2 (Finals): 10th September 1.30pm - 3.30pm"
                 ],
                 "heads" :
                 [
@@ -176,8 +183,12 @@
 			{
                 "title" : "Appstronaut",
                 "description" : "Interested in becoming an Appstronaut? Let’s gear up our space shuttle and explore the App Galaxy. Together we can reach new heights and reveal limitless opportunities. This is the time for you to showcase your exceptional Developing skills. Don’t miss this chance to be a part of our Appstronaut crew!",
-                "venue" : "IT Department",
-				"timings" : [ ],
+                "venue" : "IT Department Software Engineering Lab (First floor)",
+				"timings" : 
+                [
+                    "Round 1 (Prelims): 9th September 11.00am - 1.00pm",
+                    "Round 2 (Finals): 9th September 1.30pm - 3.30pm"
+                ],
                 "rules" : 
                 [
                     "This is a team event that consists of a maximum of 3 per team.",
@@ -224,8 +235,12 @@
 			{
                 "title" : "SSN Nuggets",
                 "description" : "Are you into data analytics? Do you find patterns in large datasets that others fail to notice? Do you think you can make better predictions than the astrologer? Then this is the event for you, come and indulge in some data analytics fun and win fun prizes.",
-                "venue" : "IT Department",
-				"timings" : [ ],
+                "venue" : "IT Department Software Engineering Lab (First floor)",
+				"timings" : 
+                [
+                        "Round 1 (Prelims): 10th September 10.00am - 12.30pm",
+                        "Round 2 (Finals): 10th September 1.30pm - 3.30pm"
+                ],
                 "rules" : 
                 [
                     "This event will be played by teams with a maximum of two people per team.",
@@ -272,13 +287,19 @@
             },
 			{
                 "title" : "DigDBug",
-                "venue" : "IT Department",
-				"timings" : [ ],
-                "description" : "For all you Sherlock Holmes out there, who investigate through the scene, why not win prizes for exactly that. SSN Invente 2K16 provides you the opportunity to dig through the bugs and show off your talents!",
+                "description" : "For all the Sherlock Holmes who always search through the clues, why not win prizes for that. SSN Invente 2K16 provides you opportunities to dig through the bugs in the code and win amazing prizes. And yes do remember that coding is your golden key to the castle of rewards.",
                 "rules" : 
                 [
-                    "Round 1: Chota bug - Find the chota bug hidden in the code that opens your gateway leading to Kaaliya bug!",
-                    "Round 2: Kaaliya bug - Top three to make their way through the code overcoming the kaaliya bug walks away as winners!"
+                    "Round 1 (Chota Bug): Find the output of the given program and chota bugs present in the given code to enter the next round.",
+                    "Round 2 (GNIDOC): Yes. You have got it right. Reverse coding is all that you need, to walk away with exciting prizes.",
+                    "Only two per team. Individual participation is also allowed.",
+                    "Top 5 teams will go to Round 2."
+                ],
+                "venue" : "IT Department Von Neuman Lab (First floor)",
+				"timings" : 
+                [
+                    "Round 1 (Prelims): 10th September 10.00am - 12.30pm",
+                    "Round 2 (Finals): 10th September 1.30pm - 3.30pm"
                 ],
                 "heads" :
                 [
@@ -287,8 +308,8 @@
                         "contacts" : [ "9942699946" ]
                     },
                     {
-                        "name" : "Jayashree",
-                        "contacts" : [ "9840287411" ]
+                        "name" : "Dhurga",
+                        "contacts" : [ "9566087205" ]
                     }
                 ]
             },
@@ -320,8 +341,12 @@
 			{
                 "title" : "Web Clasico",
                 "description" : "Things arent always #include , they are mostly between #000000 and #FFFFFF, come join us at the most classic, extravagant and a competition like never before. Prove to people that math is easy and design is hard, that design is not some buttons in Photoshop and Creative minds are rarely tidy! We know what it takes to be them and we assure you that you will be font of our event coz it's your type/>",
-				"venue" : "IT Department",
-				"timings" : [ ],
+				"venue" : "IT Department PG Lab (Ground floor)",
+				"timings" : 
+                [
+                    "Round 1 (Prelims): 10th September 10.00am - 12.30pm",
+                    "Round 2 (Finals): 10th September 1.30pm - 3.30pm"
+                ],
                 "rules" : 
                 [
                     "This is an individual participation event.",
@@ -371,8 +396,12 @@
 			{
                 "title" : "UI-Xpress",
                 "description" : "Design is the new basis of competition. Design has evolved to even consider how you feel when you use something. It is an emerging creativity that helps enhance user experience. Design is what can many anything extraordinary and it starts here at SSN Invente 2K16!",
-                "venue" : "IT Department",
-				"timings" : [ ],
+                "venue" : "IT Department PG Lab (Ground floor)",
+				"timings" : 
+                [
+                    "Round 1 (Prelims): 9th September 11.00am - 1.00pm",
+                    "Round 2 (Finals): 9th September 1.30pm - 3.30pm"
+                ],
                 "rules" : 
                 [
                     "Round 1: 15 mins will be given to each person for this prelims round which will consist of 10 questions and 10 fill-ups.",
@@ -420,8 +449,12 @@
                     "Round 2: This round will have an on-the-spot topic, and the participants will be assessed on how novel, relevant and innovative their ideas are, on the topic given to them.",
                     "Participants can use any software of their choice for developing their models from the options given by us."
                 ],
-                "venue" : "IT Department",
-				"timings" : [ ],
+                "venue" : "IT Department Von Neuman Lab (First floor)",
+				"timings" : 
+                [
+                    "Round 1 (Prelims): 9th September 11.00am - 1.00pm",
+                    "Round 2 (Finals): 9th September 1.30pm - 3.30pm"
+                ],
                 "heads" :
                 [
                     {
