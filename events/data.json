@@ -80,12 +80,13 @@
                 "venue" : "IT Department 4G Lab (Ground floor)",
 				"timings" : 
                 [
-                    "Round 1 (Prelims): 10th September 10.00am - 12.30pm",
-                    "Round 2 (Finals): 10th September 1.30pm - 3.30pm"
+                    "Round 1: 10th September 9.00am - 12.30pm",
+                    "Round 2: 10th September 1.30pm - 3.30pm"
                 ],
                 "rules" : 
                 [
-                    
+                    "Round 1:<ul><li>Each contestant will be given 20 questions to solve.</li><li>All questions are compulsory.</li><li>Teams are not allowed. This is an individual event.</li><li>10 participants will be selected for the final round.</li></ul>",
+                    "Round 2:<ul><li>Each contestant will be given 2 questions to solve, which will be a coding round on the computer system within a time limit.</li><li>The winner will be selected based on the code and its output.</li></ul>"
                 ],
                 "heads" :
                 [
