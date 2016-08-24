@@ -747,9 +747,11 @@
                 "description" : "This is definitely the event for our generation- no wires, no bread boards, no tedious colour coded resistors. Just pure logic and let the board do the rest. Battle it out with the best minds and implement it straight away. You don't have to be clever, just smart.",
                 "rules" : 
                 [
-                    "<strong>PRELIMS:</strong><ul><li>A team can consist of a maximum of 3 members</li><li>Each team will be given a questionnaire or a program, which they will have to answer/code for further qualification.</li><li>10 teams will qualify for the finals.</li><li>The decision of the judges cannot be contested.</li></ul>",
+                    "<strong>Prerequisite:</strong> Laptop with Arduino software installed and Arduino board.",
+
+                    "<strong>Prelims:</strong><ul><li>A team can consist of a maximum of 3 members</li><li>Each team will be given a questionnaire or a program, which they will have to answer/code for further qualification.</li><li>10 teams will qualify for the finals.</li><li>The decision of the judges cannot be contested.</li></ul>",
                     
-                    "<strong>FINALS:</strong><ul><li>Each team will be given a task (hardware), which they will have to solve within the allotted time. </li><li>3 teams will be declared as winners.</li></ul>"
+                    "<strong>Finals:</strong><ul><li>Each team will be given a task (hardware), which they will have to solve within the allotted time. </li><li>3 teams will be declared as winners.</li></ul>"
                 ],
                 "venue" : "Electronics devices & Circuits Lab (EEE Dept)",
                 "timings" : [ "10th September 2016 at 09:30 AM" ],
