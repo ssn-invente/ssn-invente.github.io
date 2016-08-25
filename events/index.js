@@ -547,7 +547,7 @@ angular.module("events", ['ui.router', 'ngSanitize'])
             .state('events', {
                 url : '/',
                 controller: function($state) {
-                    $state.go('detail',{domain: "bits please", event: 0});
+                    $state.go('detail',{domain: "code it", event: 0});
                 }
             })
             .state('detail', {
