@@ -547,7 +547,7 @@ angular.module("events", ['ui.router', 'ngSanitize'])
             .state('events', {
                 url : '/',
                 controller: function($state) {
-                    $state.go('detail',{domain: "code it", event: 0});
+                    $state.go('detail',{domain: "bits please", event: 0});
                 }
             })
             .state('detail', {
@@ -555,7 +555,7 @@ angular.module("events", ['ui.router', 'ngSanitize'])
                 templateUrl : 'partials/event-list.html',
                 controller : function($scope, EventService, $stateParams, params){
                                 $scope.images = [
-                                    "cse", "ece", "eee", "mech", "chem", "bme", "civil"
+                                    "cse", "it", "ece", "eee", "mech", "chem", "bme", "civil"
                                 ]
 
                                 $scope.domains = {};
