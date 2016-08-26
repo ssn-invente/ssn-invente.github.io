@@ -5,15 +5,20 @@
         <title>Events | Invente</title>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="event.css">
-        <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200' rel="stylesheet">
         <!--<link href="Events_files/css.css" rel="stylesheet">-->
-        <!--<link rel="stylesheet" href="../css/font-awesome.css">-->
-        <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="../css/navbar.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+        <script src="../js/jquery.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+        <script src="../js/cadetnav.js"></script>
+
+        <!--<Script src="evfent.js"></script>-->
+        <link rel="stylesheet" href="../css/cadetnav.css"/>
+        <!--<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">-->
+        <!--<link rel="stylesheet" type="text/css" href="../css/navbar.css">-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-		<header>
+<!--        <header>
             <nav id="header-nav" class="navbar navbar-default">
             <div class="container">
                 <div class="navbar-header">
@@ -34,21 +39,59 @@
                 
                 <div id="collapsable-nav" class="collapse navbar-collapse cnv">
                 <ul id="nav-list" class="nav navbar-nav navbar-right">
-                    <li><a href="../"><br class="hidden-xs">Home</a></li>
-					<li><a href="../aboutus"><br class="hidden-xs">About Us</a></li>
-                    <li class="active"><a href="../events/" class="act"><br class="hidden-xs">Events</a></li>
-                    <li><a href="../workshops/" id="workshop"><br class="hidden-xs">Workshops</a></li>
-					<li><a href="../hackathon"><br class="hidden-xs">Hackathon</a></li>
-                    <li><a href="../register"><br class="hidden-xs">Register</a></li>
-                    <!--<li>
+                    <li>
+                    <a href="../">
+                    <br class="hidden-xs">Home</a>
+                    </li>
+					<li>
+					  <a href="../aboutus">
+					  <br class="hidden-xs">About Us</a>
+					</li>
+                    <li class="active">
+                    <a href="../events/" class="act">
+                    <br class="hidden-xs">Events</a>
+                    </li>
+                    <li>
+                    <a href="../workshops/" id="workshop">
+                    <br class="hidden-xs">Workshop</a>
+                    </li>
+					<li>
+                    <a href="../hackathon">
+                    <br class="hidden-xs">Hackathon</a>
+                    </li>
+                    <li>
+                    <a href="../register">
+                    <br class="hidden-xs">Register</a>
+                    </li>
+                    <li>
                     <a href="#">
                     <br class="hidden-xs"> Contact Us</a>
-                    </li>-->
-                </ul><!-- #nav-list -->
-                </div><!-- .collapse .navbar-collapse -->
-            </div><!-- .container -->
-            </nav><!-- #header-nav -->
-        </header>
+                    </li>
+                </ul> #nav-list 
+                </div> .collapse .navbar-collapse 
+            </div> .container 
+            </nav> #header-nav 
+        </header>-->
+
+<header>
+            <brand>
+                <a href='../'><img src="../img/invente.svg"></a>
+            </brand>
+            <openclose>
+                <div class="bar1"></div>
+                <div class="bar2"></div>
+                <div class="bar3"></div>
+            </openclose>
+            <links>
+                <a href='../'>Home</a>
+                <a href='../aboutus/'>About-us</a>
+                <a href='../events/' class="linkactive" >Events</a>
+                <a href='../workshops/'>Workshop</a>
+                <a href='../hackathon/'>Hackathon</a>
+                <a href='../register/'>Register</a>
+            </links>
+</header>
+        <collapser data-href="tab"><p>Domains</p><collapse class="fa fa-plus" id="collapse-dept"></collapse></collapser>
 	
          <events>    
             <ui-view></ui-view>
@@ -66,6 +109,16 @@
             e.src='https://www.google-analytics.com/analytics.js';
             r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
             ga('create','UA-82191930-1','auto');ga('send','pageview');
+            
+            $("document").ready(function(){
+            
+                $("#collapse-dept").click(function(){
+                    $(this).toggleClass("active");
+                    $($(this).parent().attr("data-href")).slideToggle();
+                });        
+            
+            });
         </script>
 	</body>
+        
 </html>

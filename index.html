@@ -6,11 +6,13 @@
         <title>Invente</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+        <script src="js/cadetnav.js"></script>
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <!-- Place favicon.ico in the root directory -->
-
+        
         <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/cadetnav.css"/>
         <!--<link rel="stylesheet" href="css/normalize.css">-->
         <link rel="stylesheet" href="css/main.css">
         <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200' rel='stylesheet' type='text/css'>
@@ -21,7 +23,7 @@
         <![endif]-->
 
 
-        <div id="container" class="screen-1">
+        <div id="container"  class="showcase screen-1">
 
         <ul id="scene">
             <li class="layer" data-depth="0.00"><div style="height:20px"></div></li> <!-- Workaround to remove the top white bar in all browsers -->
@@ -50,7 +52,26 @@
         </ul>
 
         </div>
-
+    <headerbox>
+        <header>
+            <brand>
+                <a href='#'><img src="img/invente.svg"></a>
+            </brand>
+            <openclose>
+                <div class="bar1"></div>
+                <div class="bar2"></div>
+                <div class="bar3"></div>
+            </openclose>
+            <links>
+                <a href='#' class="linkactive" >Home</a>
+                <a href='aboutus/'>About-us</a>
+                <a href='events/'  >Events</a>
+                <a href='workshops/'>Workshop</a>
+                <a href='hackathon/'>Hackathon</a>
+                <a href='register/'>Register</a>
+            </links>
+        </header>
+    </headerbox>
         <div class="container-fluid screen-2">
             <div class="row">
                 <div class="col-xs-12">
@@ -213,6 +234,21 @@
             e.src='https://www.google-analytics.com/analytics.js';
             r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
             ga('create','UA-82191930-1','auto');ga('send','pageview');
+            
+            $(document).ready(function(){
+                $("headerbox").hide();
+                $(window).scroll(function(){
+                    if($(window).scrollTop()>$(".showcase").height()){
+                        $("headerbox").addClass("affix").slideDown();
+                    }
+                    else
+                        $("headerbox").hide();
+                });
+            });
         </script>
+        <style>
+            header{width:100%;}
+            .affix{position:fixed;width:100%;top:0px;z-index:40;}
+        </style>
     </body>
 </html>
