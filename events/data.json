@@ -1318,11 +1318,11 @@
                 [
                     {
                         "name" : "Ritu V",
-                        "contacts" : [ "9444707025" ]
+                        "contacts" : [ "9176367025" ]
                     },
                     {
                         "name" : "Lekha R",
-                        "contacts" : [ "9600164196" ]
+                        "contacts" : [ "8939093312" ]
                     }
                 ]
             },
@@ -1394,7 +1394,7 @@
                     
                     "<strong>Preliminary round description:<br>Streaks</strong><br>Inoculate artistic streaking on a agar filled pour plate and display your knowledge of culture media streaking techniques.<br><strong>Duration:30 minutes</strong>",
                     
-                    "<strong>Intermediate round description:<br>Clay modeling</strong><br>Modelling of a physiological system and a MCQ based test on the selected system. The said biological system will be assigned on the day of the event.<br><strong>Duration:90 minutes</strong>",
+                    "<strong>Intermediate round description:<br>Pictionary</strong><br>A guessing game where players identify the word from the picture drawn by one of their team member.<br><strong>Duration:90 minutes</strong>",
                     
                     "<strong>Final round description:<br>Biomimetics </strong><br>Matching of a natural object with its real time applications including identification of logos for instruments and Biomedical companies.<br><strong>Duration:60 minutes</strong>"
                 ],
@@ -1451,7 +1451,7 @@
                 "venue" : "M.E 1st year classroom - Ground Floor (BME Dept)",
                 "timings" : 
 				[
-					"Round 1: 9th September 2016 at 1:00 PM",
+					"Round 1: 10th September 2016 at 9:00 AM",
 					"Round 2 and 3: 10th September 2016 at 10:00 AM"
 				],
                 "heads" :
@@ -1474,7 +1474,8 @@
                     "The following are the domains for paper presentation:<ul><li>Healthcare technology</li><li>Nano electronics</li><li>Biosignal processing</li><li>Artificial organs</li><li>Physiological modelling</li><li>Digital image processing</li><li>Artificial neural networks</li><li>VLSI signal processing</li><li>Real time embedded systems</li><li>.Robotics</li></ul>",
                     "Abstract has to be submitted(word document)in not more than 300 words before the due date (4th September 2016)",
                     "Based on peer review of the abstracts, contestants will be shortlisted for the next round. If chosen, the hard copy of the paper with the abstract in A4 sheets(not more than 10 pages including references,tables and graphs) has to be submitted on the day of the event. The paper should be in IEEE format and written in Times New Roman font.",
-                    "The ‘Microsoft Powerpoint’ presentation should be mailed to the organizing team on or before the 8th of September and can last for a maximum of 7 minutes. There will be a 3 minute Q&A session following it."
+                    "The ‘Microsoft Powerpoint’ presentation should be mailed to the organizing team on or before the 8th of September and can last for a maximum of 7 minutes. There will be a 3 minute Q&A session following it.",
+                    "Deadline for submission: 31st August 2016"
                 ],
                 "venue" : "Seminar Hall - Ground Floor (BME Dept)",
                 "timings" : [ "9th September 2016 at 1:00 PM" ],
@@ -1497,7 +1498,8 @@
                 [
                     "General rules and regulations:<ul><li>The posters that adhere to the topics given are alone expected.</li><li>The abstract for the poster must reach before the deadline. Abstracts reaching us after deadline will not be accepted.</li><li>Not more than 3 members can constitute in a team.</li></ul>",
                     "Preliminary round description:<ul><li>The posters should be based on one of the following topics.<ul><li>Biomedical sciences</li><li>Biotechnology</li><li>Medical image processing</li><li>Biometrics</li><li>Biomechanics</li><li>Healthcare technology</li><li>Artificial intelligence</li><li>Nanotechnology</li><li>Biomedical instrumentation</li><li>Biomaterials and Artificial organs</li></ul></li><li>The abstracts will be processed by the committee members. The deserving candidates will be called for the final round to present their posters.</li><li>A maximum of 8 teams will be selected for the final round.</li></ul>",
-                    "Final round description:<ul><li>The candidates are expected to present the posters. The poster must include the following:<ul><li>Title</li><li>Names of author(s) and affiliated organization(s)</li><li>Abstract (brief summary of objectives, methods, results, and conclusions)</li><li>Background Information</li><li>Project Objectives</li><li>Materials and Methods</li><li>Results (tables, graphs, charts)</li><li>Conclusions</li><li>Discussion of possible future directions or why project is complete</li></ul></li><li>Competitors shall plot the poster on a 46”x56” sheet of paper</li><li>All illustrations and text must be readable from a distance of 3 feet</li><li>This round will be judged by the subject experts.</li></ul>"
+                    "Final round description:<ul><li>The candidates are expected to present the posters. The poster must include the following:<ul><li>Title</li><li>Names of author(s) and affiliated organization(s)</li><li>Abstract (brief summary of objectives, methods, results, and conclusions)</li><li>Background Information</li><li>Project Objectives</li><li>Materials and Methods</li><li>Results (tables, graphs, charts)</li><li>Conclusions</li><li>Discussion of possible future directions or why project is complete</li></ul></li><li>Competitors shall plot the poster on a 46”x56” sheet of paper</li><li>All illustrations and text must be readable from a distance of 3 feet</li><li>This round will be judged by the subject experts.</li></ul>",
+                    "Deadline for submission: 31st August 2016"
                 ],
                 "venue" : "Project Incubation Cell - First Floor (BME Dept)",
                 "timings" : [ "10th September 2016 at 10:00 AM" ],
