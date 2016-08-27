@@ -935,21 +935,23 @@
                     ]
                 },
                 {
-                    "title" : "Cyborg Combat (Robowars)",
+                    "title" : "Robo Wars",
                     "description" : "<p>Is your anger coming in the way of your friendship? Do you have the urge to prove your mettle to your peers? Have you always wanted to punch someone till you draw blood?</p><p>Don’t do that.</p><p>We provide you instead with a platform to relish the pleasure of watching two months of your opponents’ hard work get blown to smithereens.</p><p>ADDED BONUS- You won’t have to serve jail term, because robots don’t have rights (yet).</p>",
                     "rules" : 
                     [
                         "A team may consist of a maximum of 3 participants.",
 						"Design and construct a remote or wired controlled bot capable of fighting a one on one tournament.",
                         "<strong>General Rules:</strong><ul><li>The competition will be played on a knock-out basis consisting of 2 players at a time. The maximum duration of each round will be 5 minutes. Any team that is not ready at the time specified will be disqualified from the competition.</li><li>The machine will be checked for safety before the competition. Any robot found unsafe to other participants and spectators will be disqualified.</li><li>The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any, will be highlighted on the website and notified to the registered teams.</li><li>Violation of any the above rules will lead to disqualification.</li><li>Judges’ decision shall be treated as final and binding on all.</li></ul>",
-						"<strong>Criteria for Triumph</strong><ul><li>A robot is declared victorious if its opponent is immobilized or out of the arena.</li><li>A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds.</li><li>A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement.</li><li>If both robots survive the 5 minutes, the robot with the higher hit points wins.</li><li>The winner advances to the next round while the loser is eliminated from the tournament.</li></ul>",
                         "<strong>Note: The bot should conform to the specified conditions.</strong>",
 						"<strong>Safety Rules:</strong><ul><li>Compliance with all event rules is mandatory. It is expected that competitors stay within the rules and procedures of their own accord and do not require constant policing.</li><li>If you have a robot or weapon design that does not fit within the categories set forth in these rules or is in some way ambiguous or borderline, please contact the event organizers.</li><li> All weapons must have a safety cover on any sharp edges</li></ul>",
 						"<strong>Dimensions and Fabrications:</strong><ul><li>The bot should fit in a box of maximum dimension 40 cm x 40 cm x 40 cm (lxbxh) with all mechanisms fully executing motions. Length and width is measured to the extremities of the Robot, i.e. includes any overhanging bodywork, weaponry or protrusions. The external device used to control the bot is not included in the size constraint.</li><li>Maximum weight of the bot should not exceed 10kgs. (including battery)</li></ul>",
 						"<strong>Mobility:</strong> All bots must have easily visible and controlled mobility in order to compete. Methods of mobility include:<ul><li>Movement of robot must be rolling of wheels only.</li><li>Jumping and hopping is not allowed.</li><li>Flying (using air foil, helium balloons, ornithopters, etc. is not allowed.</li></ul>",
 						"<strong>Robot Control Requirements:</strong><ul><li>If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to direct disqualification even before the event.</li><li>If the bot is controlled wirelessly, the bot must at least have a four frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results.</li><li>Remote control systems from toys might be used. Remote control systems available in the market may also be used.</li></ul>",
 						"<strong>Battery and Power:</strong><ul><li>The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells).</li><li>Working voltages must not exceed 24V DC (mean voltage) at any point of time.</li><li>All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut.</li><li>All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification.</li><li>Battery Eliminators are allowed and power source would be available at the venue for the eliminators.</li></ul>",
-						"<strong>Motors:</strong> The robot should move as fast as possible around the arena with the help of motors. DC motors and stepper motors (12V-24V) can be used as per the design of bots"
+						"<strong>Motors:</strong> The robot should move as fast as possible around the arena with the help of motors. DC motors and stepper motors (12V-24V) can be used as per the design of bots",
+                        "<strong>Note: We are not responsible for any damage that your bot may incur during the event.</strong>",
+                        "<strong>Score Card:</strong> The score card is based upon the arena formulation. It is obvious that the robot with an extraordinary dynamism will succeed by thrusting out its combatant from the Arena.If one of the robots, Say A, pushes its rival out of the white band to the respective colour bands shown below, the robot A will gain points as follows.<ol><li>Green band – 5 points.</li><li>Red band – 20 points. The red band will consists of bumpers.</li><li>Blue band – 50 points. The blue band will be a rough terrain consisting of sand and pebbles.</li><li>If a robot is pushed beyond the slope, the round ends and the other team is awarded the points.</li></ol>Ultimately, if any of the combatants rolls out from the entire Arena it will directly be eliminated from the War Field.",
+						"<strong>Criteria for Triumph</strong><ul><li>A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds.</li><li>A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement.</li><li>If both robots survive the 5 minutes, the robot with the higher scorecard points wins.</li><li>The winner advances to the next round while the loser is eliminated from the tournament.</li></ul>"
                     ],
                     "venue" : "Ground (near Mechanical Dept.)",
                     "timings" : [ "10th September 2016, 9.00 am" ],
@@ -960,8 +962,8 @@
                             "contacts" : [ "9176358957" ]
                         },
                         {
-                            "name" : "Ram Sharma",
-                            "contacts" : [ "9659336828" ]
+                            "name" : "Shashaank Yogesh",
+                            "contacts" : [ "9840789940" ]
                         }
                     ]
                 },
@@ -1187,10 +1189,10 @@
                     "description" : "Two dimensional diagrams on the texts are passé! In the age of printers who wants to learn from static images? Break out of the paper and build us a working model for any of the following topics and explain briefly to our panel of judges. The models will be judged based on<br><ol><li>The design of the model</li><li>Operating cost and efficiency.</li><li>Concepts involved and explanation.</li></ol><br><strong>TOPICS FOR WORKING MODEL:</strong><ol><li>Pumps</li><li>Recovery of Chemicals</li><li>Waste water treatment</li><li>Utilization of Waste materials</li><li>A study on Electrochemical reactions</li><li>Alternative sources of Energy</li><li>Biochemical Projects(Biogas, Bio-fuel, Biomass production)</li><li>Condensation mechanism</li><li>Effluent Treatment in petroleum refinery</li><li>Desalination system</li><li>Extraction process</li><li>Corrosion study</li><li>Pollution control</li><li>Energy Resources conservation</li><li>Environmental Health</li><li>Safety in industries</li></ol>",
                     "rules" : 
                     [
-                        "<strong>RULES AND REGULATIONS</strong><br>An abstract should to be submitted by each team on or before with the below mentioned details.",
-                        "<br>Name of the participants (Maximum 4), their Email ID, contact number",
+                        "An abstract should to be submitted by each team on or before with the below mentioned details.",
+                        "Name of the participants (Maximum 4), their Email ID, contact number",
                         "Institution/College to which they belong",
-                        "team name",
+                        "Team name",
                         "Properly labeled schematic diagram of the model.",
                         "Specification of chemical reactants used and reactions used (if any).",
                         "A short explanation of the mechanism.",
@@ -1250,7 +1252,16 @@
                     "description" : "Come up with an innovative idea for your start-up – in accordance with the  theme of a GREEN industry. The company you propose should be in the field of Chemical Engineering Industry and should differ essentially from the existing such industries. On approval of your abstract you would be invited to pitch your start-up to us, in the presence of judges from varied fields. You would be marked on the extent of your differentiation and innovation, the greenness of your industry and your financial plans for it.",
                     "rules" : 
                     [
-                        "<strong>RULES AND REGULATIONS:</strong><ul><li>The abstract you submit for our prior consideration should contain the following details:</li><li>A brief description of your start-up and its purpose.</li><li>Its need in the present age. </li><li>A proposed location for establishing your start-up.</li><li>The GREEN aspect and uniqueness of your industry. </li><li>A brief technical description of the processes that take place in your industry – right from the inventory, raw material stage to the finished product, distribution stage.</li><li>Your ideas to obtain financial aid to run your start-up.</li><li>Your innovative ideas to market your own product.</li><li>Send your abstratcs to <strong>rohitnarayanan95@gmail.com</strong></li><li>Last date of submission: <strong>2nd of september 2016</strong></li></ul>"
+                        "The abstract you submit for our prior consideration should contain the following details:",
+                        "A brief description of your start-up and its purpose.",
+                        "Its need in the present age.",
+                        "A proposed location for establishing your start-up.",
+                        "The GREEN aspect and uniqueness of your industry.",
+                        "A brief technical description of the processes that take place in your industry – right from the inventory, raw material stage to the finished product, distribution stage.",
+                        "Your ideas to obtain financial aid to run your start-up.",
+                        "Your innovative ideas to market your own product.",
+                        "Send your abstracts to: <strong>rohitnarayanan95@gmail.com</strong>",
+                        "Last day for submission of abstracts: <strong>2nd September 2016</strong>"
                     ],
                     "venue" : "Chemical department - PG Lecture Hall",
                     "timings" : [ "10th September 2016 at 09:30 AM" ],
@@ -1323,11 +1334,11 @@
                 [
                     {
                         "name" : "Ritu V",
-                        "contacts" : [ "9444707025" ]
+                        "contacts" : [ "9176367025" ]
                     },
                     {
                         "name" : "Lekha R",
-                        "contacts" : [ "9600164196" ]
+                        "contacts" : [ "8939093312" ]
                     }
                 ]
             },
@@ -1399,7 +1410,7 @@
                     
                     "<strong>Preliminary round description:<br>Streaks</strong><br>Inoculate artistic streaking on a agar filled pour plate and display your knowledge of culture media streaking techniques.<br><strong>Duration:30 minutes</strong>",
                     
-                    "<strong>Intermediate round description:<br>Clay modeling</strong><br>Modelling of a physiological system and a MCQ based test on the selected system. The said biological system will be assigned on the day of the event.<br><strong>Duration:90 minutes</strong>",
+                    "<strong>Intermediate round description:<br>Pictionary</strong><br>A guessing game where players identify the word from the picture drawn by one of their team member.<br><strong>Duration:90 minutes</strong>",
                     
                     "<strong>Final round description:<br>Biomimetics </strong><br>Matching of a natural object with its real time applications including identification of logos for instruments and Biomedical companies.<br><strong>Duration:60 minutes</strong>"
                 ],
@@ -1456,7 +1467,7 @@
                 "venue" : "M.E 1st year classroom - Ground Floor (BME Dept)",
                 "timings" : 
 				[
-					"Round 1: 9th September 2016 at 1:00 PM",
+					"Round 1: 10th September 2016 at 9:00 AM",
 					"Round 2 and 3: 10th September 2016 at 10:00 AM"
 				],
                 "heads" :
@@ -1479,7 +1490,8 @@
                     "The following are the domains for paper presentation:<ul><li>Healthcare technology</li><li>Nano electronics</li><li>Biosignal processing</li><li>Artificial organs</li><li>Physiological modelling</li><li>Digital image processing</li><li>Artificial neural networks</li><li>VLSI signal processing</li><li>Real time embedded systems</li><li>.Robotics</li></ul>",
                     "Abstract has to be submitted(word document)in not more than 300 words before the due date (4th September 2016)",
                     "Based on peer review of the abstracts, contestants will be shortlisted for the next round. If chosen, the hard copy of the paper with the abstract in A4 sheets(not more than 10 pages including references,tables and graphs) has to be submitted on the day of the event. The paper should be in IEEE format and written in Times New Roman font.",
-                    "The ‘Microsoft Powerpoint’ presentation should be mailed to the organizing team on or before the 8th of September and can last for a maximum of 7 minutes. There will be a 3 minute Q&A session following it."
+                    "The ‘Microsoft Powerpoint’ presentation should be mailed to the organizing team on or before the 8th of September and can last for a maximum of 7 minutes. There will be a 3 minute Q&A session following it.",
+                    "Deadline for submission: 31st August 2016"
                 ],
                 "venue" : "Seminar Hall - Ground Floor (BME Dept)",
                 "timings" : [ "9th September 2016 at 1:00 PM" ],
@@ -1502,7 +1514,8 @@
                 [
                     "General rules and regulations:<ul><li>The posters that adhere to the topics given are alone expected.</li><li>The abstract for the poster must reach before the deadline. Abstracts reaching us after deadline will not be accepted.</li><li>Not more than 3 members can constitute in a team.</li></ul>",
                     "Preliminary round description:<ul><li>The posters should be based on one of the following topics.<ul><li>Biomedical sciences</li><li>Biotechnology</li><li>Medical image processing</li><li>Biometrics</li><li>Biomechanics</li><li>Healthcare technology</li><li>Artificial intelligence</li><li>Nanotechnology</li><li>Biomedical instrumentation</li><li>Biomaterials and Artificial organs</li></ul></li><li>The abstracts will be processed by the committee members. The deserving candidates will be called for the final round to present their posters.</li><li>A maximum of 8 teams will be selected for the final round.</li></ul>",
-                    "Final round description:<ul><li>The candidates are expected to present the posters. The poster must include the following:<ul><li>Title</li><li>Names of author(s) and affiliated organization(s)</li><li>Abstract (brief summary of objectives, methods, results, and conclusions)</li><li>Background Information</li><li>Project Objectives</li><li>Materials and Methods</li><li>Results (tables, graphs, charts)</li><li>Conclusions</li><li>Discussion of possible future directions or why project is complete</li></ul></li><li>Competitors shall plot the poster on a 46”x56” sheet of paper</li><li>All illustrations and text must be readable from a distance of 3 feet</li><li>This round will be judged by the subject experts.</li></ul>"
+                    "Final round description:<ul><li>The candidates are expected to present the posters. The poster must include the following:<ul><li>Title</li><li>Names of author(s) and affiliated organization(s)</li><li>Abstract (brief summary of objectives, methods, results, and conclusions)</li><li>Background Information</li><li>Project Objectives</li><li>Materials and Methods</li><li>Results (tables, graphs, charts)</li><li>Conclusions</li><li>Discussion of possible future directions or why project is complete</li></ul></li><li>Competitors shall plot the poster on a 46”x56” sheet of paper</li><li>All illustrations and text must be readable from a distance of 3 feet</li><li>This round will be judged by the subject experts.</li></ul>",
+                    "Deadline for submission: 31st August 2016"
                 ],
                 "venue" : "Project Incubation Cell - First Floor (BME Dept)",
                 "timings" : [ "10th September 2016 at 10:00 AM" ],
@@ -1566,13 +1579,11 @@
                     "description" : "What is the most widely used material? Google for the answer…. It is indeed Concrete!!!! We want our participants to play around with the proportions of the constituent components of concrete. Concrete Challenge is back this year with more fun and a realistic problem statement which requires a decent understanding of concrete mix proportions, appropriate mold and aesthetics .In addition to reports and posters or presentations, we expect our participants to be more practical and innovative.",
                     "rules" : 
                     [
-                        "<strong>FORMAT:</strong><ul><li>The participants are expected to bring the cubes casted by them on the day of event.</li><li>The cubes will be tested for strength and other properties in the Concrete Technology Lab at SSN College of Engineering.</li><li>JUDGEMENT CRITERIA:<br />Total score = S1 + S2 +S3 = 100 marks<ul><li>S1-Abstract - 10 marks</li><li>S2-Density range - 50 marks</li><li>S3-Strength and Size – 40 marks</li></ul></li></ul>",
-                        "<strong>RULES:</strong><ul><li>Light weight Concrete with a density of 1400 -1600 kg/m3 must be used to obtain the highest possible achievable strength.</li><li>Artificial light weight aggregates such as Thermocole beads and Foamed slag can be used in concrete.</li><li>Dimension of concrete cubes (LWH): 150mm*150mm*150mm cubes are mandatory.</li><li>7-day compressive strength test will be conducted and team with the maximum compressive strength cube will be the winner.</li><li>A paper will be sent by us to all the participants seven days before the competition and that paper must be kept inside the concrete cubes while casting, as a reference and it is mandatory. Participants whose cubes are without that paper face rejection from the competition.  </li><li>Team participating in the event should have a guide, who must be a registered faculty member of any engineering college recognized by Government of India.</li><li>One copy of the report must be duly signed by the guide and e-mailed to the event coordinator’s email id before 25th August 2016.</li><li>Students must carry their college ID card throughout the event.</li><li>Please keep checking the website and your mails for further updates.</li><li>Failure to abide by any of the above rules will lead to disqualification from the event.</li><li>Event coordinators and managing Professor’s decision is / are final and binding</li></ul>"
+                        "<strong>FORMAT:</strong><ul><li>The participants are expected to bring the cubes casted by them on the day of event.</li><li>The cubes will be tested for strength and other properties in the Concrete Technology Lab at SSN College of Engineering.</li><li><strong>Judgement Criteria:</strong><br />Total score = S1 + S2 +S3 = 100 marks<ul><li>S1-Pre Qualification (within the given density of concrete) - 10 marks</li><li>S2-Report - 10 marks</li><li>S3-Compressive Strength – 80 marks</li></ul></li></ul>",
+                        "<strong>RULES:</strong><ul><li>Light weight Concrete with a density of 1400 - 1600 kg/m3 must be used to obtain the highest possible achievable strength.</li><li>Artificial light weight aggregates such as thermocole beads and new tech such as aerated and foamed concrete can be used.</li><li>Dimension of concrete cubes (LWH): 100mm*100mm*100mm cubes are mandatory.</li><li>7-day compressive strength test will be conducted and team with the maximum compressive strength cube will be the winner.</li><li>A logo will be sent by us to all the participants seven days before the competition and that logo must be kept inside the concrete cubes while casting, as a reference and it is mandatory. Participants without these logo will not be permitted in the competition.</li><li>Student should form teams of 2 to 4 members.</li><li>Team participating in the event should have a supervisor, who must be a registered faculty member of any engineering college recognized by Government of India.</li><li>Students must carry their college ID card throughout the event.</li><li>Please keep checking the website and your mails for further updates.</li><li>Failure to abide by any of the above rules will lead to disqualification from the event.</li><li>Event coordinators and managing Professor’s decision is / are final and binding</li><li>Abstract of your design should be sent on or before 4th September 2016 (11:59pm) to concretechallenge.civil@gmail.com, duly signed by the supervisor</li><li>A copy of the abstract should be bought on the day of event.</li></ul>"
                     ],
-                    "venue" : "Concrete Engineering Laboratory (Civil Dept)",
-                    "timings" : [
-                        "11.30am– 3.30pm 9th September 2016"
-                     ],
+                    "venue" : "Concrete Engineering Lab (Civil Department)",
+                    "timings" : [ "9th September 2016, 11.30 am - 3.30 pm" ],
                     "heads" :
                     [
                         {
@@ -1587,17 +1598,15 @@
                 },
                 {
                     "title" : "In-QUIZ-itive - NV3k",
-                    "description" : "A Platform to retrieve information effortlessly from your memory, The main motto of this event is not only to test want you have learned, but also to motivate you to learn more. It is an inkling, to the enthusiastic learners the way to see their deficits and motivate them to work on those deficits. We hope this  event will help you remember the content what you have covered so far in civil engineering, and help you access what you learned.",
+                    "description" : "A Platform to retrieve information effortlessly from your memory, The main motto of this event is not only to test want you have learned, but also to motivate you to learn more. It is an inkling, to all enthusiastic learners the way to see their deficits and prompt them to work on it. Now, gear up yourselves to hold the fundamentals at your fingertips.",
                     "rules" : 
                     [
                         "<strong>FORMAT:</strong><ul><li>It is a TECHNICAL QUIZ event, where the final round will be conducted like the very famous program Kaun Banega Crorepati (Neengalum Vellalam Oru Kodi)</li><li>The event consists of three rounds:<ul><li>Prelims</li><li>Knockouts</li><li>The HOT SEAT - Finals</li></ul></li><li>The finals will be a replica of the TV program with prize money at every stage and lifelines to help you out.</li></ul>",
-                        "<strong>RULES:</strong><ol><li>We are restricting the number of participants to 50-60.(first come first basis) and we will be alloting them with slot numbers to them (1-10) such that each team will have 5 competitors.</li><li>The prelims round, is a buzzer round, where you will be given 5 questions. From this the best 20 will be promoted to the knockouts round.</li><li>The knockout round rules will be provided on the spot.</li><li>The qualified participants to the Final round, get a chance to be on the Hot Seat and win the cash prize for every right question answered by them.</li><li>The question split up and prize money will be showcased on the day of event.</li></ol>",
+                        "<strong>RULES:</strong><ol><li>We are restricting the number of participants to 50 (first come first basis) and we will be alloting them with slot numbers to them (1-10) such that each team will have 5 competitors.</li><li>The prelims round, is a buzzer round, where you will be given 5 questions. From this the best 20 will be promoted to the knockouts round.</li><li>The knockout round rules will be provided on the spot.</li><li>The qualified participants to the Final round, get a chance to be on the Hot Seat and win the cash prize for every right question answered by them.</li><li>The question split up and prize money will be showcased on the day of event.</li></ol>",
                         "(The participants are expected to have knowledge about various principles, aspects and advancements in civil engineering.)"
                     ],
-                    "venue" : "Civil Department",
-                    "timings" : [
-                        "9.00am – 3.00pm 10th September 2016"
-                     ],
+                    "venue" : "Drawing Hall (Civil Department)",
+                    "timings" : [ "10th September 2016, 9.00 am - 3.00 pm" ],
                     "heads" :
                     [
                         {
@@ -1605,24 +1614,22 @@
                             "contacts" : [ "9965202288" ]
                         },
                         {
-                            "name" : "Surya Teja",
-                            "contacts" : [ "8056080022" ]
+                            "name" : "Gayathri",
+                            "contacts" : [ "9566159327" ]
                         }
                     ]
                 },
                 {
                     "title" : "Paper Presentation",
-                    "description" : "“It's not just about great ideas, it is about making them happen.”<br /><br />An arena to showcase your talent and in-depth knowledge from your research areas, Paper presentation focuses on exposing your ideas to the world thereby facilitating transformation of seedling ideas to giant trees of innovation and progress.  We hope that our endeavor will play a significant part in providing the platform for deserving minds on an ever rising and never ending growth.",
+                    "description" : "<p><strong>“It's not just about great ideas, it is about making them happen.”</strong></p><p>An arena to showcase your talent and in-depth knowledge from your research areas, Paper presentation focuses on exposing your ideas to the world thereby facilitating transformation of seedling ideas to giant trees of innovation and progress.  We hope that our endeavor will play a significant part in providing the platform for deserving minds on an ever rising and never ending growth.</p>",
                     "rules" : 
                     [
-                        "<strong>PRE-SELECTION PROCESS</strong><ul><li>TOPIC - Any topic related to civil engineering, preferably “Recent Advances in Civil Engineering”</li><li>Participants are requested to mail in their abstracts of 250-300 words in .pdf format and the title of the paper must be clearly stated.</li><li>The abstract should be mailed to <strong>paper2016civil@gmail.com</strong> on or before <strong>30th August 2016 (11:59pm)</strong>.</li><li>The selected abstracts will be intimated through e-mail and the selected participants should mail their entire paper in .pdf format with the subject as PAPER - *Title of paper* on or before <strong>5th September 2016 (11:59pm)</strong>.</li><li>Selected papers will be intimated through e-mail by <strong>7th September 2016 (11:59pm)</strong>.</li></ul>",
-                        "<strong>FINAL ROUND:</strong><ul><li>The selected participants will get 8-10 minutes to present their paper and 3 minutes for answering questions on the day of event.</li><li>The participants are requested to bring their PowerPoint presentations in a pendrive on the day of presentation.</li><li>You will be judged for originality, innovation, clarity in presentation and adherence to time. </li><li> Note that all participants who took part in the event are requested to report at the venue on September 10,2016 for collecting their participation certificates.</li></ul>",
-                        "<strong>RULES:</strong><ol><li>A team of 2-3 can participate.</li><li>Plagiarism should strictly be avoided. References made can be mentioned at the end of the paper.  </li><li>The paper should be in IEEE format (.pdf file). Papers not adhering to this format would be directly eliminated. </li><li>The mail should include the following details regarding all the participants: Full Name, Contact No, Email ID and College Name.</li><li>The selected candidates will have to present their papers on September 10, 2016 at SSN College of Engineering.</li><li>The winners will be awarded.</li></ol>"
+                        "<strong>PRE-SELECTION PROCESS</strong><ul><li>TOPIC - Any topic related to civil engineering, preferably “Recent Advances in Civil Engineering”</li><li>Participants are requested to mail in their abstracts of 250-300 words in .pdf format and the title of the paper must be clearly stated.</li><li>The abstract should be mailed to paper2016civil@gmail.com on or before 29th August 2016 (11:59pm).</li><li>The selected abstracts will be intimated through e-mail and the selected participants should mail their entire paper in .pdf format with the subject as PAPER - *Title of paper* on or before 5th September 2016 (11:59pm).</li><li>Selected papers will be intimated through e-mail by 7th September, 2016 who will be qualified for the final round.</li></ul>",
+                        "<strong>FINAL ROUND:</strong><ul><li>The selected participants will get 8 minutes to present their paper and 3 minutes for answering questions on the day of event.</li><li>The participants are requested to bring their PowerPoint presentations in a pendrive on the day of presentation.</li><li>You will be judged for originality, innovation, clarity in presentation and adherence to time. </li><li> Note that all participants who took part in the event are requested to report at the venue on September 10, 2016 for collecting their participation certificates.</li></ul>",
+                        "<strong>RULES:</strong><ol><li>A team of 2-3 can participate.</li><li>Plagiarism should strictly be avoided. References made can be mentioned at the end of the paper.  </li><li>The paper should be in IEEE format (.pdf file). Papers not adhering to this format would be directly eliminated. </li><li>The mail should include the following details regarding all the participants: Full Name, Contact No, Email ID and College Name.</li><li>The selected candidates will have to present their papers on September 10, 2016 at SSN College of Engineering.</li><li>The Prize winning papers will get a chance to present their papers in the National Conference on ‘Recent Advances in Civil Engineering’ on 15th September, 2016 at SSN College of Engineering.</li></ol>"
                     ],
-                    "venue" : "Civil Department",
-                    "timings" : [ 
-                        "10.00am – 12.30pm 10th September 2016"
-                    ],
+                    "venue" : "Class Room (Civil Department)",
+                    "timings" : [ "10th September 2016, 10.00 am - 12.30 pm" ],
                     "heads" :
                     [
                         {
@@ -1640,45 +1647,39 @@
                     "description" : "<strong>“Scientists study the world as it is; Engineers create the world that has never been.”</strong><br />It takes an extraordinary mind to create miracles from bricks and stones. Come explore the depth of your civil engineering knowledge with us in “Perfect Civil Engineer”. Know your strengths and ability to think on your feet, to provide technical solutions to various field related problems.",
                     "rules" : 
                     [
-                        "Group of minimum 2 and maximum of 3 members.",
-                        "Team members must be from the same college.",
-                        "Everyone should carry their College ID cards.",
-                        "Participants found copying or violating any rules will be directly disqualified.",
-                        "Round 1: Technical Quiz (preliminary round). Time: 30 minutes. Questions: 30 MCQS.",
-                        "Round 2 (Picture Mart): Identify the picture as per the question",
-                        "Round 3: “SURPRISE” round (final round)"
+                        "<strong>Format:</strong><ul><li>Round 1 Technical Quiz (preliminay round): Time: 30 minutes, Questions: 20 MCQS</li><li>Round 2: Picture Mart. Identify the picture as per the question.</li><li>Round 3: “SURPRISE” round (final round)</li></ul>",
+                        "<strong>RULES:<strong><ol><li>Group of minimum 2 and maximum of 3 members.</li><li>Team members must be from the same college.</li><li>Everyone should carry their College ID cards.</li><li>Participants found copying or violating any rules will be directly disqualified.</li></ol>"
                     ],
-                    "venue" : "Civil Department",
-                    "timings" : [
-                        "12.00pm – 1.00pm (Prelims) 9th September 2016",
-                        "1.30pm – 3.30pm (Finals) 9th September 2016"
-                     ],
+                    "venue" : "Class Room (Civil Department)",
+                    "timings" : 
+                    [
+                        "Prelims: 9th September 2016, 12.00 pm - 1.00 pm",
+                        "Finals: 9th September 2016, 1.30 pm - 3.30 pm"
+                    ],
                     "heads" :
                     [
                         {
-                            "name" : "D Deepak",
-                            "contacts" : [ "9677289167" ]
+                            "name" : "Dachina",
+                            "contacts" : [ "9444334648" ]
                         },
                         {
-                            "name" : "D Dhivya",
-                            "contacts" : [ "8056263742" ]
+                            "name" : "Sowmiya",
+                            "contacts" : [ "9843271176" ]
                         }
                     ]
                 },
                 {
                     "title" : "Poster Presentation",
-                    "description" : "An academic poster is a summary of your research or project in a visually engaging way. A poster session has the potential to reach larger numbers of people than a typical oral presentation.  It is usually a mixture of a brief text mixed with tables, graphs, pictures, and figures. For those of you who like being creative in the way you present, this is just the event for you!",
+                    "description" : "An academic poster is a summary of your research or project in a visually engaging way. A poster session has the potential to reach larger numbers of people than a typical oral presentation.  It is usually a mixture of a brief text mixed with tables, graphs, pictures, and figures. For those of you who like being creative, this is just the event for you!",
                     "rules" : 
                     [
-                        "<strong>PRE-SELECTION ROUND:</strong><ul><li>The pre-selection round will start from 20th August 2016. In order to take part in the event, participants need to register on the INVENTE 2K16 website.</li><li>Once registered, an abstract of the project or topic (150-250 words) is to be sent to the organizing team based on which the participants will be shortlisted.</li><li>The abstracts should be mailed to *insert id* on or before 25th August 2016.</li><li>The shortlisted participants will be notified via mail on 27th August 2016.</li><li>The selected participants should mail their completed posters to the team before 3rd September 2016.</li></ul>",
-                        "<strong>FINAL ROUND:</strong><ul><li>The selected participants should report at the venue on September 9,2016 with their full size posters.</li><li>Duration of 5 minutes will be allotted for presentation of the poster and 3 minutes for queries.</li><li>Participant(s) will be judged on the basis of technical content of poster, creativity, presentation skills and format.</li><li>Note that all participants who took part in the event are requested to report at the venue on September 9,2016 for collecting their participation certificates.</li></ul>",
-                        "<strong>POSTER FORMAT:</strong><ol><li>Topic – Any research topic or project.</li><li>Poster size – A3 size.</li><li>The poster can be either handmade or printed.</li><li>Font style – Times New Roman.</li><li>Font size – 20 to 28</li><li>The poster should be oriented in the ‘landscape’ position. </li><li>Appropriate title should be provided. The name of the participant(s), name of college should be included in the poster.</li><li>Paragraphs and texts should be avoided. Use bullets. </li><li>Use figures, diagrams, graphics, or easy-to-read tables to explain/illustrate ideas or findings.</li><li> Graphic materials should be visible easily from a minimum distance of 6 feet.</li></ol>",
-                        "<strong>RULES:</strong><ol><li>Maximum of 2 participants are permitted per team.</li><li>The participant(s) should mail their posters to ‘*insert mail id*’ before *date* along with an abstract in about 150-250 words.</li><li>The selected teams will be intimated before*date*.</li><li>Duration of 5 minutes will be allotted for presentation of the poster and 3 minutes for queries.</li><li>Participant(s) will be judged on the basis of technical content of poster, creativity, presentation skills and format.</li></ol>"
+                        "<strong>PRE-SELECTION ROUND:</strong><ul><li>The pre-selection round will start from 20th August 2016. In order to take part in the event, participants need to register on the INVENTE 2K16 website.</li><li>Once registered, an abstract of the project or topic (150-250 words) is to be sent to the organizing team based on which the participants will be shortlisted.</li><li>The abstracts should be mailed to poster.civil@gmail.com on or before 29th August 2016 (11:59pm).</li><li>The shortlisted participants will be notified via mail on 31st August 2016.</li><li>The selected participants should mail their completed posters to the team before 4th September 2016 (11:59pm).</li></ul>",
+                        "<strong>FINAL ROUND:</strong><ul><li>The selected participants should report at the venue on 9 th September, 2016 with their full size posters.</li><li>Duration of 5 minutes will be allotted for presentation of the poster and 3 minutes for queries.</li><li>Participant(s) will be judged on the basis of technical content of poster, creativity, presentation skills and format.</li><li>Note that all participants who took part in the event are requested to report at the venue on 9 th September, 2016 for collecting their participation certificates.</li></ul>",
+                        "<strong>POSTER FORMAT:</strong><ol><li>Topic – Any research topic or project regarding civil engineering.</li><li>Poster size – A3 size.</li><li>The poster can be either handmade or printed.</li><li>Font style – Times New Roman.</li><li>Font size – 20 to 28</li><li>The poster should be oriented in the ‘landscape’ position. </li><li>Appropriate title should be provided. The name of the participant(s), name of college should be included in the poster.</li><li>Paragraphs and texts should be avoided. Use bullets. </li><li>Use figures, diagrams, graphics, or easy-to-read tables to explain/illustrate ideas or findings.</li><li> Graphic materials should be visible easily from a minimum distance of 6 feet.</li></ol>",
+                        "<strong>RULES:</strong><ol><li>Maximum of 2 participants are permitted per team.</li><li>The participant(s) should mail their posters to poster.civil@gmail.com before 29th August along with an abstract in about 150-250 words.</li><li>The selected teams will be intimated before 31st August.</li><li>Duration of 5 minutes will be allotted for presentation of the poster and 3 minutes for queries.</li><li>Participant(s) will be judged on the basis of technical content of poster, creativity, presentation skills and format.</li></ol>"
                     ],
-                    "venue" : "Civil Department",
-                    "timings" : [
-                        "11.30am – 1.00pm 9th September 2016"
-                     ],
+                    "venue" : "Class Room (Civil Department)",
+                    "timings" : [ "9th September 2016, 11.30 am - 1.00 pm" ],
                     "heads" :
                     [
                         {
@@ -1693,23 +1694,25 @@
                 },
                 {
                     "title" : "Potential Professor",
-                    "description" : "Do you think you have an inherent quality to get a grip of the concepts and elucidate them to others in an interesting and clear way?<br/>Then, here comes the most awaited event of the SSN Techfest – INVENTE, just right for the vibrant minds – “PONTENTIAL PROFEESOR”.<br />Do you believe that interactive and fun teaching is the correct way to get the concepts right into the minds of the students?<br /><br />Here is a platform to experiment and showcase your teaching skills. Unleash your potential, prepare yourself to become a future professor.",
+                    "description" : "Do you think you have an inherent quality to get a grip of the concepts and elucidate them to others in an interesting and clear way?<br/>Then, here comes the most awaited event of the SSN Techfest – INVENTE, just right for the vibrant minds – “POTENTIAL PROFEESOR”.<br />Do you believe that interactive and fun teaching is the correct way to get the concepts right into the minds of the students?<br /><br />Here is a platform to experiment and showcase your teaching skills. Unleash your potential, prepare yourself to become a future professor.",
                     "rules" : 
                     [
                         "Pre-registrations and spot registrations are allowed.",
                         "There will be two rounds in this event.",
-                        "First Round (Prelims) will be conducted on spot from which around 10-15 students shortlisted will be considered for the second round. The rules for prelims will be notified shortly.",
+                        "First round will be a group discussion, topics for it will be general topics. Around 10-15 students shortlisted will move on to the second round.",
                         "Selected candidates will be given a choice of topics to choose from for which they can prepare during the given time and teach the concepts in the best way possible.",
-                        "Participants will be given 1 hour 30 minutes time and required resources i.e., books and internet access for them to prepare on their topics.",
+                        "Participants will be given 1 hour 30 minutes time and required resources i.e., books for them to prepare on their topics.",
                         "Participants have to present their topic to the judges and the audience in about 15 minutes.",
                         "Chalk and board method can be used to present the topic.",
-                        "Judges and Coordinators' decision will be final."
+                        "Judges and Coordinators' decision will be final.",
+                        "You will be judged for your teaching skills, question and problem solving ability, clarity and adherence to time."
                     ],
-                    "venue" : "Civil Department",
-                    "timings" : [
-                        "10.00am – 11.00am (Prelims) 10th September 2016",
-                        "1.00pm – 3.00pm (Finals) 10th September 2016"
-                     ],
+                    "venue" : "Class Room (Civil Department)",
+                    "timings" :
+                    [
+                        "Prelims: 10th September 2016, 10.00 am - 11.00 am",
+                        "Finals: 10th September 2016, 1.00 pm - 3.00 pm"
+                    ],
                     "heads" :
                     [
                         {
@@ -1727,7 +1730,7 @@
                     "description" : "Buckle up to discover  the treasure with all that you have learnt in college. Tech hunt is a combination of several clues and fun activities and a lots of exciting prizes to win!",
                     "rules" : 
                     [
-                        "The Tech Hunt will start at the same time for all contesting teams at the same time (Refer to event schedule for details).",
+                        "The Tech Hunt will start at the same time for all contesting teams at the venue provided.",
                         "Interesting clues, missions and activities  will be provided on spot and it will take place just like any other Treasure Hunt.",
                         "Clues of every team are different and located at different places but the final destination i.e. the treasure is same .The team which finds the treasure first wins.",
                         "Each team must have three members.",
@@ -1739,9 +1742,7 @@
                         "The clues are to be found in a particular order. A team cannot skip a clue. Skipping a clue will lead to disqualification of your team."
                     ],
                     "venue" : "College Campus, Starting Point - In front of Civil Engineering Department",
-                    "timings" : [ 
-                        "10.00am – 3.00pm 10th September 2016"
-                    ],
+                    "timings" : [ "10th September 2016, 10.00 am - 3.00 pm" ],
                     "heads" :
                     [
                         {
@@ -1769,11 +1770,12 @@
                         "Load will be applied only on the deck of the bridge.",
                         "Any participant violating all these rules will be disqualified."
                     ],
-                    "venue" : "Drawing Hall, Civil Engineering Department",
-                    "timings" : [
-                        "11.30am - 12.30pm (Prelims) 9th September 2016",
-                        "1.30pm – 3.30pm (Finals) 9th September 2016"
-                     ],
+                    "venue" : "Drawing Hall (Civil Department)",
+                    "timings" :
+                    [
+                        "Prelims: 9th September 2016, 11.30 am - 12.30 pm",
+                        "Finals: 9th September 2016, 1.30 pm - 3.30 pm"
+                    ],
                     "heads" :
                     [
                         {
@@ -1793,15 +1795,13 @@
                     [
                         "Only individual participation is allowed.",
                         "Participants should bring their ID cards.",
-                        "Prelims will be conducted for 15minutes and 10 - 15 participants will be qualified to the finals.",
+                        "Prelims will be conducted for 15 minutes and 10 - 15 participants will be qualified to the finals.",
                         "Any kind of malpractice will lead to disqualification.",
                         "<strong>Preliminary Round:</strong><ul><li>An interactive quiz session will take place.</li><li>The questions will mostly be related to design aspects, softwares used in Civil, plans and drawings etc.</li></ul>",
-                        "<strong>Final Round:</strong><ul><li>The final round will take place in the CADD Lab.</li><li>Every participant will be given a topic on spot.</li><li>The participants should use Autodesk AutoCAD to design/ draw their design, plans based on their topic.</li><li>Judges selection will be final.</li></ul>"
+                        "<strong>Final Round:</strong><ul><li>The final round will take place in the CADD Lab.</li><li>Every participant will be given a topic on spot.</li><li>The participants should use Autodesk AutoCAD to design/draw their design, plans based on their topic.</li><li>Judges selection will be final.</li></ul>"
                     ],
-                    "venue" : "CAD Lab, Civil Engineering Department",
-                    "timings" : [
-                        "1.30pm – 3.00pm 10th September 2016"
-                     ],
+                    "venue" : "CAD Lab (Civil Department)",
+                    "timings" : [ "10th September 2016, 1.30 pm - 3.30 pm" ],
                     "heads" :
                     [
                         {
