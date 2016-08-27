@@ -568,9 +568,12 @@ angular.module("events", ['ui.router', 'ngSanitize'])
                                 // console.log($stateParams.domain)
                                 // console.log(params)
 
+                                $scope.hideUntilLoad = true;
+
                                 $scope.domain = [];
                                 EventService.getEventList($scope.currDomain).then(function(domain){
                                     $scope.domain = domain;
+                                    $scope.hideUntilLoad = false;
                                 })
                                 // console.log($scope.domain)
                             },
