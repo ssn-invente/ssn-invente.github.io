@@ -925,27 +925,29 @@
                             "contacts" : [ "9790831175" ]
                         },
                         {
-                            "name" : "Meegadeepan",
+                            "name" : "Megadeepan",
                             "contacts" : [ "8754636187" ]
                         }
                     ]
                 },
                 {
-                    "title" : "Cyborg Combat (Robowars)",
+                    "title" : "Robo Wars",
                     "description" : "<p>Is your anger coming in the way of your friendship? Do you have the urge to prove your mettle to your peers? Have you always wanted to punch someone till you draw blood?</p><p>Don’t do that.</p><p>We provide you instead with a platform to relish the pleasure of watching two months of your opponents’ hard work get blown to smithereens.</p><p>ADDED BONUS- You won’t have to serve jail term, because robots don’t have rights (yet).</p>",
                     "rules" : 
                     [
                         "A team may consist of a maximum of 3 participants.",
 						"Design and construct a remote or wired controlled bot capable of fighting a one on one tournament.",
                         "<strong>General Rules:</strong><ul><li>The competition will be played on a knock-out basis consisting of 2 players at a time. The maximum duration of each round will be 5 minutes. Any team that is not ready at the time specified will be disqualified from the competition.</li><li>The machine will be checked for safety before the competition. Any robot found unsafe to other participants and spectators will be disqualified.</li><li>The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any, will be highlighted on the website and notified to the registered teams.</li><li>Violation of any the above rules will lead to disqualification.</li><li>Judges’ decision shall be treated as final and binding on all.</li></ul>",
-						"<strong>Criteria for Triumph</strong><ul><li>A robot is declared victorious if its opponent is immobilized or out of the arena.</li><li>A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds.</li><li>A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement.</li><li>If both robots survive the 5 minutes, the robot with the higher hit points wins.</li><li>The winner advances to the next round while the loser is eliminated from the tournament.</li></ul>",
                         "<strong>Note: The bot should conform to the specified conditions.</strong>",
 						"<strong>Safety Rules:</strong><ul><li>Compliance with all event rules is mandatory. It is expected that competitors stay within the rules and procedures of their own accord and do not require constant policing.</li><li>If you have a robot or weapon design that does not fit within the categories set forth in these rules or is in some way ambiguous or borderline, please contact the event organizers.</li><li> All weapons must have a safety cover on any sharp edges</li></ul>",
 						"<strong>Dimensions and Fabrications:</strong><ul><li>The bot should fit in a box of maximum dimension 40 cm x 40 cm x 40 cm (lxbxh) with all mechanisms fully executing motions. Length and width is measured to the extremities of the Robot, i.e. includes any overhanging bodywork, weaponry or protrusions. The external device used to control the bot is not included in the size constraint.</li><li>Maximum weight of the bot should not exceed 10kgs. (including battery)</li></ul>",
 						"<strong>Mobility:</strong> All bots must have easily visible and controlled mobility in order to compete. Methods of mobility include:<ul><li>Movement of robot must be rolling of wheels only.</li><li>Jumping and hopping is not allowed.</li><li>Flying (using air foil, helium balloons, ornithopters, etc. is not allowed.</li></ul>",
 						"<strong>Robot Control Requirements:</strong><ul><li>If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to direct disqualification even before the event.</li><li>If the bot is controlled wirelessly, the bot must at least have a four frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results.</li><li>Remote control systems from toys might be used. Remote control systems available in the market may also be used.</li></ul>",
 						"<strong>Battery and Power:</strong><ul><li>The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells).</li><li>Working voltages must not exceed 24V DC (mean voltage) at any point of time.</li><li>All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut.</li><li>All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification.</li><li>Battery Eliminators are allowed and power source would be available at the venue for the eliminators.</li></ul>",
-						"<strong>Motors:</strong> The robot should move as fast as possible around the arena with the help of motors. DC motors and stepper motors (12V-24V) can be used as per the design of bots"
+						"<strong>Motors:</strong> The robot should move as fast as possible around the arena with the help of motors. DC motors and stepper motors (12V-24V) can be used as per the design of bots",
+                        "<strong>Note: We are not responsible for any damage that your bot may incur during the event.</strong>",
+                        "<strong>Score Card:</strong> The score card is based upon the arena formulation. It is obvious that the robot with an extraordinary dynamism will succeed by thrusting out its combatant from the Arena.If one of the robots, Say A, pushes its rival out of the white band to the respective colour bands shown below, the robot A will gain points as follows.<ol><li>Green band – 5 points.</li><li>Red band – 20 points. The red band will consists of bumpers.</li><li>Blue band – 50 points. The blue band will be a rough terrain consisting of sand and pebbles.</li><li>If a robot is pushed beyond the slope, the round ends and the other team is awarded the points.</li></ol>Ultimately, if any of the combatants rolls out from the entire Arena it will directly be eliminated from the War Field.",
+						"<strong>Criteria for Triumph</strong><ul><li>A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds.</li><li>A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement.</li><li>If both robots survive the 5 minutes, the robot with the higher scorecard points wins.</li><li>The winner advances to the next round while the loser is eliminated from the tournament.</li></ul>"
                     ],
                     "venue" : "Ground (near Mechanical Dept.)",
                     "timings" : [ "10th September 2016, 9.00 am" ],
@@ -956,8 +958,8 @@
                             "contacts" : [ "9176358957" ]
                         },
                         {
-                            "name" : "Ram Sharma",
-                            "contacts" : [ "9659336828" ]
+                            "name" : "Shashaank Yogesh",
+                            "contacts" : [ "9840789940" ]
                         }
                     ]
                 },
