@@ -134,23 +134,19 @@
                     <button ng-disabled="!gcaptchaed || regForm.$invalid" type="submit" class="btn btn-default" id="but">Register</button>
                 </div>
             </div>
+            
+            <div class="notif-box" ng-show="popup" style="padding:0;">
+                <center>
+                    <div ng-class="{'success': recommended, 'failure': !recommended}">
+                        <div class="notif ng-cloak">{{errMsg}}</div>
+                    </div>
+                </center>
+            </div>
         </form>
+        
       </div>
     </div>
 
-    
-
-    <div class="pop-up-cover" ng-show="popup">
-        <div class="pop-up-box">
-          <center>
-            <div ng-class="{'rec': recommended, 'not-rec': !recommended}">
-              <div class="img"></div>
-              <div class="msg"><br>{{errMsg}}</div>
-            </div>
-           </center>
-           <button ng-click="dismissPopup()" class="proceed-button">Dismiss</button>
-        </div>
-      </div>
 
     <!--<script src="js/jquery-2.1.4.min.js"></script>-->
  <!--<script src="js/bootstrap.min.js"></script>-->

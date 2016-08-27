@@ -143,9 +143,6 @@ body{
   -webkit-box-shadow: none;
 }
 
-
-
-
 .pop-up-cover{
 	position: fixed;
 	left: 0;
@@ -221,4 +218,43 @@ body{
   color: #ff9800;
   padding: 20px;
   box-shadow: 0px 0px 10px 3px #233140 inset;
+}
+
+.ng-cloak{
+  display: none !important;
+}
+
+.success{
+  border: 2px solid #4DBD33;
+  border-radius: 10px;
+  color: #4DBD33;
+  padding : 10px;
+}
+
+.failure{
+  border: 2px solid #CD0000;
+  border-radius: 5px;
+  color: #CD0000;
+  padding : 10px;
+}
+.notif{
+	font-size: 20px;
+  text-align: center;
+}
+
+.notif-box.ng-hide {
+  opacity: 0;
+}
+
+.notif-box.ng-hide-remove,
+.notif-box.ng-hide-add {
+  display: block !important;
+}
+
+.notif-box.ng-hide-remove {
+  transition: all linear 1000ms;
+}
+
+.notif-box.ng-hide-add {
+  transition: all linear 500ms;
 }
