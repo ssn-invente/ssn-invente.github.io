@@ -1812,5 +1812,22 @@
                         }
                     ]
                 }
+                ],
+    "non tech" : 
+    [
+        {
+                "title" : "Kevera",
+                "description" : "SSN Invente presents to you, the king of all online events, the pinnacle of content creation, 'Entertainer of this Era' contest, hosted on <a href='http://www.kevera.com'>www.kevera.com</a>. Create, Share, Win!",
+                "rules" : [ ],
+                "venue" : "Online Event",
+                "timings" : [ ],
+                "heads" :
+                [
+                    {
+                        "name" : "Vignesh",
+                        "contacts" : [ "7299609996" ]
+                    }
                 ]
+            }
+    ] 
 }
