@@ -157,14 +157,18 @@
                 "description" : "Hunting is not always a blood sport.Mimic the PC to be the jungle,hunt your path through the coding clues we leave you to this ULTIMATE CODING SHOWDOWN.<br/>Keep an eye on the target mate!!!",
                 "rules" :
                 [
-                    "Upto 3 participants in a team.",
-                    "Preliminary round will resemble a treasure hunt with coding clues or tasks.",
-                    "Final round will be a hardcore coding showdown.",
-                    "The preliminary round’s treasure hunt locations will be easy and close to locate and hence help from third persons to decode the clues will lead to rejection.",
+                    "Upto 3 participants in a team, minimum of 2",
+                    "Preliminary round will consist of a 45-minute coding task.",
+                    "Final round will resemble a treasure hunt with coding clues or tasks.",
+                    "Languages allowed - C, C++, Java, Python",
+                    "Help from third persons to decode the treasure hunt clues will lead to rejection.",
                     "Decision taken by the event panel will be final."
                 ],
                 "venue" : "CSE Department Computer Graphics Lab and DBMS lab ",
-                "timings" : [ "9th September 2016, 11.00 am" ],
+                "timings" : [ 
+                    "11.30 am - 12:15 pm, 12:30 pm - 1:15 pm (Prelims), 9th September 2016",
+                    "2:00 pm - 3:30 pm (Finals), 9th September 2016"
+                 ],
                 "heads" :
                 [
                     {
@@ -925,7 +929,7 @@
                             "contacts" : [ "9790831175" ]
                         },
                         {
-                            "name" : "Meegadeepan",
+                            "name" : "Megadeepan",
                             "contacts" : [ "8754636187" ]
                         }
                     ]
@@ -1130,10 +1134,10 @@
                         "Maximum of 3 participants are allowed per presentation.",
                         "Abstracts should not exceed 200 words.",
                         "Judges’ decision is final and binding.",
-                        "Send your abstracts to :",
+                        "Send your abstracts to : <strong>selvarajankeerthana@gmail.com</strong>",
                         "The file name should be the title of your paper.",
                         "The subject of the mail should be 'PAPER PRESENTATION – (PARTICIPANTS NAMES)'",
-                        "Last day for submission of abstracts :"
+                        "Last day for submission of abstracts : <strong>2nd of september 2016</strong>"
                     ],
                     "venue" : "Chemical Department Lecture Halls",
                     "timings" :
@@ -1163,10 +1167,10 @@
                         "First page of the abstract must contain the Title of the Paper and author’s full postal address, email id, mobile number.",
                         "A space of 75*60 cm2 will be provided for your poster display.",
                         "Judges’ decision is final and binding.",
-                        "Send your abstracts to",
+                        "Send your abstracts to <strong>arvind.anthony@gmail.com</strong>",
                         "The file name should be the title of your paper.",
                         "The subject of the mail should be 'POSTER PRESENTATION – PARTICIPANTS NAMES'.",
-                        "Last day for submission of abstracts: "
+                        "Last day for submission of abstracts : <strong>2nd of september 2016</strong>"
                     ],
                     "venue" : "Chemical Department Design Lab ",
                     "timings" : [ "10th September 2016 at 09:30 AM" ],
@@ -1191,7 +1195,8 @@
                         "Specification of chemical reactants used and reactions used (if any).",
                         "A short explanation of the mechanism.",
                         "Quantify the cost of each material used in the model.",
-                        "<br>This abstract should be mailed (in pdf format only) to chemiczna2k15@gmail.com with “Working Model – ” as subject before 11:59pm of",
+                        "<br>Send your abstracts to <strong>prapakathir@gmail.com</strong>",
+                        "Last date of submission: <strong>2nd of september 2016</strong>",
                         "<br>N.B: The judges’ decision will be final no discrepancies will be encouraged. No second attempts will be permitted. Participants can be from any department. They can be of same or different institutions. No participants should register in more than one team. In that case the teams would be disqualified."
                         
                     ],
@@ -1245,7 +1250,7 @@
                     "description" : "Come up with an innovative idea for your start-up – in accordance with the  theme of a GREEN industry. The company you propose should be in the field of Chemical Engineering Industry and should differ essentially from the existing such industries. On approval of your abstract you would be invited to pitch your start-up to us, in the presence of judges from varied fields. You would be marked on the extent of your differentiation and innovation, the greenness of your industry and your financial plans for it.",
                     "rules" : 
                     [
-                        "<strong>RULES AND REGULATIONS:</strong><ul><li>The abstract you submit for our prior consideration should contain the following details:</li><li>A brief description of your start-up and its purpose.</li><li>Its need in the present age. </li><li>A proposed location for establishing your start-up.</li><li>The GREEN aspect and uniqueness of your industry. </li><li>A brief technical description of the processes that take place in your industry – right from the inventory, raw material stage to the finished product, distribution stage.</li><li>Your ideas to obtain financial aid to run your start-up.</li><li>Your innovative ideas to market your own product.</li></ul>"
+                        "<strong>RULES AND REGULATIONS:</strong><ul><li>The abstract you submit for our prior consideration should contain the following details:</li><li>A brief description of your start-up and its purpose.</li><li>Its need in the present age. </li><li>A proposed location for establishing your start-up.</li><li>The GREEN aspect and uniqueness of your industry. </li><li>A brief technical description of the processes that take place in your industry – right from the inventory, raw material stage to the finished product, distribution stage.</li><li>Your ideas to obtain financial aid to run your start-up.</li><li>Your innovative ideas to market your own product.</li><li>Send your abstratcs to <strong>rohitnarayanan95@gmail.com</strong></li><li>Last date of submission: <strong>2nd of september 2016</strong></li></ul>"
                     ],
                     "venue" : "Chemical department - PG Lecture Hall",
                     "timings" : [ "10th September 2016 at 09:30 AM" ],
@@ -1519,7 +1524,7 @@
             },
             {
                 "title" : "VR Workshop",
-                "description" : "Tired of filling pages and pages to prove your knowledge in biology? Well, here is an opportunity to prove your talent without having to fill 42 pages! And guess what? We evaluate content! We evaluate only once!  And we give you what you deserve!  Sounds rejuvenating, doesn’t it?! So there you go! Don’t forget to join us on the 9th of September at INVENTE V1.0!",
+                "description" : "The pokemon go game made us all crazy, revived our old memories and created a new community. And yet the geek in us made us wonder how the cute little pikachu or fire - breathing charmander pops up in our surroundings out of nowhere. If you're one among them ,  then you would be happy to learn that ieee Embs is offering you a portal into the brains behind VR and AR at INVENTE on the 10 th of September. Be there and be amazed.",
                 "rules" : 
                 [
                     "The participants are expected to carry a laptop with connectivity to WiFi and Unity-3D (free VR software) installed.",
@@ -1564,8 +1569,10 @@
                         "<strong>FORMAT:</strong><ul><li>The participants are expected to bring the cubes casted by them on the day of event.</li><li>The cubes will be tested for strength and other properties in the Concrete Technology Lab at SSN College of Engineering.</li><li>JUDGEMENT CRITERIA:<br />Total score = S1 + S2 +S3 = 100 marks<ul><li>S1-Abstract - 10 marks</li><li>S2-Density range - 50 marks</li><li>S3-Strength and Size – 40 marks</li></ul></li></ul>",
                         "<strong>RULES:</strong><ul><li>Light weight Concrete with a density of 1400 -1600 kg/m3 must be used to obtain the highest possible achievable strength.</li><li>Artificial light weight aggregates such as Thermocole beads and Foamed slag can be used in concrete.</li><li>Dimension of concrete cubes (LWH): 150mm*150mm*150mm cubes are mandatory.</li><li>7-day compressive strength test will be conducted and team with the maximum compressive strength cube will be the winner.</li><li>A paper will be sent by us to all the participants seven days before the competition and that paper must be kept inside the concrete cubes while casting, as a reference and it is mandatory. Participants whose cubes are without that paper face rejection from the competition.  </li><li>Team participating in the event should have a guide, who must be a registered faculty member of any engineering college recognized by Government of India.</li><li>One copy of the report must be duly signed by the guide and e-mailed to the event coordinator’s email id before 25th August 2016.</li><li>Students must carry their college ID card throughout the event.</li><li>Please keep checking the website and your mails for further updates.</li><li>Failure to abide by any of the above rules will lead to disqualification from the event.</li><li>Event coordinators and managing Professor’s decision is / are final and binding</li></ul>"
                     ],
-                    "venue" : "Civil Department",
-                    "timings" : [ ],
+                    "venue" : "Concrete Engineering Laboratory (Civil Dept)",
+                    "timings" : [
+                        "11.30am– 3.30pm 9th September 2016"
+                     ],
                     "heads" :
                     [
                         {
@@ -1588,7 +1595,9 @@
                         "(The participants are expected to have knowledge about various principles, aspects and advancements in civil engineering.)"
                     ],
                     "venue" : "Civil Department",
-                    "timings" : [ ],
+                    "timings" : [
+                        "9.00am – 3.00pm 10th September 2016"
+                     ],
                     "heads" :
                     [
                         {
@@ -1606,12 +1615,14 @@
                     "description" : "“It's not just about great ideas, it is about making them happen.”<br /><br />An arena to showcase your talent and in-depth knowledge from your research areas, Paper presentation focuses on exposing your ideas to the world thereby facilitating transformation of seedling ideas to giant trees of innovation and progress.  We hope that our endeavor will play a significant part in providing the platform for deserving minds on an ever rising and never ending growth.",
                     "rules" : 
                     [
-                        "<strong>PRE-SELECTION PROCESS</strong><ul><li>TOPIC - Any topic related to civil engineering, preferably “Recent Advances in Civil Engineering”</li><li>Participants are requested to mail in their abstracts of 250-300 words in .pdf format and the title of the paper must be clearly stated.</li><li>The abstract should be mailed to *@* on or before 25th August (10:00pm)</li><li>The selected abstracts will be intimated through e-mail and the selected participants should mail their entire paper in .pdf format with the subject as PAPER - *Title of paper* on or before 28th August 2016.</li><li>Selected papers will be intimated through e-mail by September 5th 2016.</li></ul>",
+                        "<strong>PRE-SELECTION PROCESS</strong><ul><li>TOPIC - Any topic related to civil engineering, preferably “Recent Advances in Civil Engineering”</li><li>Participants are requested to mail in their abstracts of 250-300 words in .pdf format and the title of the paper must be clearly stated.</li><li>The abstract should be mailed to <strong>paper2016civil@gmail.com</strong> on or before <strong>30th August 2016 (11:59pm)</strong>.</li><li>The selected abstracts will be intimated through e-mail and the selected participants should mail their entire paper in .pdf format with the subject as PAPER - *Title of paper* on or before <strong>5th September 2016 (11:59pm)</strong>.</li><li>Selected papers will be intimated through e-mail by <strong>7th September 2016 (11:59pm)</strong>.</li></ul>",
                         "<strong>FINAL ROUND:</strong><ul><li>The selected participants will get 8-10 minutes to present their paper and 3 minutes for answering questions on the day of event.</li><li>The participants are requested to bring their PowerPoint presentations in a pendrive on the day of presentation.</li><li>You will be judged for originality, innovation, clarity in presentation and adherence to time. </li><li> Note that all participants who took part in the event are requested to report at the venue on September 10,2016 for collecting their participation certificates.</li></ul>",
                         "<strong>RULES:</strong><ol><li>A team of 2-3 can participate.</li><li>Plagiarism should strictly be avoided. References made can be mentioned at the end of the paper.  </li><li>The paper should be in IEEE format (.pdf file). Papers not adhering to this format would be directly eliminated. </li><li>The mail should include the following details regarding all the participants: Full Name, Contact No, Email ID and College Name.</li><li>The selected candidates will have to present their papers on September 10, 2016 at SSN College of Engineering.</li><li>The winners will be awarded.</li></ol>"
                     ],
                     "venue" : "Civil Department",
-                    "timings" : [ ],
+                    "timings" : [ 
+                        "10.00am – 12.30pm 10th September 2016"
+                    ],
                     "heads" :
                     [
                         {
@@ -1638,7 +1649,10 @@
                         "Round 3: “SURPRISE” round (final round)"
                     ],
                     "venue" : "Civil Department",
-                    "timings" : [ ],
+                    "timings" : [
+                        "12.00pm – 1.00pm (Prelims) 9th September 2016",
+                        "1.30pm – 3.30pm (Finals) 9th September 2016"
+                     ],
                     "heads" :
                     [
                         {
@@ -1662,7 +1676,9 @@
                         "<strong>RULES:</strong><ol><li>Maximum of 2 participants are permitted per team.</li><li>The participant(s) should mail their posters to ‘*insert mail id*’ before *date* along with an abstract in about 150-250 words.</li><li>The selected teams will be intimated before*date*.</li><li>Duration of 5 minutes will be allotted for presentation of the poster and 3 minutes for queries.</li><li>Participant(s) will be judged on the basis of technical content of poster, creativity, presentation skills and format.</li></ol>"
                     ],
                     "venue" : "Civil Department",
-                    "timings" : [ ],
+                    "timings" : [
+                        "11.30am – 1.00pm 9th September 2016"
+                     ],
                     "heads" :
                     [
                         {
@@ -1690,7 +1706,10 @@
                         "Judges and Coordinators' decision will be final."
                     ],
                     "venue" : "Civil Department",
-                    "timings" : [ ],
+                    "timings" : [
+                        "10.00am – 11.00am (Prelims) 10th September 2016",
+                        "1.00pm – 3.00pm (Finals) 10th September 2016"
+                     ],
                     "heads" :
                     [
                         {
@@ -1719,8 +1738,10 @@
                         "A member of tech hunt committee will be with each team to confirm that a fair game is played. It is mandatory for each team to keep the committee member with them till the game ends.",
                         "The clues are to be found in a particular order. A team cannot skip a clue. Skipping a clue will lead to disqualification of your team."
                     ],
-                    "venue" : "Civil Department",
-                    "timings" : [ ],
+                    "venue" : "College Campus, Starting Point - In front of Civil Engineering Department",
+                    "timings" : [ 
+                        "10.00am – 3.00pm 10th September 2016"
+                    ],
                     "heads" :
                     [
                         {
@@ -1748,8 +1769,11 @@
                         "Load will be applied only on the deck of the bridge.",
                         "Any participant violating all these rules will be disqualified."
                     ],
-                    "venue" : "Civil Department",
-                    "timings" : [ ],
+                    "venue" : "Drawing Hall, Civil Engineering Department",
+                    "timings" : [
+                        "11.30am - 12.30pm (Prelims) 9th September 2016",
+                        "1.30pm – 3.30pm (Finals) 9th September 2016"
+                     ],
                     "heads" :
                     [
                         {
@@ -1774,8 +1798,10 @@
                         "<strong>Preliminary Round:</strong><ul><li>An interactive quiz session will take place.</li><li>The questions will mostly be related to design aspects, softwares used in Civil, plans and drawings etc.</li></ul>",
                         "<strong>Final Round:</strong><ul><li>The final round will take place in the CADD Lab.</li><li>Every participant will be given a topic on spot.</li><li>The participants should use Autodesk AutoCAD to design/ draw their design, plans based on their topic.</li><li>Judges selection will be final.</li></ul>"
                     ],
-                    "venue" : "Civil Department",
-                    "timings" : [ ],
+                    "venue" : "CAD Lab, Civil Engineering Department",
+                    "timings" : [
+                        "1.30pm – 3.00pm 10th September 2016"
+                     ],
                     "heads" :
                     [
                         {
