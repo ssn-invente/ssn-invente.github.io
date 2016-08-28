@@ -553,7 +553,9 @@ angular.module("events", ['ui.router', 'ngSanitize'])
             .state('detail', {
                 url : '/{domain}/{event}',
                 templateUrl : 'partials/event-list.html',
-                controller : function($scope, EventService, $stateParams, params){
+                controller : function($scope, EventService, $stateParams, params, $sce){
+                                $scope.$sce = $sce;
+                                
                                 $scope.images = [
                                     "cse", "it", "ece", "eee", "mech", "chem", "bme", "civil", "nontech"
                                 ]

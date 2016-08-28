@@ -22,8 +22,8 @@
         
         <div id="about-event" style="display: flex;">
             <h2><i class="fa fa-fa"></i>{{domain[currEvent].title}}</h2>
-            <p ng-bind-html="domain[currEvent].description"></p>
-            <h3><i class="fa fa-home"> </i>Venue</h3> {{domain[currEvent].venue}}
+            <p ng-bind-html="$sce.trustAsHtml(domain[currEvent].description)"></p>
+            <h3><i class="fa fa-home"> </i>Venue</h3><p ng-bind-html="domain[currEvent].venue"></p>
             <h3><i class="fa fa-hourglass-half"> </i>Timings</h3><p ng-repeat="timing in domain[currEvent].timings" ng-bind-html="timing"></p>
             <h3><i class="fa fa-bullhorn"> </i>Rules</h3><ul><li ng-repeat="rule in domain[currEvent].rules"  ng-bind-html="rule"></li></ul>
             <h3><i class="fa fa-drupal"> </i>Event Heads<span></span></h3><span class="dialer">Click on the contact card to dial</span>

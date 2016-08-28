@@ -1827,11 +1827,17 @@
     "non tech" : 
     [
         {
-                "title" : "Kevera",
-                "description" : "SSN Invente presents to you, the king of all online events, the pinnacle of content creation, 'Entertainer of this Era' contest, hosted on <a href='http://www.kevera.com'>www.kevera.com</a>. Create, Share, Win!",
-                "rules" : [ ],
-                "venue" : "Online Event",
-                "timings" : [ ],
+                "title" : "Entertainer of this Era",
+                "description" : "Do you think you are good enough to be called \"Entertainer of this Era\"? Fight it out with others and let the world know who the boss is. Create, Share and Win prizes at this event from the popular tech fest, Invente by SSN, hosted on <a href='http://www.kevera.com'>Kevera</a>.<center><iframe width='560' height='315' src='https://www.youtube.com/embed/SAYU_UX7ZHk' frameborder='0' allowfullscreen></iframe></center>",
+                "rules" : [ 
+                    "Unleash your Creativity and create as many articles, lists, short posts, pics, videos, social apps and quizzes as possible in <a href='http://www.kevera.com'>www.kevera.com</a>",
+                    "Show off your work by sharing it with the world and see it go viral.",
+                    "Students with the highest number of overall post views as on September 9(counted from August 23rd) will be declared as winners"
+                ],
+                "venue" : "Online Event at <a href='http://www.kevera.com'>www.kevera.com</a>",
+                "timings" : [
+                    "23rd August 2016 - 9th September 2016"
+                 ],
                 "heads" :
                 [
                     {
