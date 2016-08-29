@@ -7,6 +7,15 @@
   padding-top: 0px;
 }
 
+.navbar-toggle {
+    border: none;
+    background: transparent !important;
+}
+
+.icon-bar {
+    width: 22px;
+    transition: all 0.2s;
+}
 
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;

@@ -821,9 +821,7 @@ html,body
 }
 
 .bq:hover>h1 {
-  background: -webkit-linear-gradient(#d83f00, #E65100);
- -webkit-background-clip: text;
- -webkit-text-fill-color: transparent;
+  color:#d83f00;
 }
 
 
@@ -943,6 +941,11 @@ html,body
     float: center;
     width: 100%;
 
+  }
+
+  .bq>h1{
+    font-size: 2.5em;
+      
   }
 }
 
