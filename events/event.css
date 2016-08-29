@@ -11,10 +11,10 @@ body{margin:0px;}
 
 
 /*Main css*/
-header{align-items:center;background-color:#37474F;display:flex;justify-content:space-between;}
+/*header{align-items:center;background-color:#37474F;display:flex !important;justify-content:space-between;}
     header brand{flex:1;}
     header links a{text-decoration: none;color:white;display:inline-block;padding:20px 20px;color:whitesmoke;font-family:tahoma;}
-    header links a:hover{background-color:white;color:#37474F;}
+    header links a:hover{background-color:white;color:#37474F;}*/
    
     
 body{background:linear-gradient(#ff9900,#f26739) fixed;min-height:100vh;}
@@ -29,8 +29,8 @@ body{background:linear-gradient(#ff9900,#f26739) fixed;min-height:100vh;}
     tabbed-content{display:flex;color:white;text-align: center;justify-content:flex-start;}
         tabbed-content div{display:flex;flex:1;width:25%;align-items:center;}
         tabbed-content div:last-child{flex:2;margin-right:15px;border-radius:5px;}
-        tabbed-content div.eventList{display:flex;flex-wrap: wrap;justify-content:center;align-content:flex-start;}
-        tabbed-content div#about-event{flex-direction:column;background-color:#fff3E0;color:orange;text-align:left;align-items:flex-start;padding:20px;}
+        tabbed-content div.eventList{display:flex;flex-wrap: wrap;justify-content:center;align-items:flex-start;align-content:flex-start;}
+        tabbed-content div#about-event{flex-direction:column;background-color:#37474f;color:white;text-align:left;align-items:flex-start;padding:20px;}
         tabbed-content div#about-event p{padding:0px;}
             item{display:block;padding:20px;width:30%;border:2px solid white;cursor:pointer;margin:20px;border-radius:4px;}
                 item:hover,item.active{background-color:white;color:orange;}
@@ -56,25 +56,6 @@ hr:before{content:"";height:0px;width:0px;border:15px solid transparent;border-t
 openclose{display:none;}
 
 /*temp*/
-@media only screen and (max-width:768px){
-    header{flex-wrap:wrap;}
-    header links{width:100%;}
-    header links a{width:100%;}
-    openclose{display:inline-block;cursor:pointer;}
-    links{display:none;width:100%;}
-    
-    
-    tab{flex-wrap:wrap;}
-    .dialer{display:inline;}
-    tabbed-content{flex-direction:column;align-items:center;}
-    tabbed-content div{width:100%;}
-    tabbed-content div item{width:auto;}
-    
-    /*plugins*/
-    collapser{display:flex;justify-content:space-between;}
-    
-
-}
 
 
 /*imported open clos e quereyi*/
@@ -94,19 +75,28 @@ openclose{display:none;}
 .open .bar2{
     opacity:0;
 }
-collapser{background-color:#37474F;width:100%;}
-collapser p{color:white;}
-collapse{width:35px;padding:20px;margin-right:20px;}
-collapse hor,collapse ver{
-    width:35px;height:5px;background-color:#888;display:block;
-}
+collapse{margin-right:20px;}
 
-collapse ver{
-    transition:0.25s;
-    transform:rotateZ(0deg);
-   /*// transform: translate(0px,0px) rotateZ(90deg);*/
-}
 
-collapse.active ver{
-   transform:rotateZ(90deg);
+   collapser{background-color:black;color:#eee;display:flex;align-items:center;width:100%;display:none;}
+            collapse{transform:rotateZ(45deg);transition:0.4s;color:#eee;cursor:pointer;}
+@media only screen and (max-width:768px){
+    header{flex-wrap:wrap;}
+    header links{width:100%;}
+    header links a{width:100%;}
+    openclose{display:inline-block;cursor:pointer;}
+    links{display:none;width:100%;}
+    
+    
+    tab{flex-wrap:wrap;}
+    .dialer{display:inline;}
+    tabbed-content{flex-direction:column;align-items:center;}
+    tabbed-content div{width:100%;}
+    tabbed-content div item{width:auto;}
+    #about-event{margin-right:0px;}
+    /*plugins*/
+    collapser{display:flex;justify-content:space-between;}
+    
+            collapse.active{transform:rotateZ(0deg);}
+
 }
