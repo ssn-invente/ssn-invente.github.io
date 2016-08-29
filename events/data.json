@@ -1827,24 +1827,77 @@
     "non tech" : 
     [
         {
-                "title" : "Entertainer of this Era",
-                "description" : "Do you think you are good enough to be called \"Entertainer of this Era\"? Fight it out with others and let the world know who the boss is. Create, Share and Win prizes at this event from the popular tech fest, Invente by SSN, hosted on <a href='http://www.kevera.com'>Kevera</a>. Win exciting <strong>apple products and internships</strong>. <center><iframe width='560' height='315' src='https://www.youtube.com/embed/SAYU_UX7ZHk' frameborder='0' allowfullscreen></iframe></center>",
-                "rules" : [ 
-                    "Unleash your Creativity and create as many articles, lists, short posts, pics, videos, social apps and quizzes as possible in <a href='http://www.kevera.com'>www.kevera.com</a>",
-                    "Show off your work by sharing it with the world and see it go viral.",
-                    "Students with the highest number of overall post views as on September 9(counted from August 23rd) will be declared as winners"
+            "title" : "Entertainer of this Era",
+            "description" : "Do you think you are good enough to be called \"Entertainer of this Era\"? Fight it out with others and let the world know who the boss is. Create, Share and Win prizes at this event from the popular tech fest, Invente by SSN, hosted on <a href='http://www.kevera.com'>Kevera</a>. Win exciting <strong>apple products and internships</strong>. <center><iframe width='560' height='315' src='https://www.youtube.com/embed/SAYU_UX7ZHk' frameborder='0' allowfullscreen></iframe></center>",
+            "rules" : [ 
+                "Unleash your Creativity and create as many articles, lists, short posts, pics, videos, social apps and quizzes as possible in <a href='http://www.kevera.com'>www.kevera.com</a>",
+                "Show off your work by sharing it with the world and see it go viral.",
+                "Students with the highest number of overall post views as on September 9(counted from August 23rd) will be declared as winners"
+            ],
+            "venue" : "Online Event at <a href='http://www.kevera.com'>www.kevera.com</a>",
+            "timings" : [
+                "23rd August 2016 - 9th September 2016"
                 ],
-                "venue" : "Online Event at <a href='http://www.kevera.com'>www.kevera.com</a>",
-                "timings" : [
-                    "23rd August 2016 - 9th September 2016"
-                 ],
-                "heads" :
-                [
-                    {
-                        "name" : "Vignesh",
-                        "contacts" : [ "7299609996" ]
-                    }
-                ]
-            }
+            "heads" :
+            [
+                {
+                    "name" : "Vignesh",
+                    "contacts" : [ "7299609996" ]
+                }
+            ]
+        },
+        {
+            "title" : "IPL Bidding",
+            "description" : "Do you think the IPL auction is as important as the games?<br>Do you have the ability to recognise potential?<br>Do you have it in you to build a balanced team and spend wisely?<br>We have just the event for you!",
+            "rules" : [ 
+                "Team of 2-3 members.",
+                "First round will be a cricket related quiz.",
+                "Top 8 teams go through to finals.",
+                "Rules for finals will be announced on spot.",
+                "Entry fee of Rs 30 per team.",
+                "<strong>Participants can attend any one of the two days as separate events will be conducted on each day</strong>"
+            ],
+            "venue" : "EEE department",
+            "timings" : [
+                "9th September 2016 - 10th September 2016"
+                ],
+            "heads" :
+            [
+                {
+                    "name" : "Mano venkatesh",
+                    "contacts" : [ "9445553817" ]
+                },
+                {
+                    "name" : "Ajith Balaji",
+                    "contacts" : [ "9677151177" ]
+                }
+            ]
+        }, 
+        {
+            "title" : "Sherlock Holmes",
+            "description" : "Ever since your childhood, you must have been fascinated by how the mind of Sherlock Holmes works. This event is the perfect opportunity for you to experience your thoughts in action. An event where you can put your little grey cells to action and prove to everyone that you are as smart as a certain someone who lives in 221B, Baker Street, London.",
+            "rules" : [ 
+                "Prelims will consist of 15 general aptitude questions to be solved in 20 minutes.",
+                "Selected teams will move on to the second round, where you will have to solve a crime scene given by us.(If no teams are able to solve the crime scene. the team with the closest answer to the right one will be declared as the winner)",
+                "A team can consist maximum of three members and cross-institutional participation is allowed.",
+                "Mobile phones are prohibited and the event organisers' decision will be final.",
+                "<strong>Participants can attend any one of the two days as separate events will be conducted on each day</strong>"
+            ],
+            "venue" : "EEE department",
+            "timings" : [
+                "9th September 2016 - 10th September 2016"
+                ],
+            "heads" :
+            [
+                {
+                    "name" : "Mano venkatesh",
+                    "contacts" : [ "9445553817" ]
+                },
+                {
+                    "name" : "Ajith Balaji",
+                    "contacts" : [ "9677151177" ]
+                }
+            ]
+        }           
     ] 
 }
