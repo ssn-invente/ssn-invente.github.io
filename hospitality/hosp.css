@@ -141,3 +141,8 @@ body{
   color: #ff9800;
   padding: 20px;
 }
+
+#map-tile {
+  margin-top:50px;
+  border-radius: 15px;
+}

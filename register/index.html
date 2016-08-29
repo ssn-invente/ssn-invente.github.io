@@ -3,10 +3,12 @@
 
 <head>
     <title>Invente | Register</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
     <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200' rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="reg.css" />
     <link rel="stylesheet" type="text/css" href="../css/navbar.css" >
+    <link rel="stylesheet" type="text/css" href="../css/foot.css" >
 </head>
 
 <body  ng-controller="regFormController">
@@ -57,8 +59,8 @@
             </div>
         </div>
 
-        <div class="row"><div class="col-xs-6 col-xs-offset-3" style="padding:0"><div class='card-hack'>
-            <h3 style="text-align:center;">Ahh! Snap</h3>
+        <div class="row"><div class="col-xs-10 col-xs-offset-1" style="padding:0"><div class='card-hack'>
+            <h3 style="text-align:center;">Instructions</h3>
             <ul>
                 <li>General Registration : Rs.100</li>
                 <li>Students who have registered online with be given a registration code. This has to be shown at the registration desk on the day of the event and the registration fee has to be paid.</li>
@@ -71,7 +73,7 @@
 
         <div class="row">
 
-        <form class="form-horizontal fc col-xs-offset-3 col-xs-6" role="form" name="regForm" ng-submit="register()" novalidate>
+        <form class="form-horizontal fc col-xs-offset-1 col-xs-10" role="form" name="regForm" ng-submit="register()" novalidate>
 
 
             <div class="form-group" ng-class="{ 'has-error' : regForm.uname.$error.required && !regForm.uname.$pristine }">
@@ -127,7 +129,7 @@
                 </div>
             </div>
 
-            <div class="col-xs-offset-3 col-xs-10" style="padding-bottom: 20px;"><div class="g-recaptcha" data-callback="captchaSuccess" data-expired-callback="captchaExpired" data-sitekey="6LcKUygTAAAAAFrdeeqPo440Ri4VfQXn3gQYukHy"></div></div>
+            <div class="col-md-offset-4" style="padding-bottom: 20px;"><div class="g-recaptcha" data-callback="captchaSuccess" data-expired-callback="captchaExpired" data-sitekey="6LcKUygTAAAAAFrdeeqPo440Ri4VfQXn3gQYukHy"></div></div>
 
             <div class="form-group">
                 <div class="col-sm-offset-3 col-sm-6">
@@ -146,6 +148,31 @@
         
       </div>
     </div>
+
+    <div class="fbg">
+     <div class="container footer">
+                <div class="row">
+                    <div class="col-xs-3 col-md-offset-1 little-about-box"><img src="../img/logo.png" width="150px"><p class="little-about">Invente is a two-day techfest built around encouraging budding engineers to showcase their talents with unbridled enthusiasm.</p></div>
+                    <div class="col-xs-3 quick-link-box hidden-xs">
+                        <h4>Quick Links</h4>
+                        <p class="quick-links"><a href="http://www.ssninvente.com">Home</a> / <a href="events/">Events</a> / <a href="workshops/">Workshops</a> / <a href="register/">Register</a></p>
+                    </div>
+                    <div class="col-xs-3 col-xs-offset-3 col-md-offset-1 quick-link-box">
+                        <h4>Get In Touch</h4>
+                        <div class="social-link-container">
+                            <a href="https://www.facebook.com/ssninvente/" target="_blank"><div class="social-link fb"><i class="fa fa-facebook fa-lg"></i></div></a>
+                            <a href="https://twitter.com/ssn_invente" target="_blank"><div class="social-link tw"><i class="fa fa-twitter fa-lg"></i></div></a>
+                            <a href="https://medium.com/@SSN_Invente" target="_blank"><div class="social-link md"><i class="fa fa-medium fa-lg"></i></div></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            <div class="attr-block">
+                <div class="copyright">Copyright &copy; 2016. All Rights Reserved.</div>
+                <div class="credits">Designed by <a href="https://www.behance.net/pratheepkumar1" target="_blank">Pratheep Kumar C</a>. Developed by <a href="https://github.com/ssn-invente" target="_blank">AirBenders</a>.</div>
+            </div>
 
 
     <!--<script src="js/jquery-2.1.4.min.js"></script>-->
