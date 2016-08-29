@@ -574,11 +574,11 @@ angular.module("events", ['ui.router', 'ngSanitize'])
 
                                 $scope.domain = [];
                                 EventService.getEventList($scope.currDomain).then(function(domain){
-                                    if(domain == void(0)) $state.go('detail',{domain: "code it", event: 0});
+                                    if(domain == void(0)) $state.go('detail',{domain: "code it", event: 0}, {location: 'replace'});
                                     
                                     var domainInt = parseInt($scope.currEvent);
                                     console.log(domainInt)
-                                    if((domain.length - 1 < domainInt && domainInt < 0) || isNaN(domainInt) ){
+                                    if((domain.length - 1 < domainInt || domainInt < 0) || isNaN(domainInt) ){
                                       // console.log(domain)
                                       $state.go('detail',{domain: $scope.currDomain, event: 0}, {location: 'replace'});
                                     } 
