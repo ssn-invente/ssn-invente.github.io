@@ -1,25 +1,17 @@
-<collapser data-href="tab"><p>Domains</p><collapse><hor><ver></ver></hor></collapse></collapser>
-
 <tab>
     <card ng-repeat="(key, value) in domains">
         <letter ui-sref="detail({domain: key})" ui-sref-active="active" back-img="{{'icons/' + images[$index] + '.png'}}"></letter>
         <dept>{{key}}</dept>
     </card>
 </tab>
+<collapser data-href=".eventList"><p>Event List</p><collapse class="fa fa-plus" id="collapse-list"></collapse></collapser>
 
 <accord style="display: inline-block;">
     <tabbed-content >
         <div class="eventList">
             <item ng-repeat="event in domain" ui-sref="detail({domain: currDomain , event : $index})" id="asdf" ui-sref-active="active">{{event.title}}</item>
         </div>
-        
-        <collapser data-href="#about-event">
-            <p>About Event</p>
-            <collapse>
-            <hor></hor><ver></ver>
-            </collapse>
-        </collapser>
-        
+                
         <div id="about-event" style="display: flex;">
             <h2><i class="fa fa-fa"></i>{{domain[currEvent].title}}</h2>
             <p ng-bind-html="$sce.trustAsHtml(domain[currEvent].description)"></p>
@@ -32,4 +24,12 @@
             </flexrow>
         </div>
     </tabbed-content>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script>
+        $("#collapse-list").click(function(){
+                    $(this).toggleClass("active");
+                    $($(this).parent().attr("data-href")).slideToggle();
+                });  
+    </script>
 </accord>       
