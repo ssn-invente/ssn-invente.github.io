@@ -58,7 +58,7 @@
                 ]
             },
             {
-                "title" : "Tech Quiz",
+                "title" : "SciTech Quiz",
                 "description" : "Ever felt that “Tcha, it's at the tip of my tongue!” feeling when asked to answer a question? Do you walk around with your nose buried (no, not literally) in the latest developments from the world of technology? Have you what it takes to trump every other techno-freak, gadget geek, and whizkid out there in a frenetic battle of quizzing? If your answer to zero or more of the above questions is 1 (That's “Yes” for you CS neophytes), be there on the 10th of September at Invente '16 for the Tech Quiz. Good luck, and may the quizzing gods bless all your fluke guesses with +10!",
                 "rules" :
                 [
@@ -1557,7 +1557,9 @@
 
                     "<strong>Session 1: </strong><br><p>The session will kick off with a brief introduction to Virtual Reality and Augmented Reality. It will delve into the details of the conceptualization of AR and VR.</p>",
 
-                    "<strong>Session 2: </strong><br><p>Resuming after lunch break, it will be a hands-on session teaching the contestants the intricacies of Unity-3D and assisting them in learning the software.</p>"
+                    "<strong>Session 2: </strong><br><p>Resuming after lunch break, it will be a hands-on session teaching the contestants the intricacies of Unity-3D and assisting them in learning the software.</p>",
+
+                    "Click this <a target='_blank' href='https://docs.google.com/forms/d/1DiEtSJiBVcyEk3ok8eg3Vco9k75cE6B4ZbecUmHsR0c/prefill'>link</a> to register."
 
                 ],
                 "venue" : "Seminar Hall - Ground Floor (BME Dept)",
@@ -1828,7 +1830,7 @@
     [
         {
             "title" : "Entertainer of this Era",
-            "description" : "Do you think you are good enough to be called \"Entertainer of this Era\"? Fight it out with others and let the world know who the boss is. Create, Share and Win prizes at this event from the popular tech fest, Invente by SSN, hosted on <a href='http://www.kevera.com'>Kevera</a>. Win exciting <strong>apple products and internships</strong>. <center><iframe width='560' height='315' src='https://www.youtube.com/embed/SAYU_UX7ZHk' frameborder='0' allowfullscreen></iframe></center>",
+            "description" : "Do you think you are good enough to be called \"Entertainer of this Era\"? Fight it out with others and let the world know who the boss is. Create, Share and Win prizes at this event from the popular tech fest, Invente by SSN, hosted on <a href='http://www.kevera.com'>Kevera</a>. Win exciting <strong>apple products and internships</strong>. <center><iframe  height='315' src='https://www.youtube.com/embed/SAYU_UX7ZHk' frameborder='0' allowfullscreen></iframe></center>",
             "rules" : [ 
                 "Unleash your Creativity and create as many articles, lists, short posts, pics, videos, social apps and quizzes as possible in <a href='http://www.kevera.com'>www.kevera.com</a>",
                 "Show off your work by sharing it with the world and see it go viral.",
