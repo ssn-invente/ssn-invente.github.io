@@ -589,9 +589,14 @@ html,body
     right: 0;
     text-align: right;
 }
+
 .credits a{
     text-decoration: none;
+    color:#ff9800;
 }
+
+.credits a:focus,.credits a:hover{color: #f26739;}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */

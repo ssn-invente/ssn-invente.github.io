@@ -70,8 +70,18 @@
 }
 .credits a{
     text-decoration: none;
+    color:#ff9800;
 }
+
+.credits a:focus,.credits a:hover{color: #f26739;}
 
 .fbg {
     background-color:  #37484f;
+}
+
+@media (max-width: 550px){
+    .social-link{
+        display: initial;
+        clear: left;
+    }
 }

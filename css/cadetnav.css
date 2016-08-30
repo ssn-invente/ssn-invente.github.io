@@ -1,8 +1,9 @@
-header{align-items:center;background-color:#000;display:flex !important;justify-content:space-between;font-family:"Titillium Web", sans-serif;}
+header{align-items:center;background-color:#1d282e;display:flex !important;justify-content:space-between;font-family:"Titillium Web", sans-serif;}
     header brand{flex:1;margin-left:40px;}
-    header links{display:flex;justify-content:space-between;}
-    header links a{text-decoration: none;display:block;padding:20px 20px;color:#eee;transition:0.25s;margin:10px;}
-    header links a:hover,header .linkactive{text-decoration:none;background:#eee;color:#37474F;border-radius: 5px;}
+    header brand img{width: 130px;}
+    header links{display:flex;justify-content:space-between; padding: 10px 10px;}
+    header links a{text-decoration: none;display:block;padding:15px 12px;color:#eee;transition:0.25s; margin: 0px 5px;}
+    header links a:hover,header .linkactive{text-decoration:none;background:#eee;color:#37474F;border-radius: 3px;}
 
   
     
