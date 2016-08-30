@@ -87,8 +87,9 @@ angular.module("invente",['ngAnimate'])
         branch: "",
         email : "",
         phone : "",
+        accom : false,
+        workshops : [ false, false, false, false ],
         gcaptchaResponse : ""
-
     }
 
     $scope.years =[
@@ -189,7 +190,6 @@ angular.module("invente",['ngAnimate'])
 
     $scope.invalidBranchSelection = false;
 
-
 	$scope.popup = false;
 	$scope.recommended = true;
     $scope.errMsg = "";
@@ -221,7 +221,7 @@ angular.module("invente",['ngAnimate'])
             $scope.invalidYearSelection = false;
             
             $scope.data.gcaptchaResponse = grecaptcha.getResponse();
-			// console.log($scope.data.gcaptchaResponse);
+			console.log($scope.data);
             
             $http.post("onlinereg.php",$scope.data, {}).then(
                 function(res){
@@ -233,6 +233,8 @@ angular.module("invente",['ngAnimate'])
                         branch: "",
                         email : "",
                         phone : "",
+                        accom : false,
+                        workshops : [ false, false, false, false ],
                         gcaptchaResponse : ""
                     }     
                     $scope.gcaptchaed = false;
