@@ -100,3 +100,9 @@ collapse{margin-right:20px;}
             collapse.active{transform:rotateZ(0deg);}
 
 }
+
+#about-event .fa{font-size: 0.8em; margin-right: 12px;}
+h2,h3{font-variant: small-caps;}
+a{color:#ff9800;}
+a:focus,a:hover{color: #f26739}
+flexrow{margin-top: 20px;flex-wrap:wrap;}
