@@ -1615,7 +1615,36 @@
                 }
                 ],
     "non tech" : 
-    [
+    [ 
+        {
+            "title" : "Mini Militia",
+            "description" : "Any college event can never be complete, if it doesn’t have any event related to the most famous and the ultimate smartphone game – Mini Militia. This time it is going to be a grand event and probably the first of its kind and with huge prize money. Showcase your talents. Invente is going to give you recognition. You are going to compete with the best teams among the state and we are going to have an ultimate winner. So be there for the battle,folks!",
+            "rules" : [ 
+                "A team should comprise of only three members.",
+                "Any member using a hacked version of the game will lead to the disqualification of the entire team.",
+                "The timing and the map of the battlefield will be decided by the organizers.",
+                "A team can participate again by registering again.",
+                "Registration fees for a team is hundred rupees.",
+                "Each round will be an elimination round.",
+                "Every team should choose their powerplayer. In case of ties, the scores of the powerplayers will be considered to remove any discrepancy.",
+                "Players are advised to bring the updated version of the game."
+            ],
+            "venue" : "Lawn (near Fountain)",
+            "timings" : [
+                "9th September 2016 - 10th September 2016"
+                ],
+            "heads" :
+            [
+                {
+                    "name" : "Vishnu",
+                    "contacts" : [ "+91 9884792009" ]
+                },
+                {
+                    "name" : "Nishanth",
+                    "contacts" : [ "+91 9655699790" ]
+                }
+            ]
+        },
         {
             "title" : "Entertainer of this Era",
             "description" : "Do you think you are good enough to be called \"Entertainer of this Era\"? Fight it out with others and let the world know who the boss is. Create, Share and Win prizes at this event from the popular tech fest, Invente by SSN, hosted on <a href='http://www.kevera.com'>Kevera</a>. Win exciting <strong>apple products and internships</strong>. <center><iframe  height='315' src='https://www.youtube.com/embed/SAYU_UX7ZHk' frameborder='0' allowfullscreen></iframe></center>",
@@ -1688,6 +1717,6 @@
                     "contacts" : [ "+91 9489534954" ]
                 }
             ]
-        }           
+        } 
     ] 
 }
