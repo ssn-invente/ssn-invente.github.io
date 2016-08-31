@@ -1,0 +1,22 @@
+<tab>
+    <card ng-repeat="(key, value) in domains">
+        <letter ui-sref="detail({domain: key})" ui-sref-active="active" back-img="{{'../events/icons/' + images[$index] + '.png'}}"></letter>
+        <dept>{{key}}</dept>
+    </card>
+</tab>
+
+<div class="container-fluid">
+    <div class="row">                
+        <div class="col-xs-12 col-md-8 col-md-offset-2" id="about-event"  style="background: #37474f; color: #fefefe; border-radius: 5px; padding: 20px">
+            <h2><i class="fa fa-fa"></i>{{domain.title}}</h2>
+            <p ng-bind-html="$sce.trustAsHtml(domain.description)"></p>
+            <h3><i class="fa fa-home"> </i>Venue</h3><p ng-bind-html="domain.venue"></p>
+            <h3><i class="fa fa-hourglass-half"> </i>Timings</h3><p ng-repeat="timing in domain.timings" ng-bind-html="timing"></p>
+            <h3><i class="fa fa-bullhorn"> </i>Rules</h3><ul><li ng-repeat="rule in domain.rules"  ng-bind-html="rule"></li></ul>
+            <h3><i class="fa fa-drupal"> </i>Event Heads<span></span></h3><span class="dialer">Click on the contact card to dial</span>
+            <flexrow>
+            <a ng-repeat="head in domain.heads" href="{{'tel:' + head.contacts[0]}}" class="contact"><img src="../events/drawable/img_avatar.png"><contactname>{{head.name}}</contactname><phone>{{head.contacts[0]}}</phone></a>
+            </flexrow>
+        </div>
+    </div>
+</div>       

@@ -78,7 +78,7 @@ openclose{display:none;}
 collapse{margin-right:20px;}
 
 
-   collapser{background-color:black;color:#eee;display:flex;align-items:center;width:100%;display:none;}
+   collapser{background-color:#1d282e;color:#eee;display:flex;align-items:center;width:100%;display:none;}
             collapse{transform:rotateZ(45deg);transition:0.4s;color:#eee;cursor:pointer;}
 @media only screen and (max-width:768px){
     header{flex-wrap:wrap;}

@@ -1,33 +1,6 @@
 {
     "code it"  : [
 
-            {
-                "title" : "Paper Presentation",
-                "description" : "Put on your thinking caps and pop the magic in presenting your novel ideas of the era in paper.Make a STATEMENT (literally...) and stand by itin the domain of CSE and let our esteemed panelists be the better judges. We sure can find the copy cats..",
-                "rules" :
-                [
-                    "Only CS domains are encouraged.",
-                    "Maximum of 3 authors and only student authors allowed. It is not a necessity that all the authors must be from the same institute.",
-                    "We take plagiarism very seriously. Only original research works are accepted.",
-                    "The paper must not have been presented or published anywhere else.",
-                    "The paper must be in two column IEEE format. This format must be strictly adhered to. The paper length must be limited to 6 pages.",
-                    "The paper must be in .pdf or .doc or .docx formats.",
-                    "The paper must be sent through mail. The instructions are as follows:<br/><ul><li>The subject must be the title of the paper.</li><li>The body of the mail should include - Name and Institute of participant (starting from the first author and going till the third one), Department and Year, Contact numbers, Email addresses.</li><li>Send the paper as an attachment with this mail.</li><li>The email id is : <strong>ppcse@ssninvente.com</strong></li></ul><br/><br/>Last date to send in the paper: <strong>3rd September 2016</strong><br/><br/>Acceptance notification: <strong>5th September 2016</strong>"
-                ],
-                "venue" : "CSE Department Seminar Hall",
-                "timings" : [ "9th September 2016, 11.00 am" ],
-                "heads" :
-                [
-                    {
-                        "name" : "Rajeswari Sujana",
-                        "contacts" : [ "9600094640" ]
-                    },
-                    {
-                        "name" : "Keerthika",
-                        "contacts" : [ "9566228541" ]
-                    }
-                ]
-            },
 			{
                 "title" : "Open Programming",
                 "description" : "Code your way ahead as dawn meets dusk in this all day long coding event to prove the budding Zuckerberg in you. Model real world scenarios that can withstand the TEST OF TURING ..(:P)",
@@ -243,31 +216,6 @@
             }
             ],
             "bits please" : [
-			{
-                "title" : "Paper Presentation",
-                "description" : "<strong>“One of the advantages of being disorganized is that one is always having surprising discoveries.”</strong><br /><br />All innovations are born out of creativity. After all, the best designs of today’s technology started as mere blueprints. Even small creative ideas of individuals may prove to be the basis for tomorrow’s massive technologies. Here is a wonderful opportunity for the you to show case your talents.<br /><br />We want you to present your idea to us so that we can help you convert it to reality!",
-                "venue" : "IT Department Seminar Hall",
-				"timings" : [ ],
-                "rules" : [ "Topics: <ul><li>Wireless Communication and Networking</li><li>Web Services and Machine Intelligence</li><li>Information Security</li><li>Business Intelligence ERP</li><li>Speech and Image Processing</li><li>Data Mining and Data Warehousing</li><li>Distributed Systems</li><li>VoIP</li><li>RFID and Applications</li><li>Open Source Technologies</li><li>Digital Media Broadcasting</li><li>Security and Cloud Computing</li><li>Internet of Things</li><li>Big Data</li><li>Operating System</li></ul>",
-                "Submitted manuscripts must be standard IEEE format.",
-                "Papers must not be published before anywhere or be under consideration for publication in any journal or conference.",
-                "Each Team may have up to 3 participants.",
-                "Submission must include title, abstract, keywords, author (s), affiliation (s) with phone number (s), and email address (ES).",
-                "The entries must be emailed to <strong>paperpresentationinvente@gmail.com</strong>",
-                "Last date for submission is <strong>31 st August 2016</strong>. The hard deadline (maximum extension) is upto <strong>2nd September 2016</strong>."
-                ],
-                "heads" :
-                [
-                    {
-                        "name" : "Harinie",
-                        "contacts" : [ "9585714521" ]
-                    },
-                    {
-                        "name" : "L. Swetha",
-                        "contacts" : [ "9840318244" ]
-                    }
-                ]
-            },
 			{
                 "title" : "AI Blitz",
                 "description" : "Ever wondered how Ironman’s assistant Jarvis works? Does Siri intrigue you? Do you have unbound imagination? Put your skills into practice. Here is your platform. Fasten your seatbelts, ride along with us and win exciting goodies.",
@@ -488,25 +436,6 @@
     ],
     "wired" : [
             {
-                "title" : "Paper Presentation",
-                "description" : "Presentation of technical papers on the following domains:<ul><li>Embedded Systems</li><li>Robotics/Artificial Intelligence</li><li>Antennas/RF and Microwave Engineering</li><li>Wireless Sensor Networks</li><li>Microelectronics and Nanoscale Devices</li><li>Energy Harvesting</li><li>Optical/LIDAR</li><li>Digital Image Processing</li></ul>",
-                "rules" :
-                [
-                    "<strong>General Rules:</strong><ul><li>Teams of maximum two members are allowed</li><li>Candidates should e-mail their papers to the given e-mail ID <strong>(adarshana13003@ece.ssn.edu.in)</strong> by <strong>September 2nd, 10 PM</strong></li><li>Spot entries are not allowed</li><li>Accepted papers will be notified through e-mail</li><li>The presentation time is 8 minutes, following which questions regarding the paper will be put forth to the participants in the next 2 minutes</li><li>Selected candidates should have two hard copies of the paper in PDF format at the time of presentation and two copies of the abstract, not exceeding 300 words</li><li>Decision of the judges will be final</li></ul>",
-                    "Round 1 (Off-stage): Shortlisting papers based on the above requirements",
-                    "Round 2: Final paper presentation"
-                ],
-                "venue" : "ECE Department AC Seminar Hall, DSP Laboratory (East Wing)",
-                "timings" : [ "Day 1 (Round 1: 8.00 – 12.30)", "Day 1 (Round 2: 12.30 – 15.30)" ],
-                "heads" :
-                [
-                    {
-                        "name" : "Adarshana Rajagopal",
-                        "contacts" : [ "9677260468" ]
-                    }
-                ]
-            },
-            {
                 "title" : "Project Display",
                 "description" : "",
                 "rules" :
@@ -655,32 +584,31 @@
             ],
     "power up" : [
             {
-                "title" : "Paper Presentation",
-                "description" : "Need a place to show off your research and hard work? We’ll pay you for it!  Take part in Eupraxia’s technical event, Paper Presentation and have your work judged by a panel you wouldn’t even dream of meeting.",
+                "title" : "Line Follower",
+                "description" : "There's a time when the operation of the machine becomes so odious yet so enthralling, that as engineers you can't not take part!<br />And you've got to put your bodies upon the gears and upon the wheel as you weave through the dark trail.<br />Fall in Line. Survive the track. Complete the course.<br />In this trial of time, you have three lives. Make them count.",
                 "rules" :
                 [
-                    "<strong>Submission Rules</strong> <ul><li>Dead line for submission is <strong>September 2</strong>.</li><li>The full paper must be sent to <strong>paper.eee2k16@gmail.com</strong></li><li>The subject of the mail should contain the track to which the paper belongs and the title of the paper.</li><li>Example: Track 2: (Paper title)</li><li><strong>Email should contain:</strong><ol><li>Name of the participant.</li><li>Mobile number</li><li>College Name</li><li>Department</li></ol></li><li>The paper must be complying with the standard IEEE format.</li><li>Pictures and simulations if any must be clear</li><li>Any detection of plagiarism will result in immediate disqualification of the paper.</li></ul>",
-                    "<strong>Rules</strong><ul><li>Each team must contain a maximum of 3 members</li><li>The team members need not belong to the same institution</li><li>One participant should not be a part of more than one team</li><li>The selected team must present their paper in front of a panel of judges.</li><li>The presentation shall go on for 8 minutes. This will be followed by a questioning session for 2 minutes.</li><li>Selected papers will advance to the next round</li>",
-                    "<strong>Finals</strong><ul><li>The presentation shall go on for 8 minutes followed by a questioning session for 2 minutes.</li><li>3 papers will be selected as winners.</li>",
-                    "<strong>Tracks</strong><br><strong>Track 1:Power</strong><ul><li>Energy Conservation</li><li>Facts & HVDC</li><li>Green Energy</li><li>Power Quality, Power System harmonics and contingencies</li><li>Smart Grids</li></ul>",
-                    "<br><strong>Track 2:VLSI</strong><ul><li>MEMS technology</li><li>Embedded Systems</li><li>Digital Signal Processing</li><li>Analog and Digital logic circuit design</li><li>Nano technology</li><li>Control Systems</li></ul>",
-                    "<br><strong>Track 3:Recent Trends</strong><ul><li>Wireless Electricity</li><li>Artificial intelligence in power system</li><li>PPTC devices & applications</li><li>Hybrid technology and applications</li></ul>",
-                    "<br><strong>Track 4:</strong><ul><li>Power Electronics and devices</li><li>Special Machines</li><li>Axial field Electrical Machines</li><li>D.C and A.C Machines</li><li>Design of Electrical Machines</li></ul>"
+                    "<strong>Problem Statement:</strong> To design an autonomous line follower robot capable of traversing a given track. The track is a black, 3 cm wide line against on a white background. It will have checkpoints indicated by markers. If the bot moves out of the track, it must be placed at the nearest checkpoint. The start and stop positions will be a black box (5 x 5 cm).",
+                    "<strong>Robot Specification:</strong><ul><li>The robot should be controlled using a microcontroller.</li><li>The dimensions of the bot should not exceed 30 cm x 30 cm x 30 cm.</li><li>The potential difference between any two points in the robot should not exceed 12V at any given point in time.</li><li>The robot must be started manually using a switch.</li></ul>",
+                    "<strong>General Rules:</strong><ul><li>Each team can have a maximum of 4 members</li><li>The Robot must fit in a box of dimension 20cm x 20cm x 20cm.</li><li>The robot must be completely autonomous.</li><li>Each team will be given two trials for both prelims and finals. The organizers can reduce the number of trials in case of time constraints. The better trial of the two will be considered.</li><li>Only one member of the team will be allowed to intervene and points will be reduced for each intervention.</li><li>Calibration time of one hour will be given before the start of the event.</li><li>Participants must bring their own components, laptops and software if they wish to make changes on the day of the event. No components will be provided.</li><li>A bot that does not meet the specifications or damages the track in any way will be disqualified</li><li>The organizers reserve the right to change any of the rules mentioned above. In such a case, the participants will be informed of the changes beforehand.</li></ul>",
+                    "<strong>Round 1 (Preliminary):</strong><ul><li>The robot should traverse the given track within five minutes</li><li>The time and points noted by the organizers will be final</li><li>Organizers will have the final say with respect to any dispute that may arise on the day of the event.</li></ul>",
+                    "<strong>Round 2 (Finals):</strong><li>The top five teams to complete the preliminary round will qualify for the final round.</li></ul>"
                 ],
-                "venue" : "M.E classrooms and EEE Dept. Seminar Hall",
-                "timings" :
-                [
-                    "9th September 2016 at 1:30 PM "
-                ],
+                "venue" : "Machines and Instrumentation Lab (EEE Dept)",
+                "timings" : [ "Day 2 (Round 1: 8.00 – 12.30)", "Day 2 (Round 2: 12.30 – 15.30)" ],
                 "heads" :
                 [
                     {
-                        "name" : "Kavitha",
-                        "contacts" : [ "9840400472" ]
+                        "name" : "Supreeta Venkatesan",
+                        "contacts" : [ "8939367938" ]
                     },
                     {
-                        "name" : "Ramaseshan",
-                        "contacts" : [ "9500133825" ]
+                        "name" : "Arvind T",
+                        "contacts" : [ "9840345205" ]
+                    },
+                    {
+                        "name" : "Venkatesh C",
+                        "contacts" : [ "9444204371" ]
                     }
                 ]
             },
@@ -852,35 +780,6 @@
                     {
                         "name" : "Kiran Kumar",
                         "contacts" : [ "9884789358" ]
-                    }
-                ]
-            },
-            {
-                "title" : "Line Follower",
-                "description" : "There's a time when the operation of the machine becomes so odious yet so enthralling, that as engineers you can't not take part!<br />And you've got to put your bodies upon the gears and upon the wheel as you weave through the dark trail.<br />Fall in Line. Survive the track. Complete the course.<br />In this trial of time, you have three lives. Make them count.",
-                "rules" :
-                [
-                    "<strong>Problem Statement:</strong> To design an autonomous line follower robot capable of traversing a given track. The track is a black, 3 cm wide line against on a white background. It will have checkpoints indicated by markers. If the bot moves out of the track, it must be placed at the nearest checkpoint. The start and stop positions will be a black box (5 x 5 cm).",
-                    "<strong>Robot Specification:</strong><ul><li>The robot should be controlled using a microcontroller.</li><li>The dimensions of the bot should not exceed 30 cm x 30 cm x 30 cm.</li><li>The potential difference between any two points in the robot should not exceed 12V at any given point in time.</li><li>The robot must be started manually using a switch.</li></ul>",
-                    "<strong>General Rules:</strong><ul><li>Each team can have a maximum of 4 members</li><li>The Robot must fit in a box of dimension 20cm x 20cm x 20cm.</li><li>The robot must be completely autonomous.</li><li>Each team will be given two trials for both prelims and finals. The organizers can reduce the number of trials in case of time constraints. The better trial of the two will be considered.</li><li>Only one member of the team will be allowed to intervene and points will be reduced for each intervention.</li><li>Calibration time of one hour will be given before the start of the event.</li><li>Participants must bring their own components, laptops and software if they wish to make changes on the day of the event. No components will be provided.</li><li>A bot that does not meet the specifications or damages the track in any way will be disqualified</li><li>The organizers reserve the right to change any of the rules mentioned above. In such a case, the participants will be informed of the changes beforehand.</li></ul>",
-                    "<strong>Round 1 (Preliminary):</strong><ul><li>The robot should traverse the given track within five minutes</li><li>The time and points noted by the organizers will be final</li><li>Organizers will have the final say with respect to any dispute that may arise on the day of the event.</li></ul>",
-                    "<strong>Round 2 (Finals):</strong><li>The top five teams to complete the preliminary round will qualify for the final round.</li></ul>"
-                ],
-                "venue" : "Machines and Instrumentation Lab (EEE Dept)",
-                "timings" : [ "Day 2 (Round 1: 8.00 – 12.30)", "Day 2 (Round 2: 12.30 – 15.30)" ],
-                "heads" :
-                [
-                    {
-                        "name" : "Supreeta Venkatesan",
-                        "contacts" : [ "8939367938" ]
-                    },
-                    {
-                        "name" : "Arvind T",
-                        "contacts" : [ "9840345205" ]
-                    },
-                    {
-                        "name" : "Venkatesh C",
-                        "contacts" : [ "9444204371" ]
                     }
                 ]
             }
@@ -1101,72 +1000,9 @@
                             "contacts" : [ "8939423425" ]
                         }
                     ]
-                },
-                {
-                    "title" : "Technical Paper Presentation",
-                    "description" : "Your mind is abuzz with ideas and you crave the recognition you deserve. But where will you find a platform to display your might over the subject? We bring to you budding engineers, the technical paper presentation. Papers may be from any of the three broad streams in Mechanical Engineering: Manufacturing, Design and Thermal. What are you waiting for? Send in your papers!",
-                    "rules" :
-                    [
-                        "The topic must fit into one of these three streams - Manufacturing, Design or Thermal.",
-                        "The following contents are generally expected in a paper: Abstract, Keywords, Introduction, Experimental setup (if any), Numerical Model (if any), Results and Discussions, Conclusions, Acknowledgment (if any), References (compulsory) and Appendix (if any).",
-                        "Authors are requested to follow the format of any standard (preferably Mechanical Engineering Journal) under Elsevier publications while citing references and for art works, figures and tables.",
-                        "There can be a maximum of three authors per paper presented; each author can only be part of one paper.",
-                        "The paper is to be presented by one author.",
-                        "The time limit for presentation is 8 minutes; this might be followed by a Q&A session.",
-                        "The quality, novelty and depth of research involved in the paper will be judged by professors (2 in each stream) and their decision will be deemed final.",
-                        "The teams placed first and second in each stream will receive a winner's certificate along with a cash prize (certificates will be provided to individual team members).",
-                        "Other teams will receive participation certificates. ",
-                        "The paper has to be mailed to the ID mentioned below as per the standardized paper format (You could use this IEEE format); the name of the file must contain the topic in brief and the stream. Example: A manufacturing paper based on welding will have the following file name: Manufacturing - Welding.doc. The mail must also contain contact details of authors - their phone numbers and e-mail IDs.",
-                        "PS: We are against plagiarism in any form. Papers submitted will be strictly evaluated. The smallest hint of plagiarism will result in your paper being disqualified from the event.",
-                        "Please send in your papers to sathish13090@mech.ssn.edu.in or vishakaraj13119@mech.ssn.edu.in"
-                    ],
-                    "venue" : "Mechanical Department Lecture Halls",
-                    "timings" : [ "10th September 2016, 1.00 pm" ],
-                    "heads" :
-                    [
-                        {
-                            "name" : "Sathish Kumar",
-                            "contacts" : [ "7299512541" ]
-                        },
-                        {
-                            "name" : "Vishakaraj S",
-                            "contacts" : [ "9789964059" ]
-                        }
-                    ]
                 }
                 ],
     "catalyst" : [
-                {
-                    "title" : "Paper Presentation",
-                    "description" : "Do you consider yourself thorough in your field of interest? Do you wish to flaunt it? if yes, this platform is for you. Come present a paper if your expertise aligns with any of the following domains, stand proud as you shoot down the volley of queries afterwards. Following are the topics available for paper presentation.<br><ol><li>Sustainable Energy</li><li>Environment and Pollution control</li><li>Solid waste management</li><li>Waste water treatment</li><li>Nanotechnology</li><li>Computational Modelling and Simulation</li><li>Material Science</li><li>Bioprocess Engineering</li></ol>",
-                    "rules" :
-                    [
-                        "<strong>RULES AND REGULATIONS:</strong>",
-                        "Maximum of 3 participants are allowed per presentation.",
-                        "Abstracts should not exceed 200 words.",
-                        "Judges’ decision is final and binding.",
-                        "Send your abstracts to : <strong>selvarajankeerthana@gmail.com</strong>",
-                        "The file name should be the title of your paper.",
-                        "The subject of the mail should be 'PAPER PRESENTATION – (PARTICIPANTS NAMES)'",
-                        "Last day for submission of abstracts : <strong>2nd of september 2016</strong>"
-                    ],
-                    "venue" : "Chemical Department Lecture Halls",
-                    "timings" :
-                    [
-                        "9th September 2016 from 1 PM to 10th September 2016 03:30 PM"
-                    ],
-                    "heads" :
-                    [
-                        {
-                            "name" : "M Sharmada",
-                            "contacts" : [ "9677000740"	]
-                        },
-                        {
-                            "name" : "S Keerthana",
-                            "contacts" : [ "8220064443" ]
-                        }
-                    ]
-                },
                 {
                     "title" : "Pin It Up!",
                     "description" : "If you are the kind of person who can’t do slides, this is for you. Turn your paper into a colourful and illustrative poster adhering to the guidelines. Give a brief explanation about the content to our judges and stand a chance to win exciting prizes!<br><strong>TOPICS FOR POSTER</strong><br><ol><li>Environment and Energy </li><li>Catalysis and Reaction Engineering</li><li>Sustainability</li><li>Food, Pharmaceutical and Biotechnology</li><li>Separations</li><li>Fuels and Petrochemicals</li><li>Materials Engineering and Sciences</li><li>Transport Phenomena</li><li>Process Simulation and Modelling</li><li>Material Technology</li><li>Nanotechnology</li><li>Safety Management and other related topics</li></ol>",
@@ -1492,31 +1328,6 @@
                 ]
             },
             {
-                "title" : "Paper Presentation",
-                "description" : "",
-                "rules" :
-                [
-                    "The following are the domains for paper presentation:<ul><li>Healthcare technology</li><li>Nano electronics</li><li>Biosignal processing</li><li>Artificial organs</li><li>Physiological modelling</li><li>Digital image processing</li><li>Artificial neural networks</li><li>VLSI signal processing</li><li>Real time embedded systems</li><li>.Robotics</li></ul>",
-                    "Abstract has to be submitted(word document)in not more than 300 words before the due date (4th September 2016)",
-                    "Based on peer review of the abstracts, contestants will be shortlisted for the next round. If chosen, the hard copy of the paper with the abstract in A4 sheets(not more than 10 pages including references,tables and graphs) has to be submitted on the day of the event. The paper should be in IEEE format and written in Times New Roman font.",
-                    "The ‘Microsoft Powerpoint’ presentation should be mailed to the organizing team on or before the 8th of September and can last for a maximum of 7 minutes. There will be a 3 minute Q&A session following it.",
-                    "Deadline for submission: <strong>31st August 2016</strong>"
-                ],
-                "venue" : "Seminar Hall - Ground Floor (BME Dept)",
-                "timings" : [ "9th September 2016 at 1:00 PM" ],
-                "heads" :
-                [
-                    {
-                        "name" : "R Mohamed Ajmal",
-                        "contacts" : [ "8220451101" ]
-                    },
-                    {
-                        "name" : "P N Nova Belle",
-                        "contacts" : [ "9600834504" ]
-                    }
-                ]
-            },
-            {
                 "title" : "Poster Presentation - Papyrus",
                 "description" : "Here’s something for all the tech savvy and creative engineers out there. Pour all your innovative ideas onto a single sheet of chart. Visually present your concepts and win cash prizes!",
                 "rules" :
@@ -1586,6 +1397,39 @@
             ],
     "structured" : [
                 {
+                    "title" : "Bridge - IT!",
+                    "description" : "Simple engineering with a twist of design, Bridge IT is one of the biggest hands on event of Invente. A challenging and fascinating problem statement to transform the sedentary into working models. This event is the real test of your creativity and knowledge with civil engineering putting your grey cells into work!",
+                    "rules" :
+                    [
+                        "The Event will consist of two rounds.<ul><li>The QUESTIONNAIRE Round</li><li>The FINALE</li></ul>",
+                        "The Questionnaire round is basically the prelims. Participants will be asked to take up a test where questions will be asked from topics related to Bridges, trusses etc. The test comprises multiple choice questions.",
+                        "Based on the marks obtained, selected participants will qualify to the next and the final round which is The FINALE.",
+                        "In the Finale, the participants will be asked to make models of bridges. The strength of the bridge will be tested by load application and the participant whose bridge withstands more load will be declared the winner.",
+                        "Only two students are permitted per team.",
+                        "All the materials needed for making the bridge will be provided by us.",
+                        "The dimensions of the bridge will be specified and participants should stick to   it.",
+                        "Load will be applied only on the deck of the bridge.",
+                        "Any participant violating all these rules will be disqualified."
+                    ],
+                    "venue" : "Drawing Hall (Civil Department)",
+                    "timings" :
+                    [
+                        "Prelims: 9th September 2016, 11.30 am - 12.30 pm",
+                        "Finals: 9th September 2016, 1.30 pm - 3.30 pm"
+                    ],
+                    "heads" :
+                    [
+                        {
+                            "name" : "Santhana Bharathi",
+                            "contacts" : [ "8870692685" ]
+                        },
+                        {
+                            "name" : "Priyanka",
+                            "contacts" : [ "9003114115" ]
+                        }
+                    ]
+                },
+                {
                     "title" : "Concrete Challenge",
                     "description" : "What is the most widely used material? Google for the answer…. It is indeed Concrete!!!! We want our participants to play around with the proportions of the constituent components of concrete. Concrete Challenge is back this year with more fun and a realistic problem statement which requires a decent understanding of concrete mix proportions, appropriate mold and aesthetics .In addition to reports and posters or presentations, we expect our participants to be more practical and innovative.",
                     "rules" :
@@ -1627,29 +1471,6 @@
                         {
                             "name" : "Gayathri",
                             "contacts" : [ "9566159327" ]
-                        }
-                    ]
-                },
-                {
-                    "title" : "Paper Presentation",
-                    "description" : "<p><strong>“It's not just about great ideas, it is about making them happen.”</strong></p><p>An arena to showcase your talent and in-depth knowledge from your research areas, Paper presentation focuses on exposing your ideas to the world thereby facilitating transformation of seedling ideas to giant trees of innovation and progress.  We hope that our endeavor will play a significant part in providing the platform for deserving minds on an ever rising and never ending growth.</p>",
-                    "rules" :
-                    [
-                        "<strong>PRE-SELECTION PROCESS</strong><ul><li>TOPIC - Any topic related to civil engineering, preferably “Recent Advances in Civil Engineering”</li><li>Participants are requested to mail in their abstracts of 250-300 words in .pdf format and the title of the paper must be clearly stated.</li><li>The abstract should be mailed to paper2016civil@gmail.com on or before 29th August 2016 (11:59pm).</li><li>The selected abstracts will be intimated through e-mail and the selected participants should mail their entire paper in .pdf format with the subject as PAPER - *Title of paper* on or before 5th September 2016 (11:59pm).</li><li>Selected papers will be intimated through e-mail by 7th September, 2016 who will be qualified for the final round.</li></ul>",
-                        "<strong>FINAL ROUND:</strong><ul><li>The selected participants will get 8 minutes to present their paper and 3 minutes for answering questions on the day of event.</li><li>The participants are requested to bring their PowerPoint presentations in a pendrive on the day of presentation.</li><li>You will be judged for originality, innovation, clarity in presentation and adherence to time. </li><li> Note that all participants who took part in the event are requested to report at the venue on September 10, 2016 for collecting their participation certificates.</li></ul>",
-                        "<strong>RULES:</strong><ol><li>A team of 2-3 can participate.</li><li>Plagiarism should strictly be avoided. References made can be mentioned at the end of the paper.  </li><li>The paper should be in IEEE format (.pdf file). Papers not adhering to this format would be directly eliminated. </li><li>The mail should include the following details regarding all the participants: Full Name, Contact No, Email ID and College Name.</li><li>The selected candidates will have to present their papers on September 10, 2016 at SSN College of Engineering.</li><li>The Prize winning papers will get a chance to present their papers in the National Conference on ‘Recent Advances in Civil Engineering’ on 15th September, 2016 at SSN College of Engineering.</li></ol>"
-                    ],
-                    "venue" : "Class Room (Civil Department)",
-                    "timings" : [ "10th September 2016, 10.00 am - 12.30 pm" ],
-                    "heads" :
-                    [
-                        {
-                            "name" : "Rashmi Nagendran",
-                            "contacts" : [ "9840154511"	]
-                        },
-                        {
-                            "name" : "Srivatsan",
-                            "contacts" : [ "9003046191" ]
                         }
                     ]
                 },
@@ -1763,39 +1584,6 @@
                         {
                             "name" : "Gohila R",
                             "contacts" : [ "9003692305" ]
-                        }
-                    ]
-                },
-                {
-                    "title" : "Bridge - IT!",
-                    "description" : "Simple engineering with a twist of design, Bridge IT is one of the biggest hands on event of Invente. A challenging and fascinating problem statement to transform the sedentary into working models. This event is the real test of your creativity and knowledge with civil engineering putting your grey cells into work!",
-                    "rules" :
-                    [
-                        "The Event will consist of two rounds.<ul><li>The QUESTIONNAIRE Round</li><li>The FINALE</li></ul>",
-                        "The Questionnaire round is basically the prelims. Participants will be asked to take up a test where questions will be asked from topics related to Bridges, trusses etc. The test comprises multiple choice questions.",
-                        "Based on the marks obtained, selected participants will qualify to the next and the final round which is The FINALE.",
-                        "In the Finale, the participants will be asked to make models of bridges. The strength of the bridge will be tested by load application and the participant whose bridge withstands more load will be declared the winner.",
-                        "Only two students are permitted per team.",
-                        "All the materials needed for making the bridge will be provided by us.",
-                        "The dimensions of the bridge will be specified and participants should stick to   it.",
-                        "Load will be applied only on the deck of the bridge.",
-                        "Any participant violating all these rules will be disqualified."
-                    ],
-                    "venue" : "Drawing Hall (Civil Department)",
-                    "timings" :
-                    [
-                        "Prelims: 9th September 2016, 11.30 am - 12.30 pm",
-                        "Finals: 9th September 2016, 1.30 pm - 3.30 pm"
-                    ],
-                    "heads" :
-                    [
-                        {
-                            "name" : "Santhana Bharathi",
-                            "contacts" : [ "8870692685" ]
-                        },
-                        {
-                            "name" : "Priyanka",
-                            "contacts" : [ "9003114115" ]
                         }
                     ]
                 },
