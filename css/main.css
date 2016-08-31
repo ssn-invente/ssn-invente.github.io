@@ -504,23 +504,29 @@ html,body
     .six-6{left:70px; top:80px;}
 }
 
-/*.photo-grid{
-    margin-top: 100px;
+.team-grid{
+    margin-top: 50px;
+    margin-bottom : 50px;
+    text-align: center;
 }
 
-.photo-cell{
-    border: 1px solid #fefefe;
+.member-cell{
+    /*border: 1px solid #fefefe;*/
     padding : 20px;
 }
 
-.photo-cell-img{
-    height: 150px;
-    background: url("../img/logo.png") no-repeat;
-    background-size: contain;
-}*/
+.member-name{
+    color: #fefefe;
+    font-size: 1.3em;
+}
+
+.member-contact{
+    color: #f26739;
+}
 
 .footer{
     color: #cccecd;
+    background: #1d282e;
     font-family: 'Titillium Web', sans-serif;
 }
 
@@ -572,7 +578,7 @@ html,body
 .md:hover{color: #3CB371;}
 
 .attr-block{
-    background: #1d282e;
+    background: #121d21;
     padding: 20px;
     color: #cccecd;
 }
@@ -596,6 +602,14 @@ html,body
 }
 
 .credits a:focus,.credits a:hover{color: #f26739;}
+
+
+@media (max-width: 550px){
+    .social-link{
+        display: initial;
+        clear: left;
+    }
+}
 
 /* ==========================================================================
    Helper classes
