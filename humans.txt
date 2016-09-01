@@ -3,7 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sudar Abisheck -- Web Developer -- http://www.sudar.me
+    Pratheep Kumar C -- Designer -- https://www.behance.net/pratheepkumar1
+    Lordson Jacob -- Web Developer -- 
+    Muthu Annamalai -- Web Designer --
+    Akash Milton -- Web Designer -- 
 
 # THANKS
 

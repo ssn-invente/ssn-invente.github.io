@@ -51,7 +51,7 @@
 .md:hover{color: #3CB371;}
 
 .attr-block{
-    background: #1d282e;
+    background: #121d21;
     padding: 20px;
     color: #cccecd;
 }
@@ -76,7 +76,7 @@
 .credits a:focus,.credits a:hover{color: #f26739;}
 
 .fbg {
-    background-color:  #37484f;
+    background-color:  #1d282e;
 }
 
 @media (max-width: 550px){
