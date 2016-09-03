@@ -282,14 +282,16 @@
                 "venue" : "IT Department Software Engineering Lab (First floor)",
 				"timings" :
                 [
-                    "Round 1 (Prelims): 9th September 11.00am - 1.00pm",
-                    "Round 2 (Finals): 9th September 1.30pm - 3.30pm"
+                    "Round 1 (Prelims): 9th September 10.00am - 11.00am",
+                    "Round 2 (Finals): 9th September 12.30pm - 3.30pm"
                 ],
                 "rules" :
                 [
                     "This is a team event that consists of a maximum of 3 per team.",
-                    "Round 1: Basic Technical Pen and Paper Round with Questions on Android, Java and C++.",
-                    "Round 2: Application Development using any language you are comfortable with. The App developed must be useful, innovative and creative."
+                    "Round 1: Basic Technical Pen and Paper Round with Questions on Android, Java, Algorithms and Data Structures.",
+                    "Round 2: Application Development using any language you are comfortable with. The App developed must be useful, innovative and creative.",
+                    "Internet access and laptops will be allowed for Round 2.",
+                    "We will provide Android Studio 2.0 in the lab for Round 2. If you want to work in a different environment, please bring your own laptops"
                 ],
                 "heads" :
                 [
