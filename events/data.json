@@ -2,15 +2,15 @@
     "code it"  : [
 
 			{
-                "title" : "Codolympics",
-                "description" : "If you have started many a day with #include, said &quot;HELLO WORLD!&quot; in a bunch of different languages or if you believe coding is therapeutic, look no further, SSN Invente presents you with CodOlympics.<p style=\"font-size: 1.5em; text-align: center;\">Winners get internships at <img src=\"drawable/amazon.png\" alt=\"Amazon\" style=\"width: 120px; vertical-align: bottom;\"></img></p>",
+                "title" : "Codolympic",
+                "description" : "If you have started many a day with #include, said &quot;HELLO WORLD!&quot; in a bunch of different languages or if you believe coding is therapeutic, look no further, SSN Invente presents you with Codolympic.<p style=\"font-size: 1.5em; text-align: center;\">Winners get internships at <img src=\"drawable/amazon.png\" alt=\"Amazon\" style=\"width: 120px; vertical-align: bottom;\"></img></p>",
                 "rules" :
                 [
                     "Exactly 2 members in a team (Individual participation is not allowed)",
                     "Usage of internet is NOT allowed",
                     "Languages allowed: C, C++, Java",
                     "Round 1: Pen and Paper test. Basic Programming and Technical skills will be tested",
-                    "Round 2: Surprise rounds based on coding <strong>where each team member will be assessed individually.</strong> (So make sure you bring your &quot;twin coder&quot; :P)",
+                    "Round 2: Surprise rounds based on coding <strong>where each team member will be assessed individually.</strong> (So make sure you bring your &quot;twin coder&quot; &#x1f61b;)",
                     "Round 3: Surprise element",
                     "Decision taken by the event panel will be final"
                 ],
