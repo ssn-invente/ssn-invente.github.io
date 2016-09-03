@@ -266,6 +266,7 @@ body{
   width: initial;
   display: inline-block;
   width: 0px;
+  visibility: hidden;
 }
 
 .checkbox-desc-label, label.yesno-value  {
