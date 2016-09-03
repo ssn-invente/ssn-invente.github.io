@@ -28,16 +28,17 @@
                 },
     "bits please" : {
                         "title" : "Paper Presentation - IT",
-                        "description" : "<strong>“One of the advantages of being disorganized is that one is always having surprising discoveries.”</strong><br /><br />All innovations are born out of creativity. After all, the best designs of today’s technology started as mere blueprints. Even small creative ideas of individuals may prove to be the basis for tomorrow’s massive technologies. Here is a wonderful opportunity for the you to show case your talents.<br /><br />We want you to present your idea to us so that we can help you convert it to reality!",
+                        "description" : "<strong>“One of the advantages of being disorganized is that one is always having surprising discoveries.”</strong><br /><br />All innovations are born out of creativity. After all, the best designs of today’s technology started as mere blueprints. Even small creative ideas of individuals may prove to be the basis for tomorrow’s massive technologies. Here is a wonderful opportunity for the you to show case your talents.<br /><br />We want you to present your idea to us so that we can help you convert it to reality!<p>Topics: <ul><li>Wireless Communication and Networking</li><li>Web Services and Machine Intelligence</li><li>Information Security</li><li>Business Intelligence ERP</li><li>Speech and Image Processing</li><li>Data Mining and Data Warehousing</li><li>Distributed Systems</li><li>VoIP</li><li>RFID and Applications</li><li>Open Source Technologies</li><li>Digital Media Broadcasting</li><li>Security and Cloud Computing</li><li>Internet of Things</li><li>Big Data</li><li>Operating System</li></ul></p>",
                         "venue" : "IT Department Seminar Hall",
                         "timings" : [ "9th September 2016, 11.00 am" ],
-                        "rules" : [ "Topics: <ul><li>Wireless Communication and Networking</li><li>Web Services and Machine Intelligence</li><li>Information Security</li><li>Business Intelligence ERP</li><li>Speech and Image Processing</li><li>Data Mining and Data Warehousing</li><li>Distributed Systems</li><li>VoIP</li><li>RFID and Applications</li><li>Open Source Technologies</li><li>Digital Media Broadcasting</li><li>Security and Cloud Computing</li><li>Internet of Things</li><li>Big Data</li><li>Operating System</li></ul>",
+                        "rules" : 
+                        [
                         "Submitted manuscripts must be standard IEEE format.",
                         "Papers must not be published before anywhere or be under consideration for publication in any journal or conference.",
                         "Each Team may have up to 3 participants.",
                         "Submission must include title, abstract, keywords, author (s), affiliation (s) with phone number (s), and email address (ES).",
                         "The entries must be emailed to <strong>paperpresentationinvente@gmail.com</strong>",
-                        "Last date for submission is <strong>31 st August 2016</strong>. The hard deadline (maximum extension) is upto <strong>2nd September 2016</strong>."
+                        "<strong>Last date for submission has been extended to 6th September 2016</strong>."
                         ],
                         "heads" :
                         [
