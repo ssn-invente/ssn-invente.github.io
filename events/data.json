@@ -2,14 +2,25 @@
     "code it"  : [
 
 			{
-                "title" : "Open Programming",
-                "description" : "Code your way ahead as dawn meets dusk in this all day long coding event to prove the budding Zuckerberg in you. Model real world scenarios that can withstand the TEST OF TURING ..(:P)",
+                "title" : "Codolympics",
+                "description" : "If you have started many a day with #include, said &quot;HELLO WORLD!&quot; in a bunch of different languages or if you believe coding is therapeutic, look no further, SSN Invente presents you with CodOlympics.<p style=\"font-size: 1.5em; text-align: center;\">Winners get internships at <img src=\"drawable/amazon.png\" alt=\"Amazon\" style=\"width: 120px; vertical-align: bottom;\"></img></p>",
                 "rules" :
                 [
-                    "Maximum of 2 members per team"
+                    "Exactly 2 members in a team (Individual participation is not allowed)",
+                    "Usage of internet is NOT allowed",
+                    "Languages allowed: C, C++, Java",
+                    "Round 1: Pen and Paper test. Basic Programming and Technical skills will be tested",
+                    "Round 2: Surprise rounds based on coding <strong>where each team member will be assessed individually.</strong> (So make sure you bring your &quot;twin coder&quot; :P)",
+                    "Round 3: Surprise element",
+                    "Decision taken by the event panel will be final"
                 ],
-                "venue" : "CSE Department Software Engineering Lab and Java Technology Lab",
-                "timings" : [ "10th September 2016, 9.00 am" ],
+                "venue" : "<ul><li>Round 1 (Prelims): Library - System Programming Lab, Charles Babbage Lab, OS Lab and Networking Lab</li><li>Round 2, 3: Library - Charles Babbage Lab",
+                "timings" : 
+                [ 
+                    "Round 1 (Prelims): 9th September 2016, 11.00 am - 3.00 pm",
+                    "Round 2: 10th September 2016, 9.30 am - 11.30 am",
+                    "Round 3: 10th September 2016, 12.30 pm - 2.30 pm"
+                ],
                 "heads" :
                 [
                     {
@@ -172,9 +183,9 @@
                     "Time limit – 150 minutes.",
                     "Variable points for each problem solved based on difficulty (should pass all test cases).",
                     "Tie breakers will take into account wrong submissions and time taken.",
-                    "The contest will be held in Hackerrank platform. Each participant must have a Hackerrank account to participate.",
+                    "The contest will be held in <a href='http://www.hackerrank.com/paradigm-shift'>Hackerrank</a> platform. Each participant must have a Hackerrank account to participate.",
                     "Must be individual participation. No teams.",
-                    "The event is open to all college students, even students from SSN can participate.",
+                    "The event is open to all college students, except students from SSN.",
                     "Please <strong>register in our site with the same information that you have in your Hackerrank account. Only this way, you can win prizes</strong>.",
                     "Please do not discuss strategy, suggestions or tips in the comments during a live contest. Posting questions, clarifying the problem statement is allowed"
                 ],
@@ -322,34 +333,6 @@
                     {
                         "name" : "Gautham Krishna",
                         "contacts" : [ "9698141161" ]
-                    }
-                ]
-            },
-			{
-                "title" : "DigDBug",
-                "description" : "For all the Sherlock Holmes who always search through the clues, why not win prizes for that. SSN Invente 2K16 provides you opportunities to dig through the bugs in the code and win amazing prizes. And yes do remember that coding is your golden key to the castle of rewards.",
-                "rules" :
-                [
-                    "Round 1 (Chota Bug): Find the output of the given program and chota bugs present in the given code to enter the next round.",
-                    "Round 2 (GNIDOC): Yes. You have got it right. Reverse coding is all that you need, to walk away with exciting prizes.",
-                    "Only two per team. Individual participation is also allowed.",
-                    "Top 5 teams will go to Round 2."
-                ],
-                "venue" : "IT Department Von Neuman Lab (First floor)",
-				"timings" :
-                [
-                    "Round 1 (Prelims): 10th September 10.00am - 12.30pm",
-                    "Round 2 (Finals): 10th September 1.30pm - 3.30pm"
-                ],
-                "heads" :
-                [
-                    {
-                        "name" : "Dhanush",
-                        "contacts" : [ "9942699946" ]
-                    },
-                    {
-                        "name" : "Dhurga",
-                        "contacts" : [ "9566087205" ]
                     }
                 ]
             },
