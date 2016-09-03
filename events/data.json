@@ -1698,6 +1698,85 @@
                     "contacts" : [ "+91 9489534954" ]
                 }
             ]
-        } 
+        },
+        {
+            "title" : "Crazy Cricket",
+            "description" : "<p>Not the technical type of a person?</p><p>But a cricket lover instead?</p><p>Put no talent to waste. This is the perfect chance for you to showcase your cricketing skills here at Invente along with your friends and win cash prizes.</p><p>Don’t miss this wonderful opportunity. Be there!</p>",
+            "rules" : [ 
+                "A team must have 5 players.",
+                "Each team has to register with an entry fee of Rs. 50 to participate once.",
+                "A team can participate again by registering again.",
+                "A team can have both boys and girls.",
+                "Every player in the team has to bowl an over"
+            ],
+            "venue" : "Behind ECE Annexure block",
+            "timings" : [ "9th and 10th September 2016, 9.00 am - 4.00 pm" ],
+            "heads" :
+            [
+                {
+                    "name" : "Sasikumar",
+                    "contacts" : [ "+91 8939619640" ]
+                },
+                {
+                    "name" : "Sanjay Kumar",
+                    "contacts" : [ "+91 9003926434" ]
+                }
+            ]
+        },
+        {
+            "title" : "Gaming - NFS Most Wanted",
+            "description" : "To be Most Wanted, you’ll need to outrun the cops, outdrive your friends, and outsmart your rivals. With a relentless police force gunning to take you down, you’ll need to make split-second decisions. Your rivals will do everything they can to stop you from getting to the top. In this world, there can only be one Most Wanted.",
+            "rules" : [ 
+                "Tracks will be decided by the organisers",
+                "Any cars can be chosen",
+                "Round 1: The fastest 16 will make it to the next round",
+                "Round 2: 4 separate LAN games and the top 4 will make it to the Finale",
+                "Final Round: 1 LAN game for the finalists"
+            ],
+            "venue" : "IT Department - Alan Turing Lab",
+            "timings" : [ "9th and 10th September 2016" ],
+            "heads" :
+            [
+                {
+                    "name" : "Hariprathaap S",
+                    "contacts" : [ "+91 9487126029" ]
+                },
+                {
+                    "name" : "Jagadeesh R",
+                    "contacts" : [ "+91 7299129695" ]
+                }
+            ]
+        },
+        {
+            "title" : "Gaming - Counter Strike 1.6",
+            "description" : "Think you’re the fps king? Is the reload of a gun, music to your ears? Do you have what it takes to be crowned the ultimate champion? Bring your talents to Invente this year to battle it out in a timeless classic.",
+            "rules" : [ 
+                "Registration is valid throughout the first day",
+                "A team should consist of 5 members",
+                "The registration fee is 50rs per head ( 250 per team )",
+                "The event will be conducted in a bracket format",
+                "Each matchup will consist of 12 rounds, 6 as terrorists and 6 as counter-terrorists",
+                "Each round will be a 1 minute and 45 second cycle on a map",
+                "The first team to win 7 rounds out of 12 progresses to the next stage",
+                "In case of a tie, 6 extra rounds(3 as terrorists and 3 as counter-terrorists) will be conducted to decide the winner",
+                "The semi-final and final matchups will be a best of 3 maps",
+                "Sides will be decided by a coin toss",
+                "Players may bring their own mousepads and headphones, but keyboards and mice are prohibited",
+                "The organizers reserve the right to modify the rules at any time"
+            ],
+            "venue" : "IT Department - Operating Systems Lab",
+            "timings" : [ "9th and 10th September 2016" ],
+            "heads" :
+            [
+                {
+                    "name" : "Sivaprakasam",
+                    "contacts" : [ "+91 8939173541" ]
+                },
+                {
+                    "name" : "Vedanth",
+                    "contacts" : [ "+91 9384082572" ]
+                }
+            ]
+        }
     ] 
 }
