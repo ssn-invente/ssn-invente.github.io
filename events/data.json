@@ -71,14 +71,14 @@
                 "rules" :
                 [
                     "Not more than three members in a team.",
-          					"Students from different colleges can team-up.",
-          					"Usage of internet is NOT ALLOWED",
-          					"Decision taken by the panel will be final.",
-          					"Round 1: A set of not-so-technical not-so-non-technical MCQs to be solved in 20 minutes. Crack as many you can to get through this round!",
-          					"Round 2 and 3: Surprise rounds based on coding! (Before each round you will be given round details)"
+                    "Students from different colleges can team-up.",
+                    "Usage of internet is NOT ALLOWED",
+                    "Decision taken by the panel will be final.",
+                    "Round 1: A set of not-so-technical not-so-non-technical MCQs to be solved in 20 minutes. Crack as many you can to get through this round!",
+                    "Round 2 and 3: Surprise rounds based on coding! (Before each round you will be given round details)"
                 ],
                 "venue" : "Prelims - Class rooms and Finals - OS Lab (Library Block)",
-                "timings" : [ "10th September 2016, 11.00 am" ],
+                "timings" : [ "10th September 2016, 9.00 am" ],
                 "heads" :
                 [
                     {
