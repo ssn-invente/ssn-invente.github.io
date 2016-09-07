@@ -829,18 +829,25 @@ html,body
   padding: 20px 10px;
 }
 
+/*
 .bq:hover {
   background: #fefefe;
+}
+
+.bq:hover>h1 {
+  color:#d83f00;
+}
+*/
+
+.bq > p {
+    text-align: justify;
+    text-indent: 2em;
 }
 
 .bq>h1{
   font-weight: bold;
   font-size: 3.5em;
   text-transform: uppercase;
-}
-
-.bq:hover>h1 {
-  color:#d83f00;
 }
 
 
