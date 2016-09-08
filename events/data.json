@@ -123,12 +123,16 @@
                 [
                     "Max 3 per Team(each one should be registered )",
                     "Mixed teams are allowed",
-                    "Time Limit - 20 minutes",
+                    "Time Limit - 1 hour",
                     "Internet access allowed",
                     "Lone Wolves are welcome !!"
                 ],
                 "venue" : "CSE Department PG Lab - 3(Library Block)",
-                "timings" : [ "9th September 2016, 11.00 am" ],
+                "timings" : 
+                [
+                    "Prelims: 9th September 2016, 9.00 am - 1.00 pm",
+                    "Finals: 9th September 2016, 2.00 pm - 3.00 pm" 
+                ],
                 "heads" :
                 [
                     {
